@@ -1,0 +1,11 @@
+{
+  "product": "Slack",
+  "platform": "linux",
+  "version": "4.43.52",
+  "publication_date": "Thu, 17 Apr 2025 00:00:00 -0700",
+  "url": "https://slack.com/release-notes/linux#8166",
+  "content_links": [
+    "https://snapcraft.io/slack"
+  ],
+  "last_checked": "2025-06-16T12:46:07.548791"
+}

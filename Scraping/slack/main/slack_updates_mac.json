@@ -1,0 +1,12 @@
+{
+  "product": "Slack",
+  "platform": "mac",
+  "version": "4.44.65",
+  "publication_date": "Mon, 09 Jun 2025 00:00:00 -0700",
+  "url": "https://slack.com/release-notes/osx#8559",
+  "content_links": [
+    "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.44.65/Slack-4.44.65-macOS.dmg",
+    "https://downloads.slack-edge.com/desktop-releases/mac/universal/4.44.65/Slack-4.44.65-macOS.pkg"
+  ],
+  "last_checked": "2025-06-16T12:46:06.525605"
+}

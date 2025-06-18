@@ -1,0 +1,170 @@
+[
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-aix-ppc64.tar.gz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-aix-ppc64.tar.gz",
+        "platform": "AIX"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-arm64.msi",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-arm64.msi",
+        "platform": "Windows"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-darwin-arm64.tar.gz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-darwin-arm64.tar.gz",
+        "platform": "macOS"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-darwin-arm64.tar.xz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-darwin-arm64.tar.xz",
+        "platform": "macOS"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-darwin-x64.tar.gz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-darwin-x64.tar.gz",
+        "platform": "macOS"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-darwin-x64.tar.xz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-darwin-x64.tar.xz",
+        "platform": "macOS"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-headers.tar.gz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-headers.tar.gz",
+        "platform": "Unknown"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-headers.tar.xz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-headers.tar.xz",
+        "platform": "Unknown"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-linux-arm64.tar.gz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-linux-arm64.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-linux-arm64.tar.xz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-linux-arm64.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-linux-ppc64le.tar.gz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-linux-ppc64le.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-linux-ppc64le.tar.xz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-linux-ppc64le.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-linux-s390x.tar.gz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-linux-s390x.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-linux-s390x.tar.xz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-linux-s390x.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-linux-x64.tar.gz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-linux-x64.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-linux-x64.tar.xz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-linux-x64.tar.xz",
+        "platform": "Linux"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-win-arm64.7z",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-win-arm64.7z",
+        "platform": "Windows"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-win-arm64.zip",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-win-arm64.zip",
+        "platform": "Windows"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-win-x64.7z",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-win-x64.7z",
+        "platform": "Windows"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-win-x64.zip",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-win-x64.zip",
+        "platform": "Windows"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0-x64.msi",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0-x64.msi",
+        "platform": "Windows"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0.pkg",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0.pkg",
+        "platform": "macOS"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0.tar.gz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0.tar.gz",
+        "platform": "Unknown"
+    },
+    {
+        "product": "Node.js",
+        "version": "24.2.0",
+        "text": "node-v24.2.0.tar.xz",
+        "url": "https://nodejs.org/dist/latest/node-v24.2.0.tar.xz",
+        "platform": "Unknown"
+    }
+]

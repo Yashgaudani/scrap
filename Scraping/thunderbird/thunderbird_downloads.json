@@ -1,0 +1,58 @@
+[
+    {
+        "product": "Thunderbird",
+        "version": "139.0.2",
+        "file name": "Thunderbird Setup 139.0.2.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/139.0.2/win64/uk/Thunderbird Setup 139.0.2.exe",
+        "platform": "Windows 64-bit"
+    },
+    {
+        "product": "Thunderbird",
+        "version": "139.0.2",
+        "file name": "Thunderbird Setup 139.0.2.msi",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/139.0.2/win64/uk/Thunderbird Setup 139.0.2.msi",
+        "platform": "Windows 64-bit"
+    },
+    {
+        "product": "Thunderbird",
+        "version": "139.0.2",
+        "file name": "Thunderbird Setup 139.0.2.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/139.0.2/win32/uk/Thunderbird Setup 139.0.2.exe",
+        "platform": "Windows 32-bit"
+    },
+    {
+        "product": "Thunderbird",
+        "version": "139.0.2",
+        "file name": "Thunderbird Setup 139.0.2.msi",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/139.0.2/win32/uk/Thunderbird Setup 139.0.2.msi",
+        "platform": "Windows 32-bit"
+    },
+    {
+        "product": "Thunderbird",
+        "version": "139.0.2",
+        "file name": "Thunderbird 139.0.2.dmg",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/139.0.2/mac/uk/Thunderbird 139.0.2.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "Thunderbird",
+        "version": "139.0.2",
+        "file name": "Thunderbird 139.0.2.pkg",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/139.0.2/mac/uk/Thunderbird 139.0.2.pkg",
+        "platform": "macOS"
+    },
+    {
+        "product": "Thunderbird",
+        "version": "139.0.2",
+        "file name": "thunderbird-139.0.2.tar.xz",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/139.0.2/linux-x86_64/uk/thunderbird-139.0.2.tar.xz",
+        "platform": "Linux 64-bit"
+    },
+    {
+        "product": "Thunderbird",
+        "version": "139.0.2",
+        "file name": "thunderbird-139.0.2.tar.xz.asc",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/139.0.2/linux-x86_64/uk/thunderbird-139.0.2.tar.xz.asc",
+        "platform": "Linux 64-bit"
+    }
+]

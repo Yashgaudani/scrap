@@ -1,0 +1,51 @@
+[
+  {
+    "product": "GIMP",
+    "version": "3.0.4",
+    "text": "gimp-3.0.4-setup.exe",
+    "url": "https://download.gimp.org/gimp/v3.0/windows/gimp-3.0.4-setup.exe",
+    "platform": "Windows"
+  },
+  {
+    "product": "GIMP",
+    "version": "3.0.4",
+    "text": "gimp-3.0.4-arm64-plugin-developer.dmg",
+    "url": "https://download.gimp.org/gimp/v3.0/macos/gimp-3.0.4-arm64-plugin-developer.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "GIMP",
+    "version": "3.0.4",
+    "text": "gimp-3.0.4-arm64.dmg",
+    "url": "https://download.gimp.org/gimp/v3.0/macos/gimp-3.0.4-arm64.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "GIMP",
+    "version": "3.0.4",
+    "text": "gimp-3.0.4-x86_64-plugin-developer.dmg",
+    "url": "https://download.gimp.org/gimp/v3.0/macos/gimp-3.0.4-x86_64-plugin-developer.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "GIMP",
+    "version": "3.0.4",
+    "text": "gimp-3.0.4-x86_64.dmg",
+    "url": "https://download.gimp.org/gimp/v3.0/macos/gimp-3.0.4-x86_64.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "GIMP",
+    "version": "3.0.4",
+    "text": "GIMP-3.0.4-aarch64.AppImage",
+    "url": "https://download.gimp.org/gimp/v3.0/linux/GIMP-3.0.4-aarch64.AppImage",
+    "platform": "Linux"
+  },
+  {
+    "product": "GIMP",
+    "version": "3.0.4",
+    "text": "GIMP-3.0.4-x86_64.AppImage",
+    "url": "https://download.gimp.org/gimp/v3.0/linux/GIMP-3.0.4-x86_64.AppImage",
+    "platform": "Linux"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "product": "Git for Windows",
+    "file_name": "Git-2.49.0-64-bit.exe",
+    "version": "2.49.0.windows.1",
+    "text": "Git-2.49.0-64-bit.exe",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "Git-2.49.0-64-bit.tar.bz2",
+    "version": "2.49.0.windows.1",
+    "text": "Git-2.49.0-64-bit.tar.bz2",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.tar.bz2",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "Git-2.49.0-arm64.exe",
+    "version": "2.49.0.windows.1",
+    "text": "Git-2.49.0-arm64.exe",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-arm64.exe",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "Git-2.49.0-arm64.tar.bz2",
+    "version": "2.49.0.windows.1",
+    "text": "Git-2.49.0-arm64.tar.bz2",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-arm64.tar.bz2",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "MinGit-2.49.0-32-bit.zip",
+    "version": "2.49.0.windows.1",
+    "text": "MinGit-2.49.0-32-bit.zip",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/MinGit-2.49.0-32-bit.zip",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "MinGit-2.49.0-64-bit.zip",
+    "version": "2.49.0.windows.1",
+    "text": "MinGit-2.49.0-64-bit.zip",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/MinGit-2.49.0-64-bit.zip",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "MinGit-2.49.0-arm64.zip",
+    "version": "2.49.0.windows.1",
+    "text": "MinGit-2.49.0-arm64.zip",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/MinGit-2.49.0-arm64.zip",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "MinGit-2.49.0-busybox-32-bit.zip",
+    "version": "2.49.0.windows.1",
+    "text": "MinGit-2.49.0-busybox-32-bit.zip",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/MinGit-2.49.0-busybox-32-bit.zip",
+    "platform": "Windows 32-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "MinGit-2.49.0-busybox-64-bit.zip",
+    "version": "2.49.0.windows.1",
+    "text": "MinGit-2.49.0-busybox-64-bit.zip",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/MinGit-2.49.0-busybox-64-bit.zip",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "pdbs-for-git-64-bit-2.49.0.1.cca1f38702-1.zip",
+    "version": "2.49.0.windows.1",
+    "text": "pdbs-for-git-64-bit-2.49.0.1.cca1f38702-1.zip",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/pdbs-for-git-64-bit-2.49.0.1.cca1f38702-1.zip",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "pdbs-for-git-arm64-2.49.0.1.cca1f38702-1.zip",
+    "version": "2.49.0.windows.1",
+    "text": "pdbs-for-git-arm64-2.49.0.1.cca1f38702-1.zip",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/pdbs-for-git-arm64-2.49.0.1.cca1f38702-1.zip",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "PortableGit-2.49.0-64-bit.7z.exe",
+    "version": "2.49.0.windows.1",
+    "text": "PortableGit-2.49.0-64-bit.7z.exe",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/PortableGit-2.49.0-64-bit.7z.exe",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "PortableGit-2.49.0-arm64.7z.exe",
+    "version": "2.49.0.windows.1",
+    "text": "PortableGit-2.49.0-arm64.7z.exe",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/PortableGit-2.49.0-arm64.7z.exe",
+    "platform": "Windows 64-bit"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "v2.49.0.windows.1.zip",
+    "version": "2.49.0.windows.1",
+    "text": "Source code\n(zip)",
+    "url": "https://github.com/git-for-windows/git/archive/refs/tags/v2.49.0.windows.1.zip",
+    "platform": "Unknown"
+  },
+  {
+    "product": "Git for Windows",
+    "file_name": "v2.49.0.windows.1.tar.gz",
+    "version": "2.49.0.windows.1",
+    "text": "Source code\n(tar.gz)",
+    "url": "https://github.com/git-for-windows/git/archive/refs/tags/v2.49.0.windows.1.tar.gz",
+    "platform": "Unknown"
+  }
+]
