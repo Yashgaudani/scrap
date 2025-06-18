@@ -1,0 +1,11 @@
+{
+  "product": "fiddler",
+  "version": "5.0.0",
+  "text": "Fiddler Everywhere",
+  "platforms": {
+    "windows": "https://downloads.getfiddler.com/win/Fiddler%20Everywhere%205.0.0.exe",
+    "mac_intel": "https://downloads.getfiddler.com/mac/Fiddler%20Everywhere%205.0.0.dmg",
+    "mac_arm64": "https://downloads.getfiddler.com/mac-arm64/Fiddler%20Everywhere%205.0.0.dmg",
+    "linux": "https://downloads.getfiddler.com/linux/fiddler-everywhere-5.0.0.AppImage"
+  }
+}

@@ -1,0 +1,12 @@
+2025-06-18 15:37:04,728 - __main__ - INFO - Starting scraper: Fiddler
+2025-06-18 15:37:05,280 - __main__ - ERROR - Scraping function not found in Fiddler. Tried: scrape_fiddler
+2025-06-18 15:38:42,700 - __main__ - INFO - Starting scraper: Fiddler
+2025-06-18 15:38:44,178 - __main__ - INFO - Successfully completed Fiddler scraper in 1.48s
+2025-06-18 15:39:36,876 - __main__ - INFO - Starting scraper: Fiddler
+2025-06-18 15:39:37,472 - __main__ - INFO - Successfully completed Fiddler scraper in 0.60s
+2025-06-18 15:41:51,519 - __main__ - INFO - Starting scraper: putty
+2025-06-18 15:41:52,753 - __main__ - INFO - Successfully completed putty scraper in 1.23s
+2025-06-18 15:42:08,241 - __main__ - INFO - Starting scraper: putty
+2025-06-18 15:42:09,022 - __main__ - INFO - Successfully completed putty scraper in 0.78s
+2025-06-18 15:42:41,664 - __main__ - INFO - Starting scraper: putty
+2025-06-18 15:42:42,422 - __main__ - INFO - Successfully completed putty scraper in 0.76s
