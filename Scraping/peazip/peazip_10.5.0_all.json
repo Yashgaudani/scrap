@@ -1,0 +1,44 @@
+[
+  {
+    "product": "PeaZip",
+    "version": "10.5.0",
+    "text": "peazip-10.5.0.DARWIN.aarch64.dmg",
+    "url": "https://github.com/peazip/PeaZip/releases/download/10.5.0/peazip-10.5.0.DARWIN.aarch64.dmg",
+    "platform": "macOS (aarch64)"
+  },
+  {
+    "product": "PeaZip",
+    "version": "10.5.0",
+    "text": "peazip-10.5.0.DARWIN.x86_64.dmg",
+    "url": "https://github.com/peazip/PeaZip/releases/download/10.5.0/peazip-10.5.0.DARWIN.x86_64.dmg",
+    "platform": "macOS (Intel)"
+  },
+  {
+    "product": "PeaZip",
+    "version": "10.5.0",
+    "text": "peazip-10.5.0.WIN64.exe",
+    "url": "https://github.com/peazip/PeaZip/releases/download/10.5.0/peazip-10.5.0.WIN64.exe",
+    "platform": "Windows x64"
+  },
+  {
+    "product": "PeaZip",
+    "version": "10.5.0",
+    "text": "peazip-10.5.0.WINDOWS.exe",
+    "url": "https://github.com/peazip/PeaZip/releases/download/10.5.0/peazip-10.5.0.WINDOWS.exe",
+    "platform": "Windows x86"
+  },
+  {
+    "product": "PeaZip",
+    "version": "10.5.0",
+    "text": "peazip_portable-10.5.0.LINUX.GTK2.aarch64.tar.gz",
+    "url": "https://github.com/peazip/PeaZip/releases/download/10.5.0/peazip_portable-10.5.0.LINUX.GTK2.aarch64.tar.gz",
+    "platform": "Linux (aarch64 portable)"
+  },
+  {
+    "product": "PeaZip",
+    "version": "10.5.0",
+    "text": "peazip_portable-10.5.0.LINUX.GTK2.x86_64.tar.gz",
+    "url": "https://github.com/peazip/PeaZip/releases/download/10.5.0/peazip_portable-10.5.0.LINUX.GTK2.x86_64.tar.gz",
+    "platform": "Linux (x86_64 portable)"
+  }
+]

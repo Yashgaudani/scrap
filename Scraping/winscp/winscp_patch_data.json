@@ -1,0 +1,44 @@
+[
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "text": "WinSCP-6.5.1.msi",
+        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1.msi/download",
+        "platform": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "text": "WinSCP-6.5.1-Source.zip",
+        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1-Source.zip/download",
+        "platform": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "text": "WinSCP-6.5.1-Setup.exe",
+        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1-Setup.exe/download",
+        "platform": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "text": "WinSCP-6.5.1-ReadMe.txt",
+        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1-ReadMe.txt/download",
+        "platform": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "text": "WinSCP-6.5.1-Portable.zip",
+        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1-Portable.zip/download",
+        "platform": "Windows"
+    },
+    {
+        "product": "WinSCP",
+        "version": "6.5.1",
+        "text": "WinSCP-6.5.1-Automation.zip",
+        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.1/WinSCP-6.5.1-Automation.zip/download",
+        "platform": "Windows"
+    }
+]

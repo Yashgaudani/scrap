@@ -1,0 +1,16 @@
+[
+    {
+        "product": "MobaXterm",
+        "file_name": "MobaXterm_Portable_v25.2.zip",
+        "version": "25.2",
+        "download_url": "https://download.mobatek.net/2522025040602403/MobaXterm_Portable_v25.2.zip",
+        "platform": "Windows"
+    },
+    {
+        "product": "MobaXterm",
+        "file_name": "MobaXterm_Portable_v25.1.zip",
+        "version": "25.1",
+        "download_url": "https://download.mobatek.net/2512025030285413/MobaXterm_Portable_v25.1.zip",
+        "platform": "Windows"
+    }
+]
