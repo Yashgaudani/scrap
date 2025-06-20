@@ -12,3 +12,13 @@
 2025-06-18 15:42:42,422 - __main__ - INFO - Successfully completed putty scraper in 0.76s
 2025-06-18 15:46:40,076 - __main__ - INFO - Starting scraper: Fiddler
 2025-06-18 15:46:40,510 - __main__ - INFO - Successfully completed Fiddler scraper in 0.43s
+2025-06-18 16:19:44,267 - __main__ - INFO - Starting scraper: Fiddler
+2025-06-18 16:19:44,849 - __main__ - INFO - Successfully completed Fiddler scraper in 0.58s
+2025-06-18 16:20:02,165 - __main__ - INFO - Starting scraper: Fiddler
+2025-06-18 16:20:02,516 - __main__ - INFO - Successfully completed Fiddler scraper in 0.35s
+2025-06-18 17:18:14,032 - __main__ - INFO - Starting scraper: git
+2025-06-18 17:18:16,067 - __main__ - ERROR - Scraping function not found in git. Tried: scrape_git
+2025-06-18 17:19:45,552 - __main__ - INFO - Starting scraper: git
+2025-06-18 17:19:47,919 - __main__ - ERROR - Scraping function not found in git. Tried: scrape_git
+2025-06-18 17:22:12,510 - __main__ - INFO - Starting scraper: git
+2025-06-18 17:22:14,415 - __main__ - INFO - Successfully completed git scraper in 1.90s

@@ -1,0 +1,30 @@
+[
+    {
+        "product": "openvpn",
+        "version": "2.6.14",
+        "text": "OpenVPN-2.6.14-I001-amd64.msi",
+        "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.14-I001-amd64.msi",
+        "platform": "Windows"
+    },
+    {
+        "product": "openvpn",
+        "version": "2.6.14",
+        "text": "OpenVPN-2.6.14-I001-arm64.msi",
+        "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.14-I001-arm64.msi",
+        "platform": "Windows"
+    },
+    {
+        "product": "openvpn",
+        "version": "2.6.14",
+        "text": "OpenVPN-2.6.14-I001-x86.msi",
+        "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.14-I001-x86.msi",
+        "platform": "Windows"
+    },
+    {
+        "product": "openvpn",
+        "version": "2.6.14",
+        "text": "openvpn-2.6.14.tar.gz",
+        "url": "https://swupdate.openvpn.org/community/releases/openvpn-2.6.14.tar.gz",
+        "platform": "Linux"
+    }
+]
