@@ -1,0 +1,58 @@
+[
+  {
+    "product": "balsamiq-wireframes",
+    "version": "4.8.4",
+    "text": "Download for Mac \u2013 Intel or Apple Silicon (macOS DMG)",
+    "url": "https://builds.balsamiq.com/bwd/Balsamiq Wireframes 4.8.4.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "balsamiq-wireframes",
+    "version": "4.8.4",
+    "text": "Download ZIP Archive",
+    "url": "https://builds.balsamiq.com/bwd/Balsamiq Wireframes 4.8.4.zip",
+    "platform": "Cross-platform"
+  },
+  {
+    "product": "balsamiq-wireframes",
+    "version": "4.8.4",
+    "text": "Download for Windows x64 (Setup EXE)",
+    "url": "https://builds.balsamiq.com/bwd/Balsamiq_Wireframes_4.8.4_x64_Setup.exe",
+    "platform": "Windows"
+  },
+  {
+    "product": "balsamiq-wireframes",
+    "version": "4.8.4",
+    "text": "Download for Windows x64 (MSI Installer)",
+    "url": "https://builds.balsamiq.com/bwd/Balsamiq_Wireframes_4.8.4_x64_Setup.msi",
+    "platform": "Windows"
+  },
+  {
+    "product": "balsamiq-wireframes",
+    "version": "4.8.4",
+    "text": "Download for Windows x86 (Setup EXE)",
+    "url": "https://builds.balsamiq.com/bwd/Balsamiq_Wireframes_4.8.4_x86_Setup.exe",
+    "platform": "Windows"
+  },
+  {
+    "product": "balsamiq-wireframes",
+    "version": "4.8.4",
+    "text": "Download for Windows x86 (MSI Installer)",
+    "url": "https://builds.balsamiq.com/bwd/Balsamiq_Wireframes_4.8.4_x86_Setup.msi",
+    "platform": "Windows"
+  },
+  {
+    "product": "balsamiq-wireframes",
+    "version": "unknown",
+    "text": "Download File",
+    "url": "https://builds.balsamiq.com/bwd/mac.jsonp",
+    "platform": "Unknown"
+  },
+  {
+    "product": "balsamiq-wireframes",
+    "version": "unknown",
+    "text": "Download File",
+    "url": "https://builds.balsamiq.com/bwd/win.jsonp",
+    "platform": "Unknown"
+  }
+]

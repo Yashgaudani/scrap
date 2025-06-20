@@ -1,0 +1,86 @@
+[
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "OBS-Studio-31.0.3-macOS-Apple-dSYMs.tar.xz",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-macOS-Apple-dSYMs.tar.xz",
+        "platform": "macOS"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "OBS-Studio-31.0.3-macOS-Apple.dmg",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-macOS-Apple.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "OBS-Studio-31.0.3-macOS-Intel-dSYMs.tar.xz",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-macOS-Intel-dSYMs.tar.xz",
+        "platform": "macOS"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "OBS-Studio-31.0.3-macOS-Intel.dmg",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-macOS-Intel.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "OBS-Studio-31.0.3-Sources.tar.gz",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-Sources.tar.gz",
+        "platform": "Other"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "OBS-Studio-31.0.3-Ubuntu-24.04-x86_64-dbsym.ddeb",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-Ubuntu-24.04-x86_64-dbsym.ddeb",
+        "platform": "Ubuntu"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "OBS-Studio-31.0.3-Ubuntu-24.04-x86_64.deb",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-Ubuntu-24.04-x86_64.deb",
+        "platform": "Ubuntu"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "OBS-Studio-31.0.3-Windows-Installer.exe",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-Windows-Installer.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "OBS-Studio-31.0.3-Windows-PDBs.zip",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-Windows-PDBs.zip",
+        "platform": "Windows"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "OBS-Studio-31.0.3-Windows.zip",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/OBS-Studio-31.0.3-Windows.zip",
+        "platform": "Windows"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "obs-studio_31.0.3-0obsproject1.noble_amd64.deb",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/obs-studio_31.0.3-0obsproject1.noble_amd64.deb",
+        "platform": "Other"
+    },
+    {
+        "product": "OBS Studio",
+        "version": "31.0.3",
+        "text": "obs-studio_31.0.3-0obsproject1.oracular_amd64.deb",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/31.0.3/obs-studio_31.0.3-0obsproject1.oracular_amd64.deb",
+        "platform": "Other"
+    }
+]
