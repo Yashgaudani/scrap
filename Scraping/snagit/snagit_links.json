@@ -1,0 +1,16 @@
+[
+    {
+        "product": "snagit",
+        "version": "unknown",
+        "text": "snagit.exe",
+        "url": "https://download.techsmith.com/snagit/releases/snagit.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "snagit",
+        "version": "unknown",
+        "text": "snagit.dmg",
+        "url": "https://download.techsmith.com/snagitmac/releases/snagit.dmg",
+        "platform": "macOS"
+    }
+]

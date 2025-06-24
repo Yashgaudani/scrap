@@ -1,0 +1,107 @@
+[
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "Windows\u00a0Installer",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/VirtualBox-7.1.10-169112-Win.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "dmg\u00a0Image",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/VirtualBox-7.1.10-169112-OSX.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "dmg\u00a0Image",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/VirtualBox-7.1.10-169112-macOSArm64.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "deb\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/virtualbox-7.1_7.1.10-169112~Ubuntu~noble_amd64.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "deb\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/virtualbox-7.1_7.1.10-169112~Ubuntu~jammy_amd64.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "deb\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/virtualbox-7.1_7.1.10-169112~Ubuntu~focal_amd64.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "deb\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/virtualbox-7.1_7.1.10-169112~Debian~bookworm_amd64.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "deb\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/virtualbox-7.1_7.1.10-169112~Debian~bullseye_amd64.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "rpm\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/VirtualBox-7.1-7.1.10_169112_openSUSE153-1.x86_64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "rpm\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/VirtualBox-7.1-7.1.10_169112_openSUSE156-1.x86_64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "rpm\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/VirtualBox-7.1-7.1.10_169112_fedora40-1.x86_64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "rpm\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/VirtualBox-7.1-7.1.10_169112_fedora36-1.x86_64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "rpm\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/VirtualBox-7.1-7.1.10_169112_el9-1.x86_64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "rpm\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/VirtualBox-7.1-7.1.10_169112_el8-1.x86_64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "VirtualBox",
+        "version": "7.1.10",
+        "text": "rpm\u00a0Package",
+        "url": "https://download.virtualbox.org/virtualbox/7.1.10/virtualbox-7.1_7.1.10-169112~Ubuntu~oracular_amd64.deb",
+        "platform": "Linux"
+    }
+]

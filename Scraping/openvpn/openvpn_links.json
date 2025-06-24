@@ -1,0 +1,194 @@
+[
+    {
+        "text": "Community",
+        "url": "https://openvpn.net/community/"
+    },
+    {
+        "text": "Book a Demo",
+        "url": "https://hs.openvpn.net/request-demo"
+    },
+    {
+        "text": "Log In",
+        "url": "https://myaccount.openvpn.com/signin/product-select"
+    },
+    {
+        "text": "Sign Up",
+        "url": "https://myaccount.openvpn.com/signup"
+    },
+    {
+        "text": "Home",
+        "url": "https://openvpn.net/"
+    },
+    {
+        "text": "Downloads",
+        "url": "https://openvpn.net/client"
+    },
+    {
+        "text": "Download .msi",
+        "url": "https://openvpn.net/downloads/openvpn-connect-v3-windows.msi"
+    },
+    {
+        "text": "View Installation Guide & Alternative Versions",
+        "url": "https://openvpn.net/connect-docs/connect-for-windows.html"
+    },
+    {
+        "text": "Check what\u00e2\u0080\u0099s new",
+        "url": "https://openvpn.net/connect-docs/windows-release-notes-56882.html"
+    },
+    {
+        "text": "Access Server\u00e2\u0080\u0099s",
+        "url": "https://openvpn.net/as-docs/first-time-admin-web-ui.html#access-server-s-web-uis"
+    },
+    {
+        "text": "CloudConnexa\u00e2\u0080\u0099s",
+        "url": "https://openvpn.net/connect-docs/get-cloudconnexa-connection-profile.html"
+    },
+    {
+        "text": "Get Started Free",
+        "url": "https://myaccount.openvpn.com/signup"
+    },
+    {
+        "text": "pfSense",
+        "url": "https://openvpn.net/cloud-docs/tutorials/configuration-tutorials/connectors/routers/tutorial--configure-a-pfsense-router-to-connect-to-cloudconnexa.html"
+    },
+    {
+        "text": "OpenWrt",
+        "url": "https://openvpn.net/cloud-docs/tutorials/configuration-tutorials/connectors/routers/tutorial--configure-an-openwrt-router-to-connect-to-cloudconnexa.html"
+    },
+    {
+        "text": "DD-WRT",
+        "url": "https://openvpn.net/cloud-docs/tutorials/configuration-tutorials/connectors/routers/tutorial--configure-a-dd-wrt-router-to-connect-to-cloudconnexa.html"
+    },
+    {
+        "text": "Access Server",
+        "url": "https://openvpn.net/access-server"
+    },
+    {
+        "text": "Plugins",
+        "url": "https://openvpn.net/access-server/plugins"
+    },
+    {
+        "text": "Release Notes",
+        "url": "https://openvpn.net/vpn-server-resources/release-notes"
+    },
+    {
+        "text": "Documentation",
+        "url": "https://openvpn.net/vpn-server-resources"
+    },
+    {
+        "text": "CloudConnexa\u00c2\u00ae",
+        "url": "https://openvpn.net/cloud-vpn"
+    },
+    {
+        "text": "Features",
+        "url": "https://openvpn.net/cloud-vpn/features"
+    },
+    {
+        "text": "Cyber Shield",
+        "url": "https://openvpn.net/cloud-vpn/cyber-shield"
+    },
+    {
+        "text": "Quick Start Guide",
+        "url": "https://openvpn.net/cloud-vpn/quick-start"
+    },
+    {
+        "text": "Documentation",
+        "url": "https://openvpn.net/cloud-docs"
+    },
+    {
+        "text": "Company",
+        "url": "https://openvpn.net/about"
+    },
+    {
+        "text": "About Us",
+        "url": "https://openvpn.net/about"
+    },
+    {
+        "text": "Careers",
+        "url": "https://openvpn.net/about/careers"
+    },
+    {
+        "text": "Newsroom",
+        "url": "https://openvpn.net/about/media"
+    },
+    {
+        "text": "Compliance",
+        "url": "https://openvpn.net/openvpn-compliance"
+    },
+    {
+        "text": "Contact",
+        "url": "https://openvpn.net/contact"
+    },
+    {
+        "text": "Resources",
+        "url": "https://openvpn.net/resource-center"
+    },
+    {
+        "text": "Support Center",
+        "url": "https://support.openvpn.com/hc/en-us"
+    },
+    {
+        "text": "What is a VPN?",
+        "url": "https://openvpn.net/what-is-a-vpn"
+    },
+    {
+        "text": "Resource Center",
+        "url": "https://openvpn.net/resource-center"
+    },
+    {
+        "text": "OpenVPN Referral Program",
+        "url": "https://affiliate.openvpn.com/signup/27008"
+    },
+    {
+        "text": "Use Cases",
+        "url": "https://openvpn.net/solutions/use-cases/"
+    },
+    {
+        "text": "Secure Remote Access",
+        "url": "https://openvpn.net/solutions/use-cases/secure-remote-access/"
+    },
+    {
+        "text": "Secure IoT Communications",
+        "url": "https://openvpn.net/solutions/use-cases/iot-communications/"
+    },
+    {
+        "text": "Protect Access to SaaS Apps",
+        "url": "https://openvpn.net/solutions/use-cases/protecting-access-to-saas/"
+    },
+    {
+        "text": "Site-to-Site Networking",
+        "url": "https://openvpn.net/solutions/use-cases/site-to-site-networking/"
+    },
+    {
+        "text": "Enforce Zero Trust Access",
+        "url": "https://openvpn.net/solutions/use-cases/enforcing-zero-trust/"
+    },
+    {
+        "text": "Secure DNS",
+        "url": "https://openvpn.net/solutions/use-cases/secure-dns/"
+    },
+    {
+        "text": "Restricted Internet Access",
+        "url": "https://openvpn.net/solutions/use-cases/restricted-internet-access/"
+    },
+    {
+        "text": "Business VPNs Built to Scale",
+        "url": "https://openvpn.net/solutions/use-cases/business-vpn/"
+    },
+    {
+        "text": "Secure Web Gateway Solutions",
+        "url": "https://openvpn.net/solutions/use-cases/secure-web-gateway/"
+    },
+    {
+        "text": "Service Status",
+        "url": "https://status.openvpn.com/"
+    },
+    {
+        "text": "Privacy Policy",
+        "url": "https://openvpn.net/privacy-policy"
+    },
+    {
+        "text": "Legal",
+        "url": "https://openvpn.net/legal"
+    }
+]

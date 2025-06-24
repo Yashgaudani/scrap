@@ -1,0 +1,414 @@
+[
+    {
+        "text": "terms of service",
+        "url": "https://www.sejda.com/terms"
+    },
+    {
+        "text": "privacy policy",
+        "url": "https://www.sejda.com/privacy"
+    },
+    {
+        "text": "Switch to English?",
+        "url": "javascript://"
+    },
+    {
+        "text": "Mudar para Portugu\u00eas?",
+        "url": "javascript://"
+    },
+    {
+        "text": "Sejda",
+        "url": "https://www.sejda.com/"
+    },
+    {
+        "text": "All Tools",
+        "url": "javascript://"
+    },
+    {
+        "text": "Compress",
+        "url": "https://www.sejda.com/compress-pdf"
+    },
+    {
+        "text": "Edit",
+        "url": "https://www.sejda.com/pdf-editor"
+    },
+    {
+        "text": "Fill & Sign",
+        "url": "https://www.sejda.com/sign-pdf"
+    },
+    {
+        "text": "Merge",
+        "url": "https://www.sejda.com/merge-pdf"
+    },
+    {
+        "text": "Delete Pages",
+        "url": "https://www.sejda.com/delete-pdf-pages"
+    },
+    {
+        "text": "Crop",
+        "url": "https://www.sejda.com/crop-pdf"
+    },
+    {
+        "text": "Pricing",
+        "url": "https://www.sejda.com/desktop#pricing"
+    },
+    {
+        "text": "Desktop",
+        "url": "https://www.sejda.com/desktop"
+    },
+    {
+        "text": "Log in",
+        "url": "https://www.sejda.com/login"
+    },
+    {
+        "text": "Account",
+        "url": "https://www.sejda.com/account"
+    },
+    {
+        "text": "Logout",
+        "url": "javascript://"
+    },
+    {
+        "text": "Alternate & MixMixes pages from 2 or more documents, alternating between them",
+        "url": "https://www.sejda.com/alternate-mix-pdf"
+    },
+    {
+        "text": "MergeCombine multiple PDFs and images into one",
+        "url": "https://www.sejda.com/merge-pdf"
+    },
+    {
+        "text": "OrganizeArrange and reorder PDF pages",
+        "url": "https://www.sejda.com/organize-pdf"
+    },
+    {
+        "text": "Extract PagesGet a new document containing only the desired pages",
+        "url": "https://www.sejda.com/extract-pdf-pages"
+    },
+    {
+        "text": "Split by pagesSplit specific page ranges or extract every page into a separate document",
+        "url": "https://www.sejda.com/split-pdf"
+    },
+    {
+        "text": "Split by bookmarksExtract chapters to separate documents based on the bookmarks in the table of contents",
+        "url": "https://www.sejda.com/split-pdf-by-outline"
+    },
+    {
+        "text": "Split in halfSplit two page layout scans, A3 to double A4 or A4 to double A5",
+        "url": "https://www.sejda.com/split-pdf-down-the-middle"
+    },
+    {
+        "text": "Split by sizeGet multiple smaller documents with specific file sizes",
+        "url": "https://www.sejda.com/split-pdf-by-size"
+    },
+    {
+        "text": "Split by textExtract separate documents when specific text changes from page to page",
+        "url": "https://www.sejda.com/split-pdf-by-text"
+    },
+    {
+        "text": "EditEdit PDF files for free. Fill & sign PDF. Add text, links, images and shapes. Edit existing PDF text. Annotate PDF",
+        "url": "https://www.sejda.com/pdf-editor"
+    },
+    {
+        "text": "Fill & SignAdd signature to PDF. Fill out PDF forms",
+        "url": "https://www.sejda.com/sign-pdf"
+    },
+    {
+        "text": "Create FormsFree PDF forms creator. Make existing PDF documents fillable",
+        "url": "https://www.sejda.com/pdf-forms"
+    },
+    {
+        "text": "Delete PagesRemove pages from a PDF document",
+        "url": "https://www.sejda.com/delete-pdf-pages"
+    },
+    {
+        "text": "CompressReduce the size of your PDF",
+        "url": "https://www.sejda.com/compress-pdf"
+    },
+    {
+        "text": "ProtectProtect file with password and permissions",
+        "url": "https://www.sejda.com/encrypt-pdf"
+    },
+    {
+        "text": "UnlockRemove restrictions and password from PDF files",
+        "url": "https://www.sejda.com/unlock-pdf"
+    },
+    {
+        "text": "WatermarkAdd image or text watermark to PDF documents",
+        "url": "https://www.sejda.com/watermark-pdf"
+    },
+    {
+        "text": "FlattenMakes fillable PDFs read-only. Print & scan in one step",
+        "url": "https://www.sejda.com/flatten-pdf"
+    },
+    {
+        "text": "PDF to ExcelConvert PDF to Excel or CSV online for free. Extract table data from PDF",
+        "url": "https://www.sejda.com/pdf-to-excel"
+    },
+    {
+        "text": "PDF to JPGGet PDF pages converted to JPG, PNG or TIFF images",
+        "url": "https://www.sejda.com/pdf-to-jpg"
+    },
+    {
+        "text": "PDF to PowerPointConvert PDF to PowerPoint online",
+        "url": "https://www.sejda.com/pdf-to-ppt"
+    },
+    {
+        "text": "PDF to TextCopies all text from the PDF document and extracts it to a separate text file",
+        "url": "https://www.sejda.com/extract-text-from-pdf"
+    },
+    {
+        "text": "PDF to WordConvert from PDF to DOC online",
+        "url": "https://www.sejda.com/pdf-to-word"
+    },
+    {
+        "text": "HTML to PDFConvert web pages or HTML files to PDF documents",
+        "url": "https://www.sejda.com/html-to-pdf"
+    },
+    {
+        "text": "JPG to PDFConvert Images to PDF",
+        "url": "https://www.sejda.com/jpg-to-pdf"
+    },
+    {
+        "text": "Word to PDFCreates a PDF document from Microsoft Word .docx",
+        "url": "https://www.sejda.com/word-to-pdf"
+    },
+    {
+        "text": "Bates NumberingBates stamp multiple files at once",
+        "url": "https://www.sejda.com/bates-numbering-pdf"
+    },
+    {
+        "text": "Create BookmarksCreate PDF Bookmarks",
+        "url": "https://www.sejda.com/pdf-bookmarks"
+    },
+    {
+        "text": "CropTrim PDF margins, change PDF page size",
+        "url": "https://www.sejda.com/crop-pdf"
+    },
+    {
+        "text": "Edit MetadataChange PDF Author, Title, Keywords, Subject and other metadata fields",
+        "url": "https://www.sejda.com/edit-pdf-metadata"
+    },
+    {
+        "text": "Extract ImagesExtract images from PDF",
+        "url": "https://www.sejda.com/extract-images-from-pdf"
+    },
+    {
+        "text": "GrayscaleMake a PDF text and images grayscale",
+        "url": "https://www.sejda.com/grayscale-pdf"
+    },
+    {
+        "text": "Header & FooterApply page numbers or text labels to PDF files",
+        "url": "https://www.sejda.com/header-footer-pdf"
+    },
+    {
+        "text": "N-upPrint multiple pages per sheet per paper. A5 plan as 4-up on A3 or A4 2-up on A3",
+        "url": "https://www.sejda.com/n-up-pdf"
+    },
+    {
+        "text": "Page NumbersAdd PDF page numbers",
+        "url": "https://www.sejda.com/page-numbers-pdf"
+    },
+    {
+        "text": "RenameChange document filename based on text from the PDF pages",
+        "url": "https://www.sejda.com/rename-pdf"
+    },
+    {
+        "text": "RepairRecover data from a corrupted or damaged PDF document",
+        "url": "https://www.sejda.com/repair-pdf"
+    },
+    {
+        "text": "ResizeAdd page margins and padding, Change PDF page size",
+        "url": "https://www.sejda.com/resize-pdf"
+    },
+    {
+        "text": "RotateRotate and save PDF pages permanently",
+        "url": "https://www.sejda.com/rotate-pdf-pages"
+    },
+    {
+        "text": "Remove annotationsNewBatch remove highlights, strikeouts or any other annotations from a PDF document",
+        "url": "https://www.sejda.com/delete-pdf-annotations"
+    },
+    {
+        "text": "DeskewAutomatically straighten and deskew scanned PDF pages",
+        "url": "https://www.sejda.com/deskew-pdf"
+    },
+    {
+        "text": "OCRConvert PDF scans to searchable text and PDFs. Extract text from scans",
+        "url": "https://www.sejda.com/ocr-pdf"
+    },
+    {
+        "text": "WorkflowsNewExecute series of tasks on PDF documents. Configure tool chains to process PDFs",
+        "url": "https://www.sejda.com/workflows"
+    },
+    {
+        "text": "Suggest a missing feature",
+        "url": "javascript://"
+    },
+    {
+        "text": "hi@sejda.com",
+        "url": "mailto:hi@sejda.com"
+    },
+    {
+        "text": "https://www.sejda.com/account",
+        "url": "https://www.sejda.com/account?justUpgraded=desktop"
+    },
+    {
+        "text": "https://www.sejda.com/upgrade",
+        "url": "https://www.sejda.com/upgrade#pricing"
+    },
+    {
+        "text": "https://www.sejda.com/desktop",
+        "url": "https://www.sejda.com/desktop#pricing"
+    },
+    {
+        "text": "https://www.sejda.com/account",
+        "url": "https://www.sejda.com/account"
+    },
+    {
+        "text": "Learn more",
+        "url": "https://www.sejda.com/help#scans"
+    },
+    {
+        "text": "Free DownloadSejda PDF Desktop",
+        "url": "https://www.sejda.com/desktop"
+    },
+    {
+        "text": "Mac Intel",
+        "url": "https://www.sejda.com/desktop"
+    },
+    {
+        "text": "Mac Silicon",
+        "url": "https://www.sejda.com/desktop"
+    },
+    {
+        "text": "Windows 64bit",
+        "url": "https://www.sejda.com/desktop"
+    },
+    {
+        "text": "Windows 64bit (portable)",
+        "url": "https://www.sejda.com/desktop"
+    },
+    {
+        "text": "Linux (.deb)",
+        "url": "https://www.sejda.com/desktop"
+    },
+    {
+        "text": "Linux (.rpm)",
+        "url": "https://www.sejda.com/desktop"
+    },
+    {
+        "text": "EULA",
+        "url": "https://www.sejda.com/eula"
+    },
+    {
+        "text": "Terms of use",
+        "url": "https://www.sejda.com/terms"
+    },
+    {
+        "text": "Privacy Policy",
+        "url": "https://www.sejda.com/privacy"
+    },
+    {
+        "text": "Credits",
+        "url": "https://www.sejda.com/desktop-credits"
+    },
+    {
+        "text": "Release Notes",
+        "url": "https://www.sejda.com/desktop-release-notes"
+    },
+    {
+        "text": "Contact us",
+        "url": "javascript://"
+    },
+    {
+        "text": "Personal",
+        "url": "https://www.sejda.com/desktop#personalTab"
+    },
+    {
+        "text": "Teams& Volume discounts",
+        "url": "https://www.sejda.com/desktop#teamsTab"
+    },
+    {
+        "text": "Change team size",
+        "url": "javascript://"
+    },
+    {
+        "text": "Monthly billing available for Web-only plans",
+        "url": "https://www.sejda.com/upgrade?view=pricing"
+    },
+    {
+        "text": "Log in",
+        "url": "javascript://"
+    },
+    {
+        "text": "other@email.com",
+        "url": "javascript://"
+    },
+    {
+        "text": "Terms of Use",
+        "url": "https://www.sejda.com/terms"
+    },
+    {
+        "text": "Privacy Policy",
+        "url": "https://www.sejda.com/privacy"
+    },
+    {
+        "text": "Continue",
+        "url": "javascript://"
+    },
+    {
+        "text": "Change",
+        "url": "javascript://"
+    },
+    {
+        "text": "Alternatives",
+        "url": "https://www.sejda.com/desktop#pricing"
+    },
+    {
+        "text": "Change",
+        "url": "javascript://"
+    },
+    {
+        "text": "Alternatives",
+        "url": "https://www.sejda.com/desktop#pricing"
+    },
+    {
+        "text": "See plans that include Desktop access",
+        "url": "https://www.sejda.com/desktop#pricing"
+    },
+    {
+        "text": "Terms of Use",
+        "url": "https://www.sejda.com/terms"
+    },
+    {
+        "text": "Privacy Policy",
+        "url": "https://www.sejda.com/privacy"
+    },
+    {
+        "text": "Continue to Payment",
+        "url": "javascript://"
+    },
+    {
+        "text": "your account page",
+        "url": "https://www.sejda.com/account"
+    },
+    {
+        "text": "Contact us",
+        "url": "javascript://"
+    },
+    {
+        "text": "Linux version of Sejda Desktop",
+        "url": "https://www.sejda.com/desktop"
+    },
+    {
+        "text": "Online PDF editor",
+        "url": "https://www.sejda.com/pdf-editor"
+    },
+    {
+        "text": "Wrong email?",
+        "url": "https://www.sejda.com/account?changeEmail=true"
+    },
+    {
+        "text": "Continue",
+        "url": "javascript://"
+    }
+]
