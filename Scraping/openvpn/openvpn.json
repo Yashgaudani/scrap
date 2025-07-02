@@ -1,0 +1,44 @@
+[
+    {
+        "product": "openvpn",
+        "version": "unknown",
+        "text": "openvpn-latest-stable-x86.msi.asc",
+        "url": "https://build.openvpn.net/downloads/releases/latest/openvpn-latest-stable-x86.msi.asc",
+        "platform": "Windows 32-bit"
+    },
+    {
+        "product": "openvpn",
+        "version": "unknown",
+        "text": "openvpn-latest-stable-amd64.msi.asc",
+        "url": "https://build.openvpn.net/downloads/releases/latest/openvpn-latest-stable-amd64.msi.asc",
+        "platform": "Windows 64-bit"
+    },
+    {
+        "product": "openvpn",
+        "version": "unknown",
+        "text": "openvpn-latest-stable-x86.msi",
+        "url": "https://build.openvpn.net/downloads/releases/latest/openvpn-latest-stable-x86.msi",
+        "platform": "Windows 32-bit"
+    },
+    {
+        "product": "openvpn",
+        "version": "unknown",
+        "text": "openvpn-latest-stable-amd64.msi",
+        "url": "https://build.openvpn.net/downloads/releases/latest/openvpn-latest-stable-amd64.msi",
+        "platform": "Windows 64-bit"
+    },
+    {
+        "product": "openvpn",
+        "version": "unknown",
+        "text": "openvpn-latest-stable.tar.gz.asc",
+        "url": "https://build.openvpn.net/downloads/releases/latest/openvpn-latest-stable.tar.gz.asc",
+        "platform": "Windows"
+    },
+    {
+        "product": "openvpn",
+        "version": "unknown",
+        "text": "openvpn-latest-stable.tar.gz",
+        "url": "https://build.openvpn.net/downloads/releases/latest/openvpn-latest-stable.tar.gz",
+        "platform": "Windows"
+    }
+]

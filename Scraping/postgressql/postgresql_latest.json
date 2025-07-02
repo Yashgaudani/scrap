@@ -1,0 +1,51 @@
+[
+    {
+        "product": "postgresql",
+        "version": "17.5",
+        "text": "postgresql-17.5-docs.tar.gz",
+        "url": "https://ftp.postgresql.org/pub/source/v17.5/postgresql-17.5-docs.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "postgresql",
+        "version": "17.5",
+        "text": "postgresql-17.5.tar.bz2",
+        "url": "https://ftp.postgresql.org/pub/source/v17.5/postgresql-17.5.tar.bz2",
+        "platform": "Linux"
+    },
+    {
+        "product": "postgresql",
+        "version": "17.5",
+        "text": "postgresql-17.5.tar.bz2.md5",
+        "url": "https://ftp.postgresql.org/pub/source/v17.5/postgresql-17.5.tar.bz2.md5",
+        "platform": "Linux"
+    },
+    {
+        "product": "postgresql",
+        "version": "17.5",
+        "text": "postgresql-17.5.tar.bz2.sha256",
+        "url": "https://ftp.postgresql.org/pub/source/v17.5/postgresql-17.5.tar.bz2.sha256",
+        "platform": "Linux"
+    },
+    {
+        "product": "postgresql",
+        "version": "17.5",
+        "text": "postgresql-17.5.tar.gz",
+        "url": "https://ftp.postgresql.org/pub/source/v17.5/postgresql-17.5.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "postgresql",
+        "version": "17.5",
+        "text": "postgresql-17.5.tar.gz.md5",
+        "url": "https://ftp.postgresql.org/pub/source/v17.5/postgresql-17.5.tar.gz.md5",
+        "platform": "Linux"
+    },
+    {
+        "product": "postgresql",
+        "version": "17.5",
+        "text": "postgresql-17.5.tar.gz.sha256",
+        "url": "https://ftp.postgresql.org/pub/source/v17.5/postgresql-17.5.tar.gz.sha256",
+        "platform": "Linux"
+    }
+]

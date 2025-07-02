@@ -1,0 +1,100 @@
+[
+    {
+        "product": "IntelliJ IDEA Ultimate",
+        "file_name": "ideaIU-2025.1.3-aarch64.tar.gz",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIU-2025.1.3-aarch64.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "IntelliJ IDEA Ultimate",
+        "file_name": "ideaIU-2025.1.3.tar.gz",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIU-2025.1.3.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "IntelliJ IDEA Ultimate",
+        "file_name": "ideaIU-2025.1.3-aarch64.exe",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIU-2025.1.3-aarch64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "IntelliJ IDEA Ultimate",
+        "file_name": "ideaIU-2025.1.3.exe",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIU-2025.1.3.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "IntelliJ IDEA Ultimate",
+        "file_name": "ideaIU-2025.1.3.win.zip",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIU-2025.1.3.win.zip",
+        "platform": "Windows (Zip)"
+    },
+    {
+        "product": "IntelliJ IDEA Ultimate",
+        "file_name": "ideaIU-2025.1.3.dmg",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIU-2025.1.3.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "IntelliJ IDEA Ultimate",
+        "file_name": "ideaIU-2025.1.3-aarch64.dmg",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIU-2025.1.3-aarch64.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "IntelliJ IDEA Community Edition",
+        "file_name": "ideaIC-2025.1.3-aarch64.tar.gz",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIC-2025.1.3-aarch64.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "IntelliJ IDEA Community Edition",
+        "file_name": "ideaIC-2025.1.3.tar.gz",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIC-2025.1.3.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "IntelliJ IDEA Community Edition",
+        "file_name": "ideaIC-2025.1.3-aarch64.exe",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIC-2025.1.3-aarch64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "IntelliJ IDEA Community Edition",
+        "file_name": "ideaIC-2025.1.3.exe",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIC-2025.1.3.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "IntelliJ IDEA Community Edition",
+        "file_name": "ideaIC-2025.1.3.win.zip",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIC-2025.1.3.win.zip",
+        "platform": "Windows (Zip)"
+    },
+    {
+        "product": "IntelliJ IDEA Community Edition",
+        "file_name": "ideaIC-2025.1.3.dmg",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIC-2025.1.3.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "IntelliJ IDEA Community Edition",
+        "file_name": "ideaIC-2025.1.3-aarch64.dmg",
+        "version": "2025.1.3",
+        "download_url": "https://download.jetbrains.com/idea/ideaIC-2025.1.3-aarch64.dmg",
+        "platform": "macOS"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "product": "BlueStacks",
+        "version": "10.4.0.6907",
+        "file_name": "BlueStacks_X_10.4.0.6907_312f9afbe2dfb60268c4e7f2bf669e1c.dmg",
+        "file_type": "dmg",
+        "url": "https://sourceforge.net/projects/bluestacks/files/BlueStacks_X_10.4.0.6907_312f9afbe2dfb60268c4e7f2bf669e1c.dmg/download",
+        "platform": "macOS"
+    },
+    {
+        "product": "BlueStacks",
+        "version": "5.21.600.1019",
+        "file_name": "BlueStacksInstaller_5.21.600.1019_native_eb813208d80b439fe16fd4a27640a62c_MDs1.exe",
+        "file_type": "exe",
+        "url": "https://sourceforge.net/projects/bluestacks/files/BlueStacksInstaller_5.21.600.1019_native_eb813208d80b439fe16fd4a27640a62c_MDs1.exe/download",
+        "platform": "Windows"
+    },
+    {
+        "product": "BlueStacks",
+        "version": "5.21.600.1019",
+        "file_name": "BlueStacksInstaller_5.21.600.1019_native_6eb53a25ba019f4f63e0cd9a348859fc_MTsxNQ%3D%3D.exe",
+        "file_type": "exe",
+        "url": "https://sourceforge.net/projects/bluestacks/files/BlueStacksInstaller_5.21.600.1019_native_6eb53a25ba019f4f63e0cd9a348859fc_MTsxNQ%3D%3D.exe/download",
+        "platform": "Windows"
+    },
+    {
+        "product": "BlueStacks",
+        "version": "5.21.600.1019",
+        "file_name": "BlueStacksInstaller_5.21.600.1019_native_f71037163b7b62f8e90bd2ac5d42aa95_MzsxNQ%3D%3D.exe",
+        "file_type": "exe",
+        "url": "https://sourceforge.net/projects/bluestacks/files/BlueStacksInstaller_5.21.600.1019_native_f71037163b7b62f8e90bd2ac5d42aa95_MzsxNQ%3D%3D.exe/download",
+        "platform": "Windows"
+    },
+    {
+        "product": "BlueStacks",
+        "version": "5.21.600.1019",
+        "file_name": "BlueStacksInstaller_5.21.600.1019_native_0a4d26eb9fed035ac1a942be03e31538_NDsxNQ%3D%3D.exe",
+        "file_type": "exe",
+        "url": "https://sourceforge.net/projects/bluestacks/files/BlueStacksInstaller_5.21.600.1019_native_0a4d26eb9fed035ac1a942be03e31538_NDsxNQ%3D%3D.exe/download",
+        "platform": "Windows"
+    }
+]

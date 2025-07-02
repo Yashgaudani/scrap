@@ -1,0 +1,42 @@
+[
+  {
+    "product": "archi",
+    "version": "5.6.0",
+    "text": "Archi-Win64-Setup-5.6.0.exe",
+    "url": "https://www.archimatetool.com/downloads/archi/5.6/Archi-Win64-Setup-5.6.0.exe",
+    "platform": "windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "archi",
+    "version": "5.6.0",
+    "text": "Archi-Win64-5.6.0.zip",
+    "url": "https://www.archimatetool.com/downloads/archi/5.6/Archi-Win64-5.6.0.zip",
+    "platform": "windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "archi",
+    "version": "5.6.0",
+    "text": "Archi-Mac-5.6.0.dmg",
+    "url": "https://www.archimatetool.com/downloads/archi/5.6/Archi-Mac-5.6.0.dmg",
+    "platform": "macos",
+    "architecture": "intel"
+  },
+  {
+    "product": "archi",
+    "version": "5.6.0",
+    "text": "Archi-Mac-Silicon-5.6.0.dmg",
+    "url": "https://www.archimatetool.com/downloads/archi/5.6/Archi-Mac-Silicon-5.6.0.dmg",
+    "platform": "macos",
+    "architecture": "arm64"
+  },
+  {
+    "product": "archi",
+    "version": "5.6.0",
+    "text": "Archi-Linux64-5.6.0.tgz",
+    "url": "https://www.archimatetool.com/downloads/archi/5.6/Archi-Linux64-5.6.0.tgz",
+    "platform": "linux",
+    "architecture": "x64"
+  }
+]

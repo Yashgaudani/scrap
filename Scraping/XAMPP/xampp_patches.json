@@ -1,0 +1,50 @@
+[
+    {
+        "product": "xampp",
+        "version": "8.2.12",
+        "platform": "Windows",
+        "architecture": "x64",
+        "file_name": "xampp-windows-x64-8.2.12-0-VS16.zip",
+        "download_url": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16.zip/download"
+    },
+    {
+        "product": "xampp",
+        "version": "8.2.12",
+        "platform": "Windows",
+        "architecture": "x64",
+        "file_name": "xampp-portable-windows-x64-8.2.12-0-VS16.7z",
+        "download_url": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-portable-windows-x64-8.2.12-0-VS16.7z/download"
+    },
+    {
+        "product": "xampp",
+        "version": "8.2.12",
+        "platform": "Windows",
+        "architecture": "x64",
+        "file_name": "xampp-portable-windows-x64-8.2.12-0-VS16-installer.exe",
+        "download_url": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-portable-windows-x64-8.2.12-0-VS16-installer.exe/download"
+    },
+    {
+        "product": "xampp",
+        "version": "8.2.12",
+        "platform": "Windows",
+        "architecture": "x64",
+        "file_name": "xampp-windows-x64-8.2.12-0-VS16.7z",
+        "download_url": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16.7z/download"
+    },
+    {
+        "product": "xampp",
+        "version": "8.2.12",
+        "platform": "Windows",
+        "architecture": "x64",
+        "file_name": "xampp-portable-windows-x64-8.2.12-0-VS16.zip",
+        "download_url": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-portable-windows-x64-8.2.12-0-VS16.zip/download"
+    },
+    {
+        "product": "xampp",
+        "version": "8.2.12",
+        "platform": "Windows",
+        "architecture": "x64",
+        "file_name": "xampp-windows-x64-8.2.12-0-VS16-installer.exe",
+        "download_url": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe/download"
+    }
+]

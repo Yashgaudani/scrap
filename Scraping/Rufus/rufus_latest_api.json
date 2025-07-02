@@ -1,0 +1,58 @@
+[
+    {
+        "product": "Rufus",
+        "version": "4.9",
+        "file_name": "rufus-4.9.exe",
+        "file_type": "exe",
+        "url": "https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Rufus",
+        "version": "4.9",
+        "file_name": "rufus-4.9.exe.sig",
+        "file_type": "exe.sig",
+        "url": "https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9.exe.sig",
+        "platform": "Windows (Signature File)"
+    },
+    {
+        "product": "Rufus",
+        "version": "4.9",
+        "file_name": "rufus-4.9p.exe",
+        "file_type": "exe",
+        "url": "https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9p.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Rufus",
+        "version": "4.9",
+        "file_name": "rufus-4.9_arm64.exe",
+        "file_type": "exe",
+        "url": "https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9_arm64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Rufus",
+        "version": "4.9",
+        "file_name": "rufus-4.9_arm64.exe.sig",
+        "file_type": "exe.sig",
+        "url": "https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9_arm64.exe.sig",
+        "platform": "Windows (Signature File)"
+    },
+    {
+        "product": "Rufus",
+        "version": "4.9",
+        "file_name": "rufus-4.9_x86.exe",
+        "file_type": "exe",
+        "url": "https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9_x86.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Rufus",
+        "version": "4.9",
+        "file_name": "rufus-4.9_x86.exe.sig",
+        "file_type": "exe.sig",
+        "url": "https://github.com/pbatard/rufus/releases/download/v4.9/rufus-4.9_x86.exe.sig",
+        "platform": "Windows (Signature File)"
+    }
+]

@@ -1,34 +1,44 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 import json
+import os
 
-# URL to scrape
-url = "https://openvpn.net/client/"
-
-# Send GET request
+url = "https://build.openvpn.net/downloads/releases/latest/"
 response = requests.get(url)
+response.raise_for_status()
 soup = BeautifulSoup(response.text, "html.parser")
 
-# Get all <a> tags with valid hrefs
-links = soup.find_all("a", href=True)
-link_data = []
+results = []
 
-for link in links:
+for link in soup.find_all("a"):
+    href = link.get("href", "")
     text = link.get_text(strip=True)
-    href = link['href']
-    full_url = requests.compat.urljoin(url, href)
-    if text and href:
-        link_data.append({
+
+    if "stable" in href and href.endswith((".msi", ".tar.gz", ".tar.gz.asc", ".msi.asc")):
+        match = re.search(r'openvpn[-_](\d+\.\d+\.\d+)', href)
+        version = match.group(1) if match else "unknown"
+
+        if "amd64" in href or "x64" in href:
+            platform = "Windows 64-bit"
+        elif "x86" in href:
+            platform = "Windows 32-bit"
+        else:
+            platform = "Windows"
+
+        results.append({
+            "product": "openvpn",
+            "version": version,
             "text": text,
-            "url": full_url
+            "url": url + href,
+            "platform": platform
         })
 
-# Save HTML page
-with open("openvpn_client_page.html", "w", encoding="utf-8") as f:
-    f.write(soup.prettify())
+# Save to JSON file
+output_path = "/home/yash-gaudani/R%D/patch/Scraping/openvpn/openvpn.json"
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-# Save links as JSON
-with open("openvpn_links.json", "w", encoding="utf-8") as f:
-    json.dump(link_data, f, indent=4)
+with open(output_path, "w") as f:
+    json.dump(results, f, indent=4)
 
-print("✅ Files saved: openvpn_client_page.html, openvpn_links.json")
+print(f"✅ JSON saved to: {output_path}")

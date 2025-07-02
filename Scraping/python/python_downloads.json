@@ -1,0 +1,170 @@
+[
+    {
+        "product": "Python",
+        "file_name": "Python-3.13.5.tar.xz",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/Python-3.13.5.tar.xz",
+        "platform": "Linux",
+        "architecture": "Unknown"
+    },
+    {
+        "product": "Python",
+        "file_name": "Python-3.13.5.tgz",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/Python-3.13.5.tgz",
+        "platform": "Linux",
+        "architecture": "Unknown"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-amd64.exe",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.exe",
+        "platform": "Windows",
+        "architecture": "x64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-amd64.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-amd64.zip",
+        "platform": "Linux",
+        "architecture": "x64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-arm64.exe",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-arm64.exe",
+        "platform": "Windows",
+        "architecture": "ARM64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-arm64.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-arm64.zip",
+        "platform": "Linux",
+        "architecture": "ARM64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-embed-amd64.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-embed-amd64.zip",
+        "platform": "Linux",
+        "architecture": "x64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-embed-arm64.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-embed-arm64.zip",
+        "platform": "Linux",
+        "architecture": "ARM64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-embed-win32.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-embed-win32.zip",
+        "platform": "Windows",
+        "architecture": "x86"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-embeddable-amd64.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-embeddable-amd64.zip",
+        "platform": "Linux",
+        "architecture": "x64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-embeddable-arm64.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-embeddable-arm64.zip",
+        "platform": "Linux",
+        "architecture": "ARM64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-embeddable-win32.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-embeddable-win32.zip",
+        "platform": "Windows",
+        "architecture": "x86"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-macos11.pkg",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-macos11.pkg",
+        "platform": "macOS",
+        "architecture": "Unknown"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-test-amd64.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-test-amd64.zip",
+        "platform": "Linux",
+        "architecture": "x64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-test-arm64.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-test-arm64.zip",
+        "platform": "Linux",
+        "architecture": "ARM64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-test-win32.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-test-win32.zip",
+        "platform": "Windows",
+        "architecture": "x86"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5-win32.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-win32.zip",
+        "platform": "Windows",
+        "architecture": "x86"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5.exe",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5.exe",
+        "platform": "Windows",
+        "architecture": "Unknown"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5t-amd64.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5t-amd64.zip",
+        "platform": "Linux",
+        "architecture": "x64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5t-arm64.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5t-arm64.zip",
+        "platform": "Linux",
+        "architecture": "ARM64"
+    },
+    {
+        "product": "Python",
+        "file_name": "python-3.13.5t-win32.zip",
+        "version": "3.13.5",
+        "download_url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5t-win32.zip",
+        "platform": "Windows",
+        "architecture": "x86"
+    }
+]

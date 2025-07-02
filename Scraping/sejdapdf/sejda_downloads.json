@@ -1,0 +1,44 @@
+[
+  {
+    "product": "sejda",
+    "version": "7.8.8",
+    "text": "sejda-desktop_7.8.8.dmg",
+    "url": "https://downloads.sejda-cdn.com/sejda-desktop_7.8.8.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "sejda",
+    "version": "7.8.8",
+    "text": "sejda-desktop_7.8.8_arm64.dmg",
+    "url": "https://downloads.sejda-cdn.com/sejda-desktop_7.8.8_arm64.dmg",
+    "platform": "macOS"
+  },
+  {
+    "product": "sejda",
+    "version": "7.8.8",
+    "text": "sejda-desktop_7.8.8_x64.msi",
+    "url": "https://downloads.sejda-cdn.com/sejda-desktop_7.8.8_x64.msi",
+    "platform": "Windows"
+  },
+  {
+    "product": "sejda",
+    "version": "7.8.8",
+    "text": "sejda-desktop_7.8.8_x64_portable.zip",
+    "url": "https://downloads.sejda-cdn.com/sejda-desktop_7.8.8_x64_portable.zip",
+    "platform": "Windows"
+  },
+  {
+    "product": "sejda",
+    "version": "7.8.8",
+    "text": "sejda-desktop_7.8.8_amd64.deb",
+    "url": "https://downloads.sejda-cdn.com/sejda-desktop_7.8.8_amd64.deb",
+    "platform": "Linux"
+  },
+  {
+    "product": "sejda",
+    "version": "7.8.8",
+    "text": "sejda-desktop_7.8.8_1.x86_64.rpm",
+    "url": "https://downloads.sejda-cdn.com/sejda-desktop_7.8.8_1.x86_64.rpm",
+    "platform": "Linux"
+  }
+]

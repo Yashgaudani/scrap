@@ -1,0 +1,9 @@
+[
+    {
+        "product": "SQL Server Management Studio",
+        "version": "21",
+        "text": "vs_SSMS.exe",
+        "url": "https://aka.ms/ssms/21/release/vs_SSMS.exe",
+        "platform": "Windows"
+    }
+]

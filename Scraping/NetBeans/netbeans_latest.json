@@ -1,0 +1,30 @@
+[
+    {
+        "product": "Apache NetBeans",
+        "version": "25",
+        "text": "Apache-NetBeans-25-bin-windows-x64.exe",
+        "url": "https://archive.apache.org/dist/netbeans/netbeans-installers/25/Apache-NetBeans-25-bin-windows-x64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Apache NetBeans",
+        "version": "25",
+        "text": "Apache-NetBeans-25.pkg",
+        "url": "https://archive.apache.org/dist/netbeans/netbeans-installers/25/Apache-NetBeans-25.pkg",
+        "platform": "macOS"
+    },
+    {
+        "product": "Apache NetBeans",
+        "version": "25",
+        "text": "apache-netbeans-25-0.noarch.rpm",
+        "url": "https://archive.apache.org/dist/netbeans/netbeans-installers/25/apache-netbeans-25-0.noarch.rpm",
+        "platform": "Linux (RPM)"
+    },
+    {
+        "product": "Apache NetBeans",
+        "version": "25",
+        "text": "apache-netbeans_25-1_all.deb",
+        "url": "https://archive.apache.org/dist/netbeans/netbeans-installers/25/apache-netbeans_25-1_all.deb",
+        "platform": "Linux (DEB)"
+    }
+]

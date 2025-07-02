@@ -1,0 +1,18 @@
+[
+    {
+        "version": "2025.1.3",
+        "os_name": "macOS",
+        "architecture": "x64",
+        "edition": "Professional",
+        "download_type": "DMG",
+        "download_link": "https://download.techsmith.com/camtasiamac/releases/camtasia.dmg"
+    },
+    {
+        "version": "2025.1.3",
+        "os_name": "Windows",
+        "architecture": "x64",
+        "edition": "Professional",
+        "download_type": "EXE",
+        "download_link": "https://download.techsmith.com/camtasiastudio/releases/camtasia.exe"
+    }
+]

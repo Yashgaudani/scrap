@@ -1,0 +1,29 @@
+[
+    {
+        "product": "Notepad++",
+        "version": "8.8.2",
+        "text": "npp.8.8.2.Installer.arm64.exe",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.2/npp.8.8.2.Installer.arm64.exe",
+        "platform": "Windows",
+        "architecture": "ARM64",
+        "file_type": "exe"
+    },
+    {
+        "product": "Notepad++",
+        "version": "8.8.2",
+        "text": "npp.8.8.2.Installer.exe",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.2/npp.8.8.2.Installer.exe",
+        "platform": "Windows",
+        "architecture": "32-bit",
+        "file_type": "exe"
+    },
+    {
+        "product": "Notepad++",
+        "version": "8.8.2",
+        "text": "npp.8.8.2.Installer.x64.exe",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.2/npp.8.8.2.Installer.x64.exe",
+        "platform": "Windows",
+        "architecture": "x64",
+        "file_type": "exe"
+    }
+]

@@ -1,75 +1,58 @@
-import requests
-from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
 import json
-from pathlib import Path
+import os
+import time
 
-def scrape_wireshark():
-    """Scrape Wireshark download information."""
-    print("🔍 Fetching Wireshark download information...")
-    
-    # Base URL
-    url = "https://2.na.dl.wireshark.org/"
-    
-    try:
-        # Fetch the page
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-        
-        # Get raw HTML
-        html_content = response.text
-        
-        # Parse for download links
-        soup = BeautifulSoup(html_content, "html.parser")
-        
-        # Find download links (this is a basic implementation)
-        download_links = []
-        
-        # Look for common Wireshark download patterns
-        for link in soup.find_all('a', href=True):
-            href = link.get('href')
-            text = link.get_text(strip=True)
-            
-            # Filter for Wireshark installers
-            if any(ext in href.lower() for ext in ['.exe', '.dmg', '.deb', '.rpm', '.tar.gz']):
-                if 'wireshark' in href.lower():
-                    download_links.append({
-                        "product": "wireshark",
-                        "version": "latest",  # Version extraction would need more parsing
-                        "text": text or "Wireshark Download",
-                        "url": url + href if href.startswith('/') else href,
-                        "platform": "Unknown"
-                    })
-        
-        # If no specific links found, create a basic structure
-        if not download_links:
-            download_links = [{
-                "product": "wireshark",
-                "version": "latest",
-                "text": "Wireshark Download",
-                "url": "https://www.wireshark.org/download.html",
-                "platform": "Multiple"
-            }]
-        
-        # Save to the expected location for the orchestrator
-        output_path = Path(__file__).parent.parent / "wireshark_info.json"
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(download_links, f, indent=2, ensure_ascii=False)
-        
-        print(f"✅ Wireshark data saved to: {output_path}")
-        return download_links
-        
-    except Exception as e:
-        print(f"❌ Error fetching Wireshark data: {e}")
-        return []
+base_urls = {
+    "Windows": "https://2.na.dl.wireshark.org/win64/",
+    "macOS": "https://2.na.dl.wireshark.org/osx/"
+}
 
-def main():
-    """Main function for standalone execution."""
-    try:
-        scrape_wireshark()
-    except Exception as e:
-        print(f"❌ Error: {e}")
+results = []
 
-if __name__ == "__main__":
-    main()
+# Setup headless Chrome
+options = Options()
+options.add_argument("--headless=new")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
+driver = webdriver.Chrome(options=options)
+
+try:
+    for platform, url in base_urls.items():
+        print(f"Opening {platform} page...")
+        driver.get(url)
+        time.sleep(2)  # wait for page to load (adjust if needed)
+
+        links = driver.find_elements(By.TAG_NAME, "a")
+        for link in links:
+            href = link.get_attribute("href")
+            if not href:
+                continue
+
+            fname = href.split("/")[-1]
+            if "latest" in fname.lower() and fname.lower().endswith((".exe", ".msi", ".dmg")):
+                results.append({
+                    "product": "Wireshark",
+                    "version": "latest",
+                    "text": fname,
+                    "url": href,
+                    "platform": platform
+                })
+
+finally:
+    driver.quit()
+
+# Save to JSON
+output_dir = "/home/yash-gaudani/R%D/patch/Scraping/wireshark"
+os.makedirs(output_dir, exist_ok=True)
+output_file = os.path.join(output_dir, "wireshark_latest_downloads.json")
+
+with open(output_file, "w") as f:
+    json.dump(results, f, indent=4)
+
+# Print summary
+print(f"Saved {len(results)} entries to {output_file}")
+for r in results:
+    print(f"{r['platform']}: {r['url']}")

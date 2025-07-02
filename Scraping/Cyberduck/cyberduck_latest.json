@@ -1,0 +1,30 @@
+[
+    {
+        "product": "Cyberduck",
+        "version": "9.1.7",
+        "text": "Download for Windows \u2013 EXE",
+        "url": "https://update.cyberduck.io/windows/Cyberduck-Installer-9.1.7.43306.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Cyberduck",
+        "version": "9.1.7",
+        "text": "Download for Windows \u2013 MSI",
+        "url": "https://update.cyberduck.io/windows/Cyberduck-Installer-9.1.7.43306.msi",
+        "platform": "Windows"
+    },
+    {
+        "product": "Cyberduck",
+        "version": "9.1.6",
+        "text": "Download for macOS \u2013 ZIP",
+        "url": "https://update.cyberduck.io/Cyberduck-9.1.6.43284.zip",
+        "platform": "macOS"
+    },
+    {
+        "product": "Cyberduck",
+        "version": "9.1.6",
+        "text": "Download for macOS \u2013 PKG",
+        "url": "https://update.cyberduck.io/Cyberduck-9.1.6.43284.pkg",
+        "platform": "macOS"
+    }
+]

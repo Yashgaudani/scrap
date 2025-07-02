@@ -1,0 +1,914 @@
+[
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "aarch64",
+        "edition": "Professional",
+        "download_type": "RPM",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-1.aarch64.rpm"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "aarch64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-1.aarch64.rpm.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "aarch64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-1.aarch64.rpm.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "x86_64",
+        "edition": "Professional",
+        "download_type": "RPM",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-1.x86_64.rpm"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "x86_64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-1.x86_64.rpm.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "x86_64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-1.x86_64.rpm.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "amd64",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-linux-amd64.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "amd64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-linux-amd64.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "amd64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-linux-amd64.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-linux-arm64.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-linux-arm64.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser-1.79.126-linux-arm64.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "macOS",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "DMG",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-arm64.dmg"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "macOS",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-arm64.dmg.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "macOS",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-arm64.dmg.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "PKG",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-arm64.pkg"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-arm64.pkg.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-arm64.pkg.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "macOS",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "DMG",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-universal.dmg"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "macOS",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-universal.dmg.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "macOS",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-universal.dmg.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "PKG",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-universal.pkg"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-universal.pkg.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-universal.pkg.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "macOS",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "DMG",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-x64.dmg"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "macOS",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-x64.dmg.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "macOS",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-x64.dmg.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "PKG",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-x64.pkg"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-x64.pkg.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Brave-Browser-x64.pkg.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "amd64",
+        "edition": "Professional",
+        "download_type": "DEB",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser_1.79.126_amd64.deb"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "amd64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser_1.79.126_amd64.deb.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "amd64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser_1.79.126_amd64.deb.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "DEB",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser_1.79.126_arm64.deb"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser_1.79.126_arm64.deb.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Linux",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-browser_1.79.126_arm64.deb.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-arm64-symbols.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-arm64-symbols.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-arm64-symbols.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-arm64.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-arm64.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-arm64.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-x64-symbols.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-x64-symbols.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-x64-symbols.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-x64.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-x64.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-darwin-x64.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-linux-arm64-symbols.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-linux-arm64-symbols.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-linux-arm64-symbols.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-linux-x64-symbols.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-linux-x64-symbols.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-linux-x64-symbols.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-arm64-symbols.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-arm64-symbols.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-arm64-symbols.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-arm64.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-arm64.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-arm64.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-ia32-symbols.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-ia32-symbols.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-ia32-symbols.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-ia32.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-ia32.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-ia32.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-x64-symbols.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-x64-symbols.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-x64-symbols.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-x64.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-x64.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/brave-v1.79.126-win32-x64.zip.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "APK",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Bravearm64Universal.apk"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Bravearm64Universal.apk.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/Bravearm64Universal.apk.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "EXE",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserSetup.exe"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserSetup.exe.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserSetup.exe.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "EXE",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSetup.exe"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSetup.exe.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSetup.exe.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "EXE",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSetup32.exe"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSetup32.exe.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSetup32.exe.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "EXE",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSetupArm64.exe"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSetupArm64.exe.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSetupArm64.exe.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "EXE",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSilentSetup.exe"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSilentSetup.exe.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSilentSetup.exe.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "EXE",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSilentSetup32.exe"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSilentSetup32.exe.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSilentSetup32.exe.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "EXE",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSilentSetupArm64.exe"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSilentSetupArm64.exe.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveBrowserStandaloneSilentSetupArm64.exe.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "APK",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonoarm.apk"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonoarm.apk.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonoarm.apk.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "AAB",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonoarm64.aab"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonoarm64.aab.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonoarm64.aab.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "APK",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonoarm64.apk"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonoarm64.apk.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "arm64",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonoarm64.apk.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "APK",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonox64.apk"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonox64.apk.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonox64.apk.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "x86",
+        "edition": "Professional",
+        "download_type": "APK",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonox86.apk"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "x86",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonox86.apk.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Other",
+        "architecture": "x86",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/BraveMonox86.apk.sha256.asc"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ZIP",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/policy_templates.zip"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "SHA256",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/policy_templates.zip.sha256"
+    },
+    {
+        "version": "v1.79.126",
+        "os_name": "Windows",
+        "architecture": "unknown",
+        "edition": "Professional",
+        "download_type": "ASC",
+        "download_link": "https://github.com/brave/brave-browser/releases/download/v1.79.126/policy_templates.zip.sha256.asc"
+    }
+]

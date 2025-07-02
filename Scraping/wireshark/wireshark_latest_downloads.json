@@ -1,0 +1,86 @@
+[
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "Wireshark-latest-arm64.exe",
+        "url": "https://2.na.dl.wireshark.org/win64/Wireshark-latest-arm64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "Wireshark-latest-arm64.exe",
+        "url": "https://2.na.dl.wireshark.org/win64/Wireshark-latest-arm64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "Wireshark-latest-x64.exe",
+        "url": "https://2.na.dl.wireshark.org/win64/Wireshark-latest-x64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "Wireshark-latest-x64.exe",
+        "url": "https://2.na.dl.wireshark.org/win64/Wireshark-latest-x64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "Wireshark-latest-x64.msi",
+        "url": "https://2.na.dl.wireshark.org/win64/Wireshark-latest-x64.msi",
+        "platform": "Windows"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "Wireshark-latest-x64.msi",
+        "url": "https://2.na.dl.wireshark.org/win64/Wireshark-latest-x64.msi",
+        "platform": "Windows"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "WiresharkPortable64_latest.paf.exe",
+        "url": "https://2.na.dl.wireshark.org/win64/WiresharkPortable64_latest.paf.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "WiresharkPortable64_latest.paf.exe",
+        "url": "https://2.na.dl.wireshark.org/win64/WiresharkPortable64_latest.paf.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "Wireshark%20Latest%20Arm%2064.dmg",
+        "url": "https://2.na.dl.wireshark.org/osx/Wireshark%20Latest%20Arm%2064.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "Wireshark%20Latest%20Arm%2064.dmg",
+        "url": "https://2.na.dl.wireshark.org/osx/Wireshark%20Latest%20Arm%2064.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "Wireshark%20Latest%20Intel%2064.dmg",
+        "url": "https://2.na.dl.wireshark.org/osx/Wireshark%20Latest%20Intel%2064.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "Wireshark",
+        "version": "latest",
+        "text": "Wireshark%20Latest%20Intel%2064.dmg",
+        "url": "https://2.na.dl.wireshark.org/osx/Wireshark%20Latest%20Intel%2064.dmg",
+        "platform": "macOS"
+    }
+]

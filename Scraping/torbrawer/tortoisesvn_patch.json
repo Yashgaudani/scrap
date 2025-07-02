@@ -1,0 +1,26 @@
+[
+    {
+        "product": "TortoiseSVN",
+        "version": "1.14.9",
+        "text": "/1.14.9/Application/TortoiseSVN-1.14.9.29743-x64-svn-1.14.5.msi",
+        "url": "https://sourceforge.net/projects/tortoisesvn/files/1.14.9/Application/TortoiseSVN-1.14.9.29743-x64-svn-1.14.5.msi/download",
+        "platform": "Windows",
+        "architecture": "x64"
+    },
+    {
+        "product": "TortoiseSVN",
+        "version": "1.14.9",
+        "text": "/1.14.9/Application/TortoiseSVN-1.14.9.29743-ARM64-svn-1.14.5.msi",
+        "url": "https://sourceforge.net/projects/tortoisesvn/files/1.14.9/Application/TortoiseSVN-1.14.9.29743-ARM64-svn-1.14.5.msi/download",
+        "platform": "Windows",
+        "architecture": "ARM64"
+    },
+    {
+        "product": "TortoiseSVN",
+        "version": "1.14.9",
+        "text": "/1.14.9/Application/TortoiseSVN-1.14.9.29743-win32-svn-1.14.5.msi",
+        "url": "https://sourceforge.net/projects/tortoisesvn/files/1.14.9/Application/TortoiseSVN-1.14.9.29743-win32-svn-1.14.5.msi/download",
+        "platform": "Windows",
+        "architecture": "x86"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "product": "PyCharm Professional",
+        "file_name": "pycharm-2025.1.2-aarch64.tar.gz",
+        "version": "2025.1.2",
+        "download_url": "https://download.jetbrains.com/python/pycharm-2025.1.2-aarch64.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "PyCharm Professional",
+        "file_name": "pycharm-2025.1.2.tar.gz",
+        "version": "2025.1.2",
+        "download_url": "https://download.jetbrains.com/python/pycharm-2025.1.2.tar.gz",
+        "platform": "Linux"
+    },
+    {
+        "product": "PyCharm Professional",
+        "file_name": "pycharm-2025.1.2.exe",
+        "version": "2025.1.2",
+        "download_url": "https://download.jetbrains.com/python/pycharm-2025.1.2.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "PyCharm Professional",
+        "file_name": "pycharm-2025.1.2.win.zip",
+        "version": "2025.1.2",
+        "download_url": "https://download.jetbrains.com/python/pycharm-2025.1.2.win.zip",
+        "platform": "Windows"
+    },
+    {
+        "product": "PyCharm Professional",
+        "file_name": "pycharm-2025.1.2-aarch64.exe",
+        "version": "2025.1.2",
+        "download_url": "https://download.jetbrains.com/python/pycharm-2025.1.2-aarch64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "PyCharm Professional",
+        "file_name": "pycharm-2025.1.2.dmg",
+        "version": "2025.1.2",
+        "download_url": "https://download.jetbrains.com/python/pycharm-2025.1.2.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "PyCharm Professional",
+        "file_name": "pycharm-2025.1.2-aarch64.dmg",
+        "version": "2025.1.2",
+        "download_url": "https://download.jetbrains.com/python/pycharm-2025.1.2-aarch64.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "PyCharm Professional",
+        "file_name": "pycharm-2025.1.2-aarch64.win.zip",
+        "version": "2025.1.2",
+        "download_url": "https://download.jetbrains.com/python/pycharm-2025.1.2-aarch64.win.zip",
+        "platform": "Windows"
+    }
+]

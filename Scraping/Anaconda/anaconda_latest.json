@@ -1,0 +1,50 @@
+[
+    {
+        "file_name": "Anaconda3-2025.06-0-Windows-x86_64.exe",
+        "version": "2025.06-0",
+        "os": "Windows",
+        "architecture": "x86_64",
+        "file_type": "exe",
+        "url": "https://repo.anaconda.com/archive/Anaconda3-2025.06-0-Windows-x86_64.exe"
+    },
+    {
+        "file_name": "Anaconda3-2025.06-0-MacOSX-x86_64.sh",
+        "version": "2025.06-0",
+        "os": "MacOSX",
+        "architecture": "x86_64",
+        "file_type": "sh",
+        "url": "https://repo.anaconda.com/archive/Anaconda3-2025.06-0-MacOSX-x86_64.sh"
+    },
+    {
+        "file_name": "Anaconda3-2025.06-0-MacOSX-x86_64.pkg",
+        "version": "2025.06-0",
+        "os": "MacOSX",
+        "architecture": "x86_64",
+        "file_type": "pkg",
+        "url": "https://repo.anaconda.com/archive/Anaconda3-2025.06-0-MacOSX-x86_64.pkg"
+    },
+    {
+        "file_name": "Anaconda3-2025.06-0-MacOSX-arm64.sh",
+        "version": "2025.06-0",
+        "os": "MacOSX",
+        "architecture": "arm64",
+        "file_type": "sh",
+        "url": "https://repo.anaconda.com/archive/Anaconda3-2025.06-0-MacOSX-arm64.sh"
+    },
+    {
+        "file_name": "Anaconda3-2025.06-0-MacOSX-arm64.pkg",
+        "version": "2025.06-0",
+        "os": "MacOSX",
+        "architecture": "arm64",
+        "file_type": "pkg",
+        "url": "https://repo.anaconda.com/archive/Anaconda3-2025.06-0-MacOSX-arm64.pkg"
+    },
+    {
+        "file_name": "Anaconda3-2025.06-0-Linux-x86_64.sh",
+        "version": "2025.06-0",
+        "os": "Linux",
+        "architecture": "x86_64",
+        "file_type": "sh",
+        "url": "https://repo.anaconda.com/archive/Anaconda3-2025.06-0-Linux-x86_64.sh"
+    }
+]

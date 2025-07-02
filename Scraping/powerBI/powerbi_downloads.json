@@ -1,0 +1,16 @@
+[
+    {
+        "product": "Power BI",
+        "version": "2.143.878.0",
+        "file_name": "PBIDesktopSetup-2025-05.exe",
+        "url": "https://download.microsoft.com/download/8/8/0/880BCA75-79DD-466A-927D-1ABF1F5454B0/PBIDesktopSetup-2025-05.exe",
+        "platform": "Windows 32-bit"
+    },
+    {
+        "product": "Power BI",
+        "version": "2.143.878.0",
+        "file_name": "PBIDesktopSetup-2025-05_x64.exe",
+        "url": "https://download.microsoft.com/download/8/8/0/880BCA75-79DD-466A-927D-1ABF1F5454B0/PBIDesktopSetup-2025-05_x64.exe",
+        "platform": "Windows x64"
+    }
+]

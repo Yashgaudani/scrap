@@ -1,72 +1,61 @@
 import requests
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin
 import json
+import os
+from packaging import version as pkg_version
 
-# Step 1: GitHub latest release URL
-base_url = "https://github.com/obsproject/obs-studio/releases/latest"
+# Output path
+output_path = "/home/yash-gaudani/R%D/patch/Scraping/obs_studio/obs_studio_downloads.json"
 
-# Step 2: Follow redirect to get actual release URL
-latest_response = requests.get(base_url, allow_redirects=True)
-actual_release_url = latest_response.url
-version = actual_release_url.split("/")[-1]  # Get version like '31.0.3'
+# GitHub Releases API
+api_url = "https://api.github.com/repos/obsproject/obs-studio/releases"
 
-# Step 3: Get HTML content of that page
-release_page = requests.get(actual_release_url).text
-soup = BeautifulSoup(release_page, "html.parser")
-
-# Step 4: Find the correct include-fragment for expanded assets
-fragment_tag = soup.find("include-fragment", {"src": lambda x: x and "expanded_assets" in x})
-if not fragment_tag:
-    print("[-] Could not find include-fragment with expanded_assets.")
-    exit()
-
-fragment_src = fragment_tag["src"]
-full_fragment_url = urljoin("https://github.com", fragment_src)
-
-# Step 5: Fetch expanded assets HTML
-assets_response = requests.get(full_fragment_url)
-assets_soup = BeautifulSoup(assets_response.text, "html.parser")
-
-# Step 6: Extract download links and format output
-links = assets_soup.find_all("a", href=True)
-download_data = []
-
-def guess_platform(text):
-    text_lower = text.lower()
-    if 'windows' in text_lower:
-        return "Windows"
-    elif 'macos' in text_lower:
+# Detect platform from asset name
+def detect_platform(name):
+    name = name.lower()
+    if 'win' in name and '64' in name:
+        return "Windows 64-bit"
+    elif 'win' in name and '32' in name:
+        return "Windows 32-bit"
+    elif 'mac' in name or name.endswith('.dmg'):
         return "macOS"
-    elif 'ubuntu' in text_lower:
-        return "Ubuntu"
-    elif 'linux' in text_lower:
+    elif 'linux' in name or name.endswith(('.appimage', '.tar.gz', '.deb', '.rpm')):
         return "Linux"
-    elif 'debian' in text_lower:
-        return "Debian"
-    elif 'flatpak' in text_lower:
-        return "Flatpak"
-    elif 'arch' in text_lower:
-        return "Arch Linux"
-    else:
-        return "Other"
+    return "Unknown"
 
-for link in links:
-    href = link['href']
-    if "/download/" in href:
-        full_url = urljoin("https://github.com", href)
-        text = link.get_text(strip=True)
-        platform = guess_platform(text)
-        download_data.append({
-            "product": "OBS Studio",
-            "version": version,
-            "text": text,
-            "url": full_url,
-            "platform": platform
-        })
+# Exclude pre-release tags
+def is_stable(tag):
+    tag = tag.lower()
+    return "rc" not in tag and "beta" not in tag
 
+# Fetch all releases
+response = requests.get(api_url)
+releases = response.json()
 
+# Filter stable releases and find the latest one
+stable_releases = [r for r in releases if is_stable(r.get("tag_name", ""))]
+latest_release = max(stable_releases, key=lambda r: pkg_version.parse(r["tag_name"]))
 
-# Optional: Save to file
-with open("obs_downloads.json", "w", encoding="utf-8") as f:
-    json.dump(download_data, f, indent=4)
+# Parse latest release assets
+version = latest_release["tag_name"]
+result = []
+
+for asset in latest_release.get("assets", []):
+    name = asset.get("name", "")
+    url = asset.get("browser_download_url", "")
+    platform = detect_platform(name)
+    result.append({
+        "product": "obs-studio",
+        "version": version,
+        "text": name,
+        "url": url,
+        "platform": platform
+    })
+
+# Ensure output directory exists
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+# Save to JSON
+with open(output_path, "w") as f:
+    json.dump(result, f, indent=4)
+
+print(f"✅ Latest OBS Studio version ({version}) saved to: {output_path}")

@@ -87,7 +87,42 @@ class ScraperOrchestrator:
             'thunderbird': ScraperConfig('thunderbird/main.py', 'scraper_thunderbird', 'scrape_thunderbird'),
             'gimp': ScraperConfig('gimp/main.py', 'scraper_gimp', 'scrape_gimp'),
             'peazip': ScraperConfig('peazip/main.py', 'scraper_peazip', 'scrape_peazip'),
-            'putty': ScraperConfig('putty/main.py', 'scraper_putty', 'scrape_putty')
+            'putty': ScraperConfig('putty/main.py', 'scraper_putty', 'scrape_putty'),
+            
+            # New scrapers found in directory
+            'Anaconda': ScraperConfig('Anaconda/main.py', 'scraper_anaconda', 'main'),
+            'HeidiSQL': ScraperConfig('HeidiSQL/main.py', 'scraper_heidisql', 'main'),
+            'Gpg4win': ScraperConfig('Gpg4win/main.py', 'scraper_gpg4win', 'main'),
+            'BlueStacks': ScraperConfig('BlueStacks/main.py', 'scraper_bluestacks', 'main'),
+            'Rufus': ScraperConfig('Rufus/main.py', 'scraper_rufus', 'fetch_latest_rufus'),
+            'Cyberduck': ScraperConfig('Cyberduck/main.py', 'scraper_cyberduck', 'main'),
+            'XAMPP': ScraperConfig('XAMPP/main.py', 'scraper_xampp', 'main'),
+            'Opera': ScraperConfig('Opera/main.py', 'scraper_opera', 'main'),
+            'notepade': ScraperConfig('notepade/main.py', 'scraper_notepade', 'main'),
+            'Talkdesk': ScraperConfig('Talkdesk/main.py', 'scraper_talkdesk', 'main'),
+            'archi': ScraperConfig('archi/main.py', 'scraper_archi', 'main'),
+            'chocolatey': ScraperConfig('chocolatey/main.py', 'scraper_chocolatey', 'main'),
+            'powerBI': ScraperConfig('powerBI/main.py', 'scraper_powerbi', 'main'),
+            'python': ScraperConfig('python/main.py', 'scraper_python', 'main'),
+            'Camtasia': ScraperConfig('Camtasia/main.py', 'scraper_camtasia', 'main'),
+            'TightVNC': ScraperConfig('TightVNC/main.py', 'scraper_tightvnc', 'main'),
+            'tightvnc': ScraperConfig('tightvnc/main.py', 'scraper_tightvnc_alt', 'main'),
+            'torbrawer': ScraperConfig('torbrawer/main.py', 'scraper_torbrowser', 'main'),
+            'brave': ScraperConfig('brave/main.py', 'scraper_brave', 'main'),
+            'dbever': ScraperConfig('dbever/main.py', 'scraper_dbever', 'main'),
+            'mysql': ScraperConfig('mysql/main.py', 'scraper_mysql', 'main'),
+            'obs_studio': ScraperConfig('obs_studio/main.py', 'scraper_obs_studio', 'main'),
+            'openvpn': ScraperConfig('openvpn/main.py', 'scraper_openvpn', 'main'),
+            'pycharm': ScraperConfig('pycharm/main.py', 'scraper_pycharm', 'main'),
+            'sqlmanagestudio': ScraperConfig('sqlmanagestudio/main.py', 'scraper_sqlmanagestudio', 'main'),
+            'android': ScraperConfig('android/main.py', 'scraper_android', 'main'),
+            'NetBeans': ScraperConfig('NetBeans/main.py', 'scraper_netbeans', 'main'),
+            'Intelli_IDE': ScraperConfig('Intelli_IDE/main.py', 'scraper_intellij', 'main'),
+            'postgressql': ScraperConfig('postgressql/main.py', 'scraper_postgresql', 'main'),
+            'sejdapdf': ScraperConfig('sejdapdf/main.py', 'scraper_sejdapdf', 'main'),
+            'OracleVM': ScraperConfig('OracleVM/main.py', 'scraper_oraclevm', 'main'),
+            'snagit': ScraperConfig('snagit/main.py', 'scraper_snagit', 'main'),
+            'Balsamiq': ScraperConfig('Balsamiq/main.py', 'scraper_balsamiq', 'main')
         }
         
         # Load custom config if provided

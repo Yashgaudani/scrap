@@ -1,0 +1,156 @@
+[
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "opera-stable_119.0.5497.141_amd64.deb",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/linux/opera-stable_119.0.5497.141_amd64.deb",
+        "platform": "Linux"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "opera-stable_119.0.5497.141_amd64.deb.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/linux/opera-stable_119.0.5497.141_amd64.deb.sha256sum",
+        "platform": "Linux"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "opera-stable_119.0.5497.141_amd64.rpm",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/linux/opera-stable_119.0.5497.141_amd64.rpm",
+        "platform": "Linux"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "opera-stable_119.0.5497.141_amd64.rpm.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/linux/opera-stable_119.0.5497.141_amd64.rpm.sha256sum",
+        "platform": "Linux"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Autoupdate.tar.xz",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/mac/Opera_119.0.5497.141_Autoupdate.tar.xz",
+        "platform": "macOS"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Autoupdate.tar.xz.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/mac/Opera_119.0.5497.141_Autoupdate.tar.xz.sha256sum",
+        "platform": "macOS"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Autoupdate_arm64.tar.xz",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/mac/Opera_119.0.5497.141_Autoupdate_arm64.tar.xz",
+        "platform": "macOS"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Autoupdate_arm64.tar.xz.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/mac/Opera_119.0.5497.141_Autoupdate_arm64.tar.xz.sha256sum",
+        "platform": "macOS"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Setup.dmg",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/mac/Opera_119.0.5497.141_Setup.dmg",
+        "platform": "macOS"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Setup.dmg.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/mac/Opera_119.0.5497.141_Setup.dmg.sha256sum",
+        "platform": "macOS"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Autoupdate.exe",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Autoupdate.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Autoupdate.exe.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Autoupdate.exe.sha256sum",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Autoupdate_arm64.exe",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Autoupdate_arm64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Autoupdate_arm64.exe.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Autoupdate_arm64.exe.sha256sum",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Autoupdate_x64.exe",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Autoupdate_x64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Autoupdate_x64.exe.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Autoupdate_x64.exe.sha256sum",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Setup.exe",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Setup.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Setup.exe.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Setup.exe.sha256sum",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Setup_arm64.exe",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Setup_arm64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Setup_arm64.exe.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Setup_arm64.exe.sha256sum",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Setup_x64.exe",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Setup_x64.exe",
+        "platform": "Windows"
+    },
+    {
+        "product": "opera",
+        "version": "119.0.5497.141",
+        "text": "Opera_119.0.5497.141_Setup_x64.exe.sha256sum",
+        "url": "https://get.geo.opera.com/ftp/pub/opera/desktop/119.0.5497.141/win/Opera_119.0.5497.141_Setup_x64.exe.sha256sum",
+        "platform": "Windows"
+    }
+]
