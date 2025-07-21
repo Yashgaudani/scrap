@@ -1,0 +1,66 @@
+[
+  {
+    "product": "gh-api-cli",
+    "version": "5.0.0",
+    "file_name": "darwin-386.tar.gz",
+    "url": "https://github.com/mh-cbon/gh-api-cli/releases/download/5.0.0/darwin-386.tar.gz",
+    "platform": "macOS",
+    "architecture": "x86"
+  },
+  {
+    "product": "gh-api-cli",
+    "version": "5.0.0",
+    "file_name": "darwin-amd64.tar.gz",
+    "url": "https://github.com/mh-cbon/gh-api-cli/releases/download/5.0.0/darwin-amd64.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "gh-api-cli",
+    "version": "5.0.0",
+    "file_name": "gh-api-cli-386.deb",
+    "url": "https://github.com/mh-cbon/gh-api-cli/releases/download/5.0.0/gh-api-cli-386.deb",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "gh-api-cli",
+    "version": "5.0.0",
+    "file_name": "gh-api-cli-386.msi",
+    "url": "https://github.com/mh-cbon/gh-api-cli/releases/download/5.0.0/gh-api-cli-386.msi",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "gh-api-cli",
+    "version": "5.0.0",
+    "file_name": "gh-api-cli-386.rpm",
+    "url": "https://github.com/mh-cbon/gh-api-cli/releases/download/5.0.0/gh-api-cli-386.rpm",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "gh-api-cli",
+    "version": "5.0.0",
+    "file_name": "gh-api-cli-amd64.deb",
+    "url": "https://github.com/mh-cbon/gh-api-cli/releases/download/5.0.0/gh-api-cli-amd64.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "gh-api-cli",
+    "version": "5.0.0",
+    "file_name": "gh-api-cli-amd64.msi",
+    "url": "https://github.com/mh-cbon/gh-api-cli/releases/download/5.0.0/gh-api-cli-amd64.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "gh-api-cli",
+    "version": "5.0.0",
+    "file_name": "gh-api-cli-amd64.rpm",
+    "url": "https://github.com/mh-cbon/gh-api-cli/releases/download/5.0.0/gh-api-cli-amd64.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  }
+]

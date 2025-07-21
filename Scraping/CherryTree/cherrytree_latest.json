@@ -1,0 +1,58 @@
+[
+  {
+    "product": "CherryTree",
+    "version": "v1.5.0",
+    "file_name": "cherrytree-1.5.0.Fedora42_amd64.rpm",
+    "url": "https://github.com/giuspen/cherrytree/releases/download/v1.5.0/cherrytree-1.5.0.Fedora42_amd64.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "CherryTree",
+    "version": "v1.5.0",
+    "file_name": "cherrytree_1.5.0-2.Debian12_amd64.deb",
+    "url": "https://github.com/giuspen/cherrytree/releases/download/v1.5.0/cherrytree_1.5.0-2.Debian12_amd64.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "CherryTree",
+    "version": "v1.5.0",
+    "file_name": "cherrytree_1.5.0.0_win64_portable.7z",
+    "url": "https://github.com/giuspen/cherrytree/releases/download/v1.5.0/cherrytree_1.5.0.0_win64_portable.7z",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "CherryTree",
+    "version": "v1.5.0",
+    "file_name": "cherrytree_1.5.0.0_win64_portable_nolatex.7z",
+    "url": "https://github.com/giuspen/cherrytree/releases/download/v1.5.0/cherrytree_1.5.0.0_win64_portable_nolatex.7z",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "CherryTree",
+    "version": "v1.5.0",
+    "file_name": "cherrytree_1.5.0.0_win64_setup.exe",
+    "url": "https://github.com/giuspen/cherrytree/releases/download/v1.5.0/cherrytree_1.5.0.0_win64_setup.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "CherryTree",
+    "version": "v1.5.0",
+    "file_name": "cherrytree_1.5.0.0_win64_setup_nolatex.exe",
+    "url": "https://github.com/giuspen/cherrytree/releases/download/v1.5.0/cherrytree_1.5.0.0_win64_setup_nolatex.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "CherryTree",
+    "version": "v1.5.0",
+    "file_name": "cherrytree_1.5.0.tar.xz",
+    "url": "https://github.com/giuspen/cherrytree/releases/download/v1.5.0/cherrytree_1.5.0.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  }
+]

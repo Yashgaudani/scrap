@@ -1,0 +1,82 @@
+[
+  {
+    "product": "GPL Ghostscript",
+    "version": "10.05.1",
+    "file_name": "ghostpcl-10.05.1-win32.zip",
+    "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/ghostpcl-10.05.1-win32.zip",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "GPL Ghostscript",
+    "version": "10.05.1",
+    "file_name": "ghostpcl-10.05.1-win64.zip",
+    "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/ghostpcl-10.05.1-win64.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "GPL Ghostscript",
+    "version": "10.05.1",
+    "file_name": "ghostpdl-10.05.1.tar.gz",
+    "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/ghostpdl-10.05.1.tar.gz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "GPL Ghostscript",
+    "version": "10.05.1",
+    "file_name": "ghostpdl-10.05.1.tar.xz",
+    "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/ghostpdl-10.05.1.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "GPL Ghostscript",
+    "version": "10.05.1",
+    "file_name": "ghostscript-10.05.1.tar.gz",
+    "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/ghostscript-10.05.1.tar.gz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "GPL Ghostscript",
+    "version": "10.05.1",
+    "file_name": "ghostscript-10.05.1.tar.xz",
+    "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/ghostscript-10.05.1.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "GPL Ghostscript",
+    "version": "10.05.1",
+    "file_name": "ghostxps-10.05.1-win32.zip",
+    "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/ghostxps-10.05.1-win32.zip",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "GPL Ghostscript",
+    "version": "10.05.1",
+    "file_name": "ghostxps-10.05.1-win64.zip",
+    "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/ghostxps-10.05.1-win64.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "GPL Ghostscript",
+    "version": "10.5.1",
+    "file_name": "gs10051w32.exe",
+    "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/gs10051w32.exe",
+    "platform": "Unknown",
+    "architecture": "x86"
+  },
+  {
+    "product": "GPL Ghostscript",
+    "version": "10.5.1",
+    "file_name": "gs10051w64.exe",
+    "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10051/gs10051w64.exe",
+    "platform": "Unknown",
+    "architecture": "x64"
+  }
+]

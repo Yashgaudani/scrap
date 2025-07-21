@@ -1,0 +1,114 @@
+[
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrake-1.9.2-arm64-Win_GUI.exe",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-arm64-Win_GUI.exe",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrake-1.9.2-arm64-Win_GUI.zip",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-arm64-Win_GUI.zip",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrake-1.9.2-source.tar.bz2",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-source.tar.bz2",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrake-1.9.2-x86_64-Win_GUI.exe",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-x86_64-Win_GUI.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrake-1.9.2-x86_64-Win_GUI.zip",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-x86_64-Win_GUI.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrake-1.9.2-x86_64.flatpak",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2-x86_64.flatpak",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrake-1.9.2.dmg",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake-1.9.2.dmg",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrake.Plugin.IntelMediaSDK-1.9.2-x86_64.flatpak",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrake.Plugin.IntelMediaSDK-1.9.2-x86_64.flatpak",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrakeCLI-1.9.2-win-aarch64.zip",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrakeCLI-1.9.2-win-aarch64.zip",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrakeCLI-1.9.2-win-x86_64.zip",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrakeCLI-1.9.2-win-x86_64.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrakeCLI-1.9.2-x86_64.flatpak",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrakeCLI-1.9.2-x86_64.flatpak",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "HandBrakeCLI-1.9.2.dmg",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/HandBrakeCLI-1.9.2.dmg",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "LibHB-1.9.2-win-aarch64.zip",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/LibHB-1.9.2-win-aarch64.zip",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "HandBrake",
+    "version": "1.9.2",
+    "file_name": "LibHB-1.9.2-win-x86_64.zip",
+    "url": "https://github.com/HandBrake/HandBrake/releases/download/1.9.2/LibHB-1.9.2-win-x86_64.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  }
+]

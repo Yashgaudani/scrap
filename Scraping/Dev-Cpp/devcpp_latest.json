@@ -1,0 +1,18 @@
+[
+  {
+    "product": "Dev-C++",
+    "version": "4.9.9",
+    "file_name": "/Binaries/Dev-C++ 4.9.9.2/devcpp-4.9.9.2_setup.exe",
+    "url": "https://sourceforge.net/projects/dev-cpp/files/Binaries/Dev-C%2B%2B%204.9.9.2/devcpp-4.9.9.2_setup.exe/download",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Dev-C++",
+    "version": "4.9.9",
+    "file_name": "/Binaries/Dev-C++ 4.9.9.2/devcpp-4.9.9.2_nomingw_setup.exe",
+    "url": "https://sourceforge.net/projects/dev-cpp/files/Binaries/Dev-C%2B%2B%204.9.9.2/devcpp-4.9.9.2_nomingw_setup.exe/download",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  }
+]

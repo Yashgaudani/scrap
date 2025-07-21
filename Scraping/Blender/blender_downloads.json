@@ -1,0 +1,58 @@
+[
+  {
+    "product": "Blender",
+    "version": "4.5",
+    "file_name": "blender-4.5.0-linux-x64.tar.xz",
+    "url": "https://download.blender.org/release/Blender4.5/blender-4.5.0-linux-x64.tar.xz",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Blender",
+    "version": "4.5",
+    "file_name": "blender-4.5.0-macos-arm64.dmg",
+    "url": "https://download.blender.org/release/Blender4.5/blender-4.5.0-macos-arm64.dmg",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Blender",
+    "version": "4.5",
+    "file_name": "blender-4.5.0-macos-x64.dmg",
+    "url": "https://download.blender.org/release/Blender4.5/blender-4.5.0-macos-x64.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Blender",
+    "version": "4.5",
+    "file_name": "blender-4.5.0-windows-arm64.msi",
+    "url": "https://download.blender.org/release/Blender4.5/blender-4.5.0-windows-arm64.msi",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Blender",
+    "version": "4.5",
+    "file_name": "blender-4.5.0-windows-arm64.zip",
+    "url": "https://download.blender.org/release/Blender4.5/blender-4.5.0-windows-arm64.zip",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Blender",
+    "version": "4.5",
+    "file_name": "blender-4.5.0-windows-x64.msi",
+    "url": "https://download.blender.org/release/Blender4.5/blender-4.5.0-windows-x64.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Blender",
+    "version": "4.5",
+    "file_name": "blender-4.5.0-windows-x64.zip",
+    "url": "https://download.blender.org/release/Blender4.5/blender-4.5.0-windows-x64.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "product": "DB Browser for SQLite",
+    "version": "v3.13.1",
+    "file_name": "DB.Browser.for.SQLite-v3.13.1-win32.msi",
+    "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-win32.msi",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "DB Browser for SQLite",
+    "version": "v3.13.1",
+    "file_name": "DB.Browser.for.SQLite-v3.13.1-win32.zip",
+    "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-win32.zip",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "DB Browser for SQLite",
+    "version": "v3.13.1",
+    "file_name": "DB.Browser.for.SQLite-v3.13.1-win64.msi",
+    "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-win64.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "DB Browser for SQLite",
+    "version": "v3.13.1",
+    "file_name": "DB.Browser.for.SQLite-v3.13.1-win64.zip",
+    "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-win64.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "DB Browser for SQLite",
+    "version": "v3.13.1",
+    "file_name": "DB.Browser.for.SQLite-v3.13.1-x86.64-v2.AppImage",
+    "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1-x86.64-v2.AppImage",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "DB Browser for SQLite",
+    "version": "v3.13.1",
+    "file_name": "DB.Browser.for.SQLite-v3.13.1.dmg",
+    "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Browser.for.SQLite-v3.13.1.dmg",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "DB Browser for SQLite",
+    "version": "v3.13.1",
+    "file_name": "SQLiteDatabaseBrowserPortable_3.13.1.paf.exe",
+    "url": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/SQLiteDatabaseBrowserPortable_3.13.1.paf.exe",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  }
+]

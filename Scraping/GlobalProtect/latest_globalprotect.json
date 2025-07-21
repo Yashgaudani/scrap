@@ -1,0 +1,26 @@
+[
+  {
+    "product": "GlobalProtect",
+    "version": "6.3.3-650",
+    "file_name": "GlobalProtect.msi",
+    "url": "https://pan-gp-client.s3.amazonaws.com/6.3.3-650/GlobalProtect.msi",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "GlobalProtect",
+    "version": "6.3.3-650",
+    "file_name": "GlobalProtect.pkg",
+    "url": "https://pan-gp-client.s3.amazonaws.com/6.3.3-650/GlobalProtect.pkg",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "GlobalProtect",
+    "version": "6.3.3-650",
+    "file_name": "GlobalProtect64.msi",
+    "url": "https://pan-gp-client.s3.amazonaws.com/6.3.3-650/GlobalProtect64.msi",
+    "platform": "Windows",
+    "architecture": "64-bit"
+  }
+]

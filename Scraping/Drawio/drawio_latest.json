@@ -1,0 +1,138 @@
+[
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-27.0.9-windows-installer.exe",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-27.0.9-windows-installer.exe",
+    "platform": "Windows",
+    "architecture": "32-bit"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-27.0.9-windows.zip",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-27.0.9-windows.zip",
+    "platform": "Windows",
+    "architecture": "32-bit"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-27.0.9.msi",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-27.0.9.msi",
+    "platform": "Windows",
+    "architecture": "32-bit"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-arm64-27.0.9-windows-arm64-installer.exe",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-arm64-27.0.9-windows-arm64-installer.exe",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-arm64-27.0.9-windows-arm64-no-installer.exe",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-arm64-27.0.9-windows-arm64-no-installer.exe",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-arm64-27.0.9.dmg",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-arm64-27.0.9.dmg",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-arm64-27.0.9.zip",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-arm64-27.0.9.zip",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-ia32-27.0.9-windows-32bit-installer.exe",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-ia32-27.0.9-windows-32bit-installer.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-universal-27.0.9.dmg",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-universal-27.0.9.dmg",
+    "platform": "macOS",
+    "architecture": "universal"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-x64-27.0.9.dmg",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-x64-27.0.9.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "draw.io-x64-27.0.9.zip",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/draw.io-x64-27.0.9.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "drawio-aarch64-27.0.9.rpm",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-aarch64-27.0.9.rpm",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "drawio-amd64-27.0.9.deb",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-amd64-27.0.9.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "drawio-arm64-27.0.9.AppImage",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-arm64-27.0.9.AppImage",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "drawio-arm64-27.0.9.deb",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-arm64-27.0.9.deb",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "drawio-x86_64-27.0.9.AppImage",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-x86_64-27.0.9.AppImage",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Draw.io",
+    "version": "v27.0.9",
+    "file_name": "drawio-x86_64-27.0.9.rpm",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-x86_64-27.0.9.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  }
+]

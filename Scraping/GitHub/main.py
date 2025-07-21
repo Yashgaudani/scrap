@@ -3,11 +3,11 @@ import json
 import os
 
 # GitHub API URL for the latest release
-API_URL = "https://api.github.com/repos/DaxStudio/DaxStudio/releases/latest"
+API_URL = "https://api.github.com/repos/cli/cli/releases/latest"
 PRODUCT_NAME = "DAX Studio"
 
 # Destination JSON file path
-OUTPUT_PATH = "/home/yash-gaudani/R%D/patch/Scraping/dax_studio/daxstudio_latest.json"
+OUTPUT_PATH = "/home/yash-gaudani/R%D/patch/Scraping/GitHub/github_cli.json"
 
 # File extension to platform mapping
 EXTENSION_PLATFORM_MAP = {

@@ -1,0 +1,258 @@
+[
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "windows_10_cmake_Release_Graphviz-13.1.0-win64.zip",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/windows_10_cmake_Release_Graphviz-13.1.0-win64.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "windows_10_cmake_Release_graphviz-install-13.1.0-win32.exe",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/windows_10_cmake_Release_graphviz-install-13.1.0-win32.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "windows_10_cmake_Release_Graphviz-13.1.0-win32.zip",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/windows_10_cmake_Release_Graphviz-13.1.0-win32.zip",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "windows_10_cmake_Release_graphviz-install-13.1.0-win64.exe",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/windows_10_cmake_Release_graphviz-install-13.1.0-win64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "windows_10_cmake_Debug_Graphviz-13.1.0-win64.zip",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/windows_10_cmake_Debug_Graphviz-13.1.0-win64.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "windows_10_cmake_Debug_graphviz-install-13.1.0-win32.exe",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/windows_10_cmake_Debug_graphviz-install-13.1.0-win32.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "windows_10_cmake_Debug_Graphviz-13.1.0-win32.zip",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/windows_10_cmake_Debug_Graphviz-13.1.0-win32.zip",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "windows_10_cmake_Debug_graphviz-install-13.1.0-win64.exe",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/windows_10_cmake_Debug_graphviz-install-13.1.0-win64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "fedora_41_graphviz-13.1.0-rpms.tar.xz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/fedora_41_graphviz-13.1.0-rpms.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "fedora_41_graphviz-13.1.0-cmake.rpm",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/fedora_41_graphviz-13.1.0-cmake.rpm",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "fedora_42_graphviz-13.1.0-rpms.tar.xz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/fedora_42_graphviz-13.1.0-rpms.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "fedora_42_graphviz-13.1.0-cmake.rpm",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/fedora_42_graphviz-13.1.0-cmake.rpm",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "Darwin_23.6.0_Graphviz-13.1.0-Darwin.zip",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/Darwin_23.6.0_Graphviz-13.1.0-Darwin.zip",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "Darwin_23.6.0_graphviz-13.1.0-arm64.tar.gz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/Darwin_23.6.0_graphviz-13.1.0-arm64.tar.gz",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "rocky_8.9_graphviz-13.1.0-rpms.tar.xz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/rocky_8.9_graphviz-13.1.0-rpms.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "rocky_8.9_graphviz-13.1.0-cmake.rpm",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/rocky_8.9_graphviz-13.1.0-cmake.rpm",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "rocky_9.3_graphviz-13.1.0-rpms.tar.xz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/rocky_9.3_graphviz-13.1.0-rpms.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "rocky_9.3_graphviz-13.1.0-cmake.rpm",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/rocky_9.3_graphviz-13.1.0-cmake.rpm",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "ubuntu_22.04_graphviz-13.1.0-debs.tar.xz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/ubuntu_22.04_graphviz-13.1.0-debs.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "ubuntu_22.04_graphviz-13.1.0-cmake.deb",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/ubuntu_22.04_graphviz-13.1.0-cmake.deb",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "ubuntu_24.04_graphviz-13.1.0-debs.tar.xz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/ubuntu_24.04_graphviz-13.1.0-debs.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "ubuntu_24.04_graphviz-13.1.0-cmake.deb",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/ubuntu_24.04_graphviz-13.1.0-cmake.deb",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "ubuntu_25.04_graphviz-13.1.0-debs.tar.xz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/ubuntu_25.04_graphviz-13.1.0-debs.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "ubuntu_25.04_graphviz-13.1.0-cmake.deb",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/ubuntu_25.04_graphviz-13.1.0-cmake.deb",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "ubuntu_24.10_graphviz-13.1.0-debs.tar.xz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/ubuntu_24.10_graphviz-13.1.0-debs.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "ubuntu_24.10_graphviz-13.1.0-cmake.deb",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/ubuntu_24.10_graphviz-13.1.0-cmake.deb",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "msys2_3.6.3-bc3e285a.x86_64_Graphviz-13.1.0-win64.zip",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/msys2_3.6.3-bc3e285a.x86_64_Graphviz-13.1.0-win64.zip",
+    "platform": "MSYS2",
+    "architecture": "x64"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "msys2_3.6.3-bc3e285a.x86_64_Graphviz-13.1.0-win64.exe",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/msys2_3.6.3-bc3e285a.x86_64_Graphviz-13.1.0-win64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "CYGWIN_NT-10.0-20348_3.6.3_Graphviz-13.1.0-CYGWIN-1.tar.bz2",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/CYGWIN_NT-10.0-20348_3.6.3_Graphviz-13.1.0-CYGWIN-1.tar.bz2",
+    "platform": "Cygwin",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "CYGWIN_NT-10.0-20348_3.6.3_graphviz-13.1.0-x86_64.tar.xz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/CYGWIN_NT-10.0-20348_3.6.3_graphviz-13.1.0-x86_64.tar.xz",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "graphviz-13.1.0.tar.xz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/graphviz-13.1.0.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graphviz",
+    "version": "13.1.0",
+    "file_name": "graphviz-13.1.0.tar.gz",
+    "url": "https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.1.0/graphviz-13.1.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  }
+]

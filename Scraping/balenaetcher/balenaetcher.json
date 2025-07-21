@@ -1,0 +1,74 @@
+[
+  {
+    "product": "BalenaEtcher",
+    "version": "2.1.2",
+    "file_name": "balena-etcher-2.1.2-1.x86_64.rpm",
+    "url": "https://github.com/balena-io/etcher/releases/download/v2.1.2/balena-etcher-2.1.2-1.x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BalenaEtcher",
+    "version": "2.1.2",
+    "file_name": "balena-etcher_2.1.2_amd64.deb",
+    "url": "https://github.com/balena-io/etcher/releases/download/v2.1.2/balena-etcher_2.1.2_amd64.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BalenaEtcher",
+    "version": "2.1.2",
+    "file_name": "balenaEtcher-2.1.2-arm64.dmg",
+    "url": "https://github.com/balena-io/etcher/releases/download/v2.1.2/balenaEtcher-2.1.2-arm64.dmg",
+    "platform": "macOS",
+    "architecture": "ARM64"
+  },
+  {
+    "product": "BalenaEtcher",
+    "version": "2.1.2",
+    "file_name": "balenaEtcher-2.1.2-x64.dmg",
+    "url": "https://github.com/balena-io/etcher/releases/download/v2.1.2/balenaEtcher-2.1.2-x64.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "BalenaEtcher",
+    "version": "2.1.2",
+    "file_name": "balenaEtcher-2.1.2.Setup.exe",
+    "url": "https://github.com/balena-io/etcher/releases/download/v2.1.2/balenaEtcher-2.1.2.Setup.exe",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "BalenaEtcher",
+    "version": "2.1.2",
+    "file_name": "balenaEtcher-darwin-arm64-2.1.2.zip",
+    "url": "https://github.com/balena-io/etcher/releases/download/v2.1.2/balenaEtcher-darwin-arm64-2.1.2.zip",
+    "platform": "macOS",
+    "architecture": "ARM64"
+  },
+  {
+    "product": "BalenaEtcher",
+    "version": "2.1.2",
+    "file_name": "balenaEtcher-darwin-x64-2.1.2.zip",
+    "url": "https://github.com/balena-io/etcher/releases/download/v2.1.2/balenaEtcher-darwin-x64-2.1.2.zip",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "BalenaEtcher",
+    "version": "2.1.2",
+    "file_name": "balenaEtcher-linux-x64-2.1.2.zip",
+    "url": "https://github.com/balena-io/etcher/releases/download/v2.1.2/balenaEtcher-linux-x64-2.1.2.zip",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BalenaEtcher",
+    "version": "2.1.2",
+    "file_name": "balenaEtcher-win32-x64-2.1.2.zip",
+    "url": "https://github.com/balena-io/etcher/releases/download/v2.1.2/balenaEtcher-win32-x64-2.1.2.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  }
+]

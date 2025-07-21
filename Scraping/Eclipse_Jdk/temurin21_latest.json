@@ -1,0 +1,3132 @@
+[
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_windows_hotspot_21.0.7_6.zip",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_windows_hotspot_21.0.7_6.zip",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_windows_hotspot_21.0.7_6.zip.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_windows_hotspot_21.0.7_6.zip.json",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_riscv64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_riscv64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_s390x_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_s390x_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_s390x_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_s390x_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_mac_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_mac_hotspot_21.0.7_6.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_windows_hotspot_21.0.7_6.zip",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_windows_hotspot_21.0.7_6.zip",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_windows_hotspot_21.0.7_6.zip.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_windows_hotspot_21.0.7_6.zip.json",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-debugimage_x64_windows_hotspot_21.0.7_6.zip.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-debugimage_x64_windows_hotspot_21.0.7_6.zip.sig",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk-release-notes_21.0.6_7.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk-release-notes_21.0.6_7.json",
+    "platform": "Unknown",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk-sources_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk-sources_21.0.7_6.tar.gz",
+    "platform": "Unknown",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk-sources_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk-sources_21.0.7_6.tar.gz.json",
+    "platform": "Unknown",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk-sources_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk-sources_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Unknown",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk-sources_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk-sources_21.0.7_6.tar.gz.sig",
+    "platform": "Unknown",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.pkg",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.pkg",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".pkg"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.pkg.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.pkg.json",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.pkg.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.pkg.sha256.txt",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.pkg.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.pkg.sig",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.msi",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.msi",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".msi"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.msi.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.msi.json",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.msi.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.msi.sha256.txt",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.msi.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.msi.sig",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.zip",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.zip",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.zip.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.zip.json",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_ppc64_aix_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_riscv64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_s390x_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.pkg",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.pkg",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".pkg"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.pkg.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.pkg.json",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.pkg.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.pkg.sha256.txt",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.pkg.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.pkg.sig",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".msi"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi.json",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi.sha256.txt",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.msi.sig",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.zip",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.zip",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.zip.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.zip.json",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.zip.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk_x64_windows_hotspot_21.0.7_6.zip.sig",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".pkg"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg.json",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg.sha256.txt",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.pkg.sig",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".msi"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.json",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.sha256.txt",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.sig",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.json",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_s390x_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".pkg"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg.json",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg.sha256.txt",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.pkg.sig",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".msi"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi.json",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi.sha256.txt",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.msi.sig",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip.json",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_windows_hotspot_21.0.7_6.zip.sig",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_alpine-linux_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_alpine-linux_hotspot_21.0.7_6-metadata.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_alpine-linux_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_alpine-linux_hotspot_21.0.7_6.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_alpine-linux_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_alpine-linux_hotspot_21.0.7_6.json.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_linux_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_linux_hotspot_21.0.7_6-metadata.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_linux_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_linux_hotspot_21.0.7_6.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_linux_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_linux_hotspot_21.0.7_6.json.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_mac_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_mac_hotspot_21.0.7_6-metadata.json",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_mac_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_mac_hotspot_21.0.7_6.json",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_mac_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_mac_hotspot_21.0.7_6.json.sig",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_windows_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_windows_hotspot_21.0.7_6-metadata.json",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_windows_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_windows_hotspot_21.0.7_6.json",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_aarch64_windows_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_aarch64_windows_hotspot_21.0.7_6.json.sig",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_ppc64le_linux_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_ppc64le_linux_hotspot_21.0.7_6-metadata.json",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_ppc64le_linux_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_ppc64le_linux_hotspot_21.0.7_6.json",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_ppc64le_linux_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_ppc64le_linux_hotspot_21.0.7_6.json.sig",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_ppc64_aix_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_ppc64_aix_hotspot_21.0.7_6-metadata.json",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_ppc64_aix_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_ppc64_aix_hotspot_21.0.7_6.json",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_ppc64_aix_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_ppc64_aix_hotspot_21.0.7_6.json.sig",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_riscv64_linux_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_riscv64_linux_hotspot_21.0.7_6-metadata.json",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_riscv64_linux_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_riscv64_linux_hotspot_21.0.7_6.json",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_riscv64_linux_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_riscv64_linux_hotspot_21.0.7_6.json.sig",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_s390x_linux_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_s390x_linux_hotspot_21.0.7_6-metadata.json",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_s390x_linux_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_s390x_linux_hotspot_21.0.7_6.json",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_s390x_linux_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_s390x_linux_hotspot_21.0.7_6.json.sig",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_alpine-linux_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_alpine-linux_hotspot_21.0.7_6-metadata.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_alpine-linux_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_alpine-linux_hotspot_21.0.7_6.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_alpine-linux_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_alpine-linux_hotspot_21.0.7_6.json.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_linux_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_linux_hotspot_21.0.7_6-metadata.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_linux_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_linux_hotspot_21.0.7_6.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_linux_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_linux_hotspot_21.0.7_6.json.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_mac_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_mac_hotspot_21.0.7_6-metadata.json",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_mac_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_mac_hotspot_21.0.7_6.json",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_mac_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_mac_hotspot_21.0.7_6.json.sig",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_windows_hotspot_21.0.7_6-metadata.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_windows_hotspot_21.0.7_6-metadata.json",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_windows_hotspot_21.0.7_6.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_windows_hotspot_21.0.7_6.json",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-sbom_x64_windows_hotspot_21.0.7_6.json.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-sbom_x64_windows_hotspot_21.0.7_6.json.sig",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_aarch64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_aarch64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_riscv64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_riscv64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_riscv64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_riscv64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_s390x_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_s390x_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_s390x_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_s390x_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_x64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_x64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_x64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_x64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-glibc_x64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-glibc_x64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-musl_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-musl_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-musl_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-musl_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-musl_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-musl_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-musl_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-musl_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-musl_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-musl_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-musl_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-musl_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-musl_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-musl_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs-musl_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs-musl_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_aarch64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_aarch64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_aarch64_windows_hotspot_21.0.7_6.zip",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_aarch64_windows_hotspot_21.0.7_6.zip",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_aarch64_windows_hotspot_21.0.7_6.zip.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_aarch64_windows_hotspot_21.0.7_6.zip.json",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_ppc64_aix_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_ppc64_aix_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_x64_mac_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_x64_mac_hotspot_21.0.7_6.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_x64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_x64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_x64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_x64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_x64_windows_hotspot_21.0.7_6.zip",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_x64_windows_hotspot_21.0.7_6.zip",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_x64_windows_hotspot_21.0.7_6.zip.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_x64_windows_hotspot_21.0.7_6.zip.json",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-static-libs_x64_windows_hotspot_21.0.7_6.zip.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-static-libs_x64_windows_hotspot_21.0.7_6.zip.sig",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_mac_hotspot_21.0.7_6.tar.gz",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_windows_hotspot_21.0.7_6.zip",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_windows_hotspot_21.0.7_6.zip",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_windows_hotspot_21.0.7_6.zip.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_windows_hotspot_21.0.7_6.zip.json",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+    "platform": "Windows",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_ppc64le_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "ppc64le",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_ppc64_aix_hotspot_21.0.7_6.tar.gz",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_ppc64_aix_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "AIX",
+    "architecture": "Unknown",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_riscv64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_riscv64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_riscv64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "riscv64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_s390x_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_s390x_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_s390x_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_s390x_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_s390x_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_s390x_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_linux_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_linux_hotspot_21.0.7_6.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_linux_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_linux_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_mac_hotspot_21.0.7_6.tar.gz",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_mac_hotspot_21.0.7_6.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_mac_hotspot_21.0.7_6.tar.gz.json",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_mac_hotspot_21.0.7_6.tar.gz.sha256.txt",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_mac_hotspot_21.0.7_6.tar.gz.sig",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_windows_hotspot_21.0.7_6.zip",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_windows_hotspot_21.0.7_6.zip",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_windows_hotspot_21.0.7_6.zip.json",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_windows_hotspot_21.0.7_6.zip.json",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".json"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".txt"
+  },
+  {
+    "product": "Eclipse Temurin JRE with Hotspot",
+    "version": "21.0.7+6",
+    "file_name": "OpenJDK21U-testimage_x64_windows_hotspot_21.0.7_6.zip.sig",
+    "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-testimage_x64_windows_hotspot_21.0.7_6.zip.sig",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".sig"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "product": "grepWin",
+    "version": "2.1.9",
+    "file_name": "grepWin-2.1.9-x64.msi",
+    "url": "https://github.com/stefankueng/grepWin/releases/download/2.1.9/grepWin-2.1.9-x64.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "grepWin",
+    "version": "2.1.9",
+    "file_name": "grepWin-2.1.9.msi",
+    "url": "https://github.com/stefankueng/grepWin/releases/download/2.1.9/grepWin-2.1.9.msi",
+    "platform": "Windows",
+    "architecture": "x86"
+  }
+]

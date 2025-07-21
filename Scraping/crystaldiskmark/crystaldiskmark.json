@@ -1,0 +1,58 @@
+[
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.0.1",
+    "file_name": "CrystalDiskMark9_0_1ShizukuAds.exe",
+    "url": "https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1ShizukuAds.exe/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.0.1",
+    "file_name": "CrystalDiskMark9_0_1Ads.exe",
+    "url": "https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1Ads.exe/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.0.1",
+    "file_name": "CrystalDiskMark9_0_1Shizuku.zip",
+    "url": "https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1Shizuku.zip/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.0.1",
+    "file_name": "CrystalDiskMark9_0_1AoiAds.exe",
+    "url": "https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1AoiAds.exe/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.0.1",
+    "file_name": "CrystalDiskMark9_0_1Aoi.zip",
+    "url": "https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1Aoi.zip/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.0.1",
+    "file_name": "CrystalDiskMark9_0_1.zip",
+    "url": "https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1.zip/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.0.1",
+    "file_name": "CrystalDiskMark9_0_1Src.zip",
+    "url": "https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1Src.zip/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  }
+]

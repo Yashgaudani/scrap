@@ -1,0 +1,106 @@
+[
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "alacritty-bindings.5.gz",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/alacritty-bindings.5.gz",
+    "platform": "unknown",
+    "architecture": "unknown"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "alacritty-msg.1.gz",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/alacritty-msg.1.gz",
+    "platform": "unknown",
+    "architecture": "unknown"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "Alacritty-v0.15.1-installer.msi",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/Alacritty-v0.15.1-installer.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "Alacritty-v0.15.1-portable.exe",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/Alacritty-v0.15.1-portable.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "Alacritty-v0.15.1.dmg",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/Alacritty-v0.15.1.dmg",
+    "platform": "mac",
+    "architecture": "x64"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "alacritty.1.gz",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/alacritty.1.gz",
+    "platform": "unknown",
+    "architecture": "unknown"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "alacritty.5.gz",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/alacritty.5.gz",
+    "platform": "unknown",
+    "architecture": "unknown"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "alacritty.bash",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/alacritty.bash",
+    "platform": "unknown",
+    "architecture": "unknown"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "Alacritty.desktop",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/Alacritty.desktop",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "alacritty.fish",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/alacritty.fish",
+    "platform": "unknown",
+    "architecture": "unknown"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "alacritty.info",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/alacritty.info",
+    "platform": "unknown",
+    "architecture": "unknown"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "Alacritty.svg",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/Alacritty.svg",
+    "platform": "unknown",
+    "architecture": "unknown"
+  },
+  {
+    "product": "Alacritty",
+    "version": "v0.15.1",
+    "file_name": "_alacritty",
+    "url": "https://github.com/alacritty/alacritty/releases/download/v0.15.1/_alacritty",
+    "platform": "unknown",
+    "architecture": "unknown"
+  }
+]

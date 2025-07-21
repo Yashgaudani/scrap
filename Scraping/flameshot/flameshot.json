@@ -1,0 +1,138 @@
+[
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1-lp15.2.x86_64.rpm",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1-lp15.2.x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.amd64.snap",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.amd64.snap",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.debian-10.amd64.deb",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.debian-10.amd64.deb",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.debian-10.arm64.deb",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.debian-10.arm64.deb",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.debian-10.armhf.deb",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.debian-10.armhf.deb",
+    "platform": "Linux",
+    "architecture": "armhf"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.debian-11.amd64.deb",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.debian-11.amd64.deb",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.debian-11.arm64.deb",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.debian-11.arm64.deb",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.debian-11.armhf.deb",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.debian-11.armhf.deb",
+    "platform": "Linux",
+    "architecture": "armhf"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.fc35.x86_64.rpm",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.fc35.x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.fc36.x86_64.rpm",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.fc36.x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.ubuntu-20.04.amd64.deb",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.ubuntu-20.04.amd64.deb",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-1.ubuntu-22.04.amd64.deb",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-1.ubuntu-22.04.amd64.deb",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "Flameshot-12.1.0-win64.msi",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/Flameshot-12.1.0-win64.msi",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot-12.1.0-win64.zip",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot-12.1.0-win64.zip",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "Flameshot-12.1.0.x86_64.AppImage",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/Flameshot-12.1.0.x86_64.AppImage",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "flameshot.dmg",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot.dmg",
+    "platform": "macOS",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Flameshot",
+    "version": "v12.1.0",
+    "file_name": "org.flameshot.Flameshot-12.1.0.x86_64.flatpak",
+    "url": "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/org.flameshot.Flameshot-12.1.0.x86_64.flatpak",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  }
+]

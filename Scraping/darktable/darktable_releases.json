@@ -1,0 +1,50 @@
+[
+  {
+    "product": "Darktable",
+    "version": "release-5.2.0",
+    "file_name": "darktable-5.2.0-arm64-13.5.dmg",
+    "url": "https://github.com/darktable-org/darktable/releases/download/release-5.2.0/darktable-5.2.0-arm64-13.5.dmg",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Darktable",
+    "version": "release-5.2.0",
+    "file_name": "darktable-5.2.0-arm64.dmg",
+    "url": "https://github.com/darktable-org/darktable/releases/download/release-5.2.0/darktable-5.2.0-arm64.dmg",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Darktable",
+    "version": "release-5.2.0",
+    "file_name": "darktable-5.2.0-win64.exe",
+    "url": "https://github.com/darktable-org/darktable/releases/download/release-5.2.0/darktable-5.2.0-win64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Darktable",
+    "version": "release-5.2.0",
+    "file_name": "Darktable-5.2.0-x86_64.AppImage",
+    "url": "https://github.com/darktable-org/darktable/releases/download/release-5.2.0/Darktable-5.2.0-x86_64.AppImage",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Darktable",
+    "version": "release-5.2.0",
+    "file_name": "darktable-5.2.0-x86_64.dmg",
+    "url": "https://github.com/darktable-org/darktable/releases/download/release-5.2.0/darktable-5.2.0-x86_64.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Darktable",
+    "version": "release-5.2.0",
+    "file_name": "darktable-5.2.0.tar.xz",
+    "url": "https://github.com/darktable-org/darktable/releases/download/release-5.2.0/darktable-5.2.0.tar.xz",
+    "platform": "Linux",
+    "architecture": "source"
+  }
+]

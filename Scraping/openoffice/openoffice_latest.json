@@ -1,0 +1,98 @@
+[
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Win_x86_langpack_en-US.exe",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Win_x86_langpack_en-US.exe/download",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Win_x86_install_en-US.exe",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Win_x86_install_en-US.exe/download",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_MacOS_x86-64_langpack_en-US.dmg",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_MacOS_x86-64_langpack_en-US.dmg/download",
+    "platform": "macOS",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_MacOS_x86-64_install_en-US.dmg",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_MacOS_x86-64_install_en-US.dmg/download",
+    "platform": "macOS",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86_langpack-rpm_en-US.tar.gz",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86_langpack-rpm_en-US.tar.gz/download",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86_langpack-deb_en-US.tar.gz",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86_langpack-deb_en-US.tar.gz/download",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86_install-rpm_en-US.tar.gz",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86_install-rpm_en-US.tar.gz/download",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86_install-deb_en-US.tar.gz",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86_install-deb_en-US.tar.gz/download",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86-64_langpack-rpm_en-US.tar.gz",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86-64_langpack-rpm_en-US.tar.gz/download",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86-64_langpack-deb_en-US.tar.gz",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86-64_langpack-deb_en-US.tar.gz/download",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86-64_install-rpm_en-US.tar.gz",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86-64_install-rpm_en-US.tar.gz/download",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "OpenOffice",
+    "version": "4.1.15",
+    "file_name": "/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86-64_install-deb_en-US.tar.gz",
+    "url": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.15/binaries/en-US/Apache_OpenOffice_4.1.15_Linux_x86-64_install-deb_en-US.tar.gz/download",
+    "platform": "Linux",
+    "architecture": "x86"
+  }
+]

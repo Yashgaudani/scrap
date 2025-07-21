@@ -1,0 +1,149 @@
+[
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Linux \u2013 DEB",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_386.deb",
+    "platform": "Linux"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Linux \u2013 RPM",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_386.rpm",
+    "platform": "Linux"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Cross-platform \u2013 TAR.GZ",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_386.tar.gz",
+    "platform": "Cross-platform"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Linux \u2013 DEB",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_amd64.deb",
+    "platform": "Linux"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Linux \u2013 RPM",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_amd64.rpm",
+    "platform": "Linux"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Cross-platform \u2013 TAR.GZ",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_amd64.tar.gz",
+    "platform": "Cross-platform"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Linux \u2013 DEB",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_arm64.deb",
+    "platform": "Linux"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Linux \u2013 RPM",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_arm64.rpm",
+    "platform": "Linux"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Cross-platform \u2013 TAR.GZ",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_arm64.tar.gz",
+    "platform": "Cross-platform"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Linux \u2013 DEB",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_armv6.deb",
+    "platform": "Linux"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Linux \u2013 RPM",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_armv6.rpm",
+    "platform": "Linux"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Cross-platform \u2013 TAR.GZ",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_linux_armv6.tar.gz",
+    "platform": "Cross-platform"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Cross-platform \u2013 ZIP",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_macOS_amd64.zip",
+    "platform": "Cross-platform"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Cross-platform \u2013 ZIP",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_macOS_arm64.zip",
+    "platform": "Cross-platform"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for macOS \u2013 PKG",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_macOS_universal.pkg",
+    "platform": "macOS"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Windows \u2013 MSI",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_windows_386.msi",
+    "platform": "Windows"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Cross-platform \u2013 ZIP",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_windows_386.zip",
+    "platform": "Cross-platform"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Windows \u2013 MSI",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_windows_amd64.msi",
+    "platform": "Windows"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Cross-platform \u2013 ZIP",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_windows_amd64.zip",
+    "platform": "Cross-platform"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Windows \u2013 MSI",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_windows_arm64.msi",
+    "platform": "Windows"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "2.74.2",
+    "text": "Download for Cross-platform \u2013 ZIP",
+    "url": "https://github.com/cli/cli/releases/download/v2.74.2/gh_2.74.2_windows_arm64.zip",
+    "platform": "Cross-platform"
+  }
+]

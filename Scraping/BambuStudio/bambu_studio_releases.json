@@ -1,0 +1,50 @@
+[
+  {
+    "product": "BambuStudio",
+    "version": "v02.01.01.52",
+    "file_name": "BambuStudio_ubuntu-22.04_PR-7292.zip",
+    "url": "https://github.com/bambulab/BambuStudio/releases/download/v02.01.01.52/BambuStudio_ubuntu-22.04_PR-7292.zip",
+    "platform": "unknown",
+    "architecture": "unknown"
+  },
+  {
+    "product": "BambuStudio",
+    "version": "v02.01.01.52",
+    "file_name": "BambuStudio_ubuntu-24.04_PR-7292.zip",
+    "url": "https://github.com/bambulab/BambuStudio/releases/download/v02.01.01.52/BambuStudio_ubuntu-24.04_PR-7292.zip",
+    "platform": "unknown",
+    "architecture": "unknown"
+  },
+  {
+    "product": "BambuStudio",
+    "version": "v02.01.01.52",
+    "file_name": "Bambu_Studio_linux_fedora-v02.01.01.52.AppImage",
+    "url": "https://github.com/bambulab/BambuStudio/releases/download/v02.01.01.52/Bambu_Studio_linux_fedora-v02.01.01.52.AppImage",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BambuStudio",
+    "version": "v02.01.01.52",
+    "file_name": "Bambu_Studio_mac-v02.01.01.52-20250616155614.dmg",
+    "url": "https://github.com/bambulab/BambuStudio/releases/download/v02.01.01.52/Bambu_Studio_mac-v02.01.01.52-20250616155614.dmg",
+    "platform": "mac",
+    "architecture": "x64"
+  },
+  {
+    "product": "BambuStudio",
+    "version": "v02.01.01.52",
+    "file_name": "Bambu_Studio_win-v02.01.01.52-20250616155614.zip",
+    "url": "https://github.com/bambulab/BambuStudio/releases/download/v02.01.01.52/Bambu_Studio_win-v02.01.01.52-20250616155614.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "BambuStudio",
+    "version": "v02.01.01.52",
+    "file_name": "Bambu_Studio_win_public-v02.01.01.52-20250616155614.exe",
+    "url": "https://github.com/bambulab/BambuStudio/releases/download/v02.01.01.52/Bambu_Studio_win_public-v02.01.01.52-20250616155614.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  }
+]

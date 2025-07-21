@@ -1,0 +1,10 @@
+[
+  {
+    "product": "Client Center for Configuration Manager",
+    "version": "1.0.6.1",
+    "file_name": "Client.Center.for.Configuration.Manager_v1.0.6.1.msi",
+    "url": "https://github.com/rzander/sccmclictr/releases/download/1.0.6.1/Client.Center.for.Configuration.Manager_v1.0.6.1.msi",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  }
+]

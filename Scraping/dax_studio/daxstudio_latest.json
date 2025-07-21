@@ -1,0 +1,16 @@
+[
+  {
+    "product": "DAX Studio",
+    "version": "3.3.1",
+    "text": "Download for Cross-platform \u2013 ZIP",
+    "url": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.3.1/DaxStudio_3_3_1_portable.zip",
+    "platform": "Cross-platform"
+  },
+  {
+    "product": "DAX Studio",
+    "version": "3.3.1",
+    "text": "Download for Windows \u2013 EXE",
+    "url": "https://github.com/DaxStudio/DaxStudio/releases/download/v3.3.1/DaxStudio_3_3_1_setup.exe",
+    "platform": "Windows"
+  }
+]

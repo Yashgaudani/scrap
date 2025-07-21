@@ -1,0 +1,482 @@
+[
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-23-jdk-23.0.2.7_0.49.0-1.aarch64.rpm",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-23-jdk-23.0.2.7_0.49.0-1.aarch64.rpm",
+    "platform": "Unknown",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".rpm"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-23-jdk-23.0.2.7_0.49.0-1.ppc64.rpm",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-23-jdk-23.0.2.7_0.49.0-1.ppc64.rpm",
+    "platform": "Unknown",
+    "architecture": "ppc64",
+    "type": "JDK",
+    "extension": ".rpm"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-23-jdk-23.0.2.7_0.49.0-1.ppc64le.rpm",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-23-jdk-23.0.2.7_0.49.0-1.ppc64le.rpm",
+    "platform": "Unknown",
+    "architecture": "ppc64",
+    "type": "JDK",
+    "extension": ".rpm"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-23-jdk-23.0.2.7_0.49.0-1.s390x.rpm",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-23-jdk-23.0.2.7_0.49.0-1.s390x.rpm",
+    "platform": "Unknown",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".rpm"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-23-jdk-23.0.2.7_0.49.0-1.x86_64.rpm",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-23-jdk-23.0.2.7_0.49.0-1.x86_64.rpm",
+    "platform": "Unknown",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".rpm"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-23-jre-23.0.2.7_0.49.0-1.aarch64.rpm",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-23-jre-23.0.2.7_0.49.0-1.aarch64.rpm",
+    "platform": "Unknown",
+    "architecture": "aarch64",
+    "type": "JRE",
+    "extension": ".rpm"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-23-jre-23.0.2.7_0.49.0-1.ppc64.rpm",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-23-jre-23.0.2.7_0.49.0-1.ppc64.rpm",
+    "platform": "Unknown",
+    "architecture": "ppc64",
+    "type": "JRE",
+    "extension": ".rpm"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-23-jre-23.0.2.7_0.49.0-1.ppc64le.rpm",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-23-jre-23.0.2.7_0.49.0-1.ppc64le.rpm",
+    "platform": "Unknown",
+    "architecture": "ppc64",
+    "type": "JRE",
+    "extension": ".rpm"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-23-jre-23.0.2.7_0.49.0-1.s390x.rpm",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-23-jre-23.0.2.7_0.49.0-1.s390x.rpm",
+    "platform": "Unknown",
+    "architecture": "s390x",
+    "type": "JRE",
+    "extension": ".rpm"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-23-jre-23.0.2.7_0.49.0-1.x86_64.rpm",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-23-jre-23.0.2.7_0.49.0-1.x86_64.rpm",
+    "platform": "Unknown",
+    "architecture": "x64",
+    "type": "JRE",
+    "extension": ".rpm"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-debugimage_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-debugimage_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "DebugImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-debugimage_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-debugimage_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "DebugImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-debugimage_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-debugimage_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "ppc64",
+    "type": "DebugImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-debugimage_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-debugimage_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "AIX",
+    "architecture": "ppc64",
+    "type": "DebugImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-debugimage_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-debugimage_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "DebugImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-debugimage_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-debugimage_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "DebugImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-debugimage_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-debugimage_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "DebugImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-debugimage_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-debugimage_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "DebugImage",
+    "extension": ".zip"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".pkg"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "ppc64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "AIX",
+    "architecture": "ppc64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_x64_mac_23.0.2_7_openj9-0.49.0.pkg",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_x64_mac_23.0.2_7_openj9-0.49.0.pkg",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".pkg"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_x64_windows_23.0.2_7_openj9-0.49.0.msi",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_x64_windows_23.0.2_7_openj9-0.49.0.msi",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".msi"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jdk_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jdk_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JDK",
+    "extension": ".zip"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "JRE",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JRE",
+    "extension": ".pkg"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "JRE",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "ppc64",
+    "type": "JRE",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "AIX",
+    "architecture": "ppc64",
+    "type": "JRE",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "JRE",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "JRE",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.pkg",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.pkg",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JRE",
+    "extension": ".pkg"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "JRE",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.msi",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.msi",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JRE",
+    "extension": ".msi"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "JRE",
+    "extension": ".zip"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-testimage_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-testimage_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64",
+    "type": "TestImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-testimage_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-testimage_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "macOS",
+    "architecture": "aarch64",
+    "type": "TestImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-testimage_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-testimage_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "ppc64",
+    "type": "TestImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-testimage_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-testimage_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "AIX",
+    "architecture": "ppc64",
+    "type": "TestImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-testimage_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-testimage_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "s390x",
+    "type": "TestImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-testimage_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-testimage_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64",
+    "type": "TestImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-testimage_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-testimage_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64",
+    "type": "TestImage",
+    "extension": ".tar.gz"
+  },
+  {
+    "product": "IBM Semeru Runtime Open Edition",
+    "version": "23.0.2",
+    "file_name": "ibm-semeru-open-testimage_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+    "url": "https://github.com/ibmruntimes/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-testimage_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+    "platform": "Windows",
+    "architecture": "x64",
+    "type": "TestImage",
+    "extension": ".zip"
+  }
+]

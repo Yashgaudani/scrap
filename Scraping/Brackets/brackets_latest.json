@@ -1,0 +1,18 @@
+[
+  {
+    "product": "Brackets",
+    "version": "release-1.14.2",
+    "file_name": "Brackets.Release.1.14.2.dmg",
+    "url": "https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.dmg",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Brackets",
+    "version": "release-1.14.2",
+    "file_name": "Brackets.Release.1.14.2.msi",
+    "url": "https://github.com/adobe/brackets/releases/download/release-1.14.2/Brackets.Release.1.14.2.msi",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  }
+]

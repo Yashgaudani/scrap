@@ -1,0 +1,162 @@
+[
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-linux-aarch64.sh",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-linux-aarch64.sh",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-linux-aarch64.tar.gz",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-linux-aarch64.tar.gz",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-linux-x86_64.sh",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-linux-x86_64.sh",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-linux-x86_64.tar.gz",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-linux-x86_64.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-macos-universal.dmg",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-macos-universal.dmg",
+    "platform": "macOS",
+    "architecture": "universal"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-macos-universal.tar.gz",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-macos-universal.tar.gz",
+    "platform": "macOS",
+    "architecture": "universal"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-macos10.10-universal.dmg",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-macos10.10-universal.dmg",
+    "platform": "macOS",
+    "architecture": "universal"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-macos10.10-universal.tar.gz",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-macos10.10-universal.tar.gz",
+    "platform": "macOS",
+    "architecture": "universal"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-sunos-sparc64.sh",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-sunos-sparc64.sh",
+    "platform": "SunOS",
+    "architecture": "sparc64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-sunos-sparc64.tar.gz",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-sunos-sparc64.tar.gz",
+    "platform": "SunOS",
+    "architecture": "sparc64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-sunos-x86_64.sh",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-sunos-x86_64.sh",
+    "platform": "SunOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-sunos-x86_64.tar.gz",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-sunos-x86_64.tar.gz",
+    "platform": "SunOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-windows-arm64.msi",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-windows-arm64.msi",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-windows-arm64.zip",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-windows-arm64.zip",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-windows-i386.msi",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-windows-i386.msi",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-windows-i386.zip",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-windows-i386.zip",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-windows-x86_64.msi",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-windows-x86_64.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3-windows-x86_64.zip",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-windows-x86_64.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3.tar.gz",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3.tar.gz",
+    "platform": "Unknown",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "CMake",
+    "version": "v4.0.3",
+    "file_name": "cmake-4.0.3.zip",
+    "url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3.zip",
+    "platform": "Unknown",
+    "architecture": "Unknown"
+  }
+]

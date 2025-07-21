@@ -1,0 +1,130 @@
+[
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-1.60.0-delta.nupkg",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-1.60.0-delta.nupkg",
+    "platform": "Unknown",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-1.60.0-full.nupkg",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-1.60.0-full.nupkg",
+    "platform": "Unknown",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-amd64.deb",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-amd64.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-amd64.tar.gz",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-amd64.tar.gz",
+    "platform": "Cross-platform",
+    "architecture": "x64"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-api.json",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-api.json",
+    "platform": "Unknown",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-mac-symbols.zip",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-mac-symbols.zip",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-mac.zip",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-mac.zip",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-windows.zip",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-windows.zip",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-x64-1.60.0-delta.nupkg",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-x64-1.60.0-delta.nupkg",
+    "platform": "Unknown",
+    "architecture": "x64"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-x64-1.60.0-full.nupkg",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-x64-1.60.0-full.nupkg",
+    "platform": "Unknown",
+    "architecture": "x64"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom-x64-windows.zip",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom-x64-windows.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "atom.x86_64.rpm",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/atom.x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "AtomSetup-x64.exe",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup-x64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "AtomSetup.exe",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/AtomSetup.exe",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "RELEASES",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/RELEASES",
+    "platform": "Unknown",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Atom",
+    "version": "1.60.0",
+    "file_name": "RELEASES-x64",
+    "url": "https://github.com/atom/atom/releases/download/v1.60.0/RELEASES-x64",
+    "platform": "Unknown",
+    "architecture": "x64"
+  }
+]
