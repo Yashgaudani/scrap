@@ -1,0 +1,202 @@
+[
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-1.15-1.noarch.rpm",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-1.15-1.noarch.rpm",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-1.15-linux-installer.pl",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-1.15-linux-installer.pl",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-1.15-with-snap-linux-installer.pl",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-1.15-with-snap-linux-installer.pl",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "GLPI-Agent-1.15-x64.msi",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/GLPI-Agent-1.15-x64.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "GLPI-Agent-1.15-x64.zip",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/GLPI-Agent-1.15-x64.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-1.15-x86_64.AppImage",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-1.15-x86_64.AppImage",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-1.15-x86_64.AppImage.zsync",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-1.15-x86_64.AppImage.zsync",
+    "platform": "Unknown",
+    "architecture": "x64"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-1.15.sha256",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-1.15.sha256",
+    "platform": "Unknown",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "GLPI-Agent-1.15.tar.gz",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/GLPI-Agent-1.15.tar.gz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "GLPI-Agent-1.15_arm64.dmg",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/GLPI-Agent-1.15_arm64.dmg",
+    "platform": "macOS",
+    "architecture": "ARM64"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "GLPI-Agent-1.15_arm64.pkg",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/GLPI-Agent-1.15_arm64.pkg",
+    "platform": "macOS",
+    "architecture": "ARM64"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "GLPI-Agent-1.15_x86_64.dmg",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/GLPI-Agent-1.15_x86_64.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "GLPI-Agent-1.15_x86_64.pkg",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/GLPI-Agent-1.15_x86_64.pkg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-cron-1.15-1.noarch.rpm",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-cron-1.15-1.noarch.rpm",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-task-collect-1.15-1.noarch.rpm",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-task-collect-1.15-1.noarch.rpm",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-task-collect_1.15-1_all.deb",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-task-collect_1.15-1_all.deb",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-task-deploy-1.15-1.noarch.rpm",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-task-deploy-1.15-1.noarch.rpm",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-task-deploy_1.15-1_all.deb",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-task-deploy_1.15-1_all.deb",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-task-esx-1.15-1.noarch.rpm",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-task-esx-1.15-1.noarch.rpm",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-task-esx_1.15-1_all.deb",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-task-esx_1.15-1_all.deb",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-task-network-1.15-1.noarch.rpm",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-task-network-1.15-1.noarch.rpm",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-task-network_1.15-1_all.deb",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-task-network_1.15-1_all.deb",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent-task-wakeonlan-1.15-1.noarch.rpm",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent-task-wakeonlan-1.15-1.noarch.rpm",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent_1.15-1_all.deb",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent_1.15-1_all.deb",
+    "platform": "Linux",
+    "architecture": "None"
+  },
+  {
+    "product": "GLPI Agent",
+    "version": "1.15",
+    "file_name": "glpi-agent_1.15_amd64.snap",
+    "url": "https://github.com/glpi-project/glpi-agent/releases/download/1.15/glpi-agent_1.15_amd64.snap",
+    "platform": "Linux",
+    "architecture": "x64"
+  }
+]

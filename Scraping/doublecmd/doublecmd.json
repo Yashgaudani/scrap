@@ -1,0 +1,154 @@
+[
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26-src.tar.gz",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26-src.tar.gz",
+    "platform": "Source",
+    "architecture": "All"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.cocoa.aarch64.dmg",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.cocoa.aarch64.dmg",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.cocoa.x86_64.dmg",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.cocoa.x86_64.dmg",
+    "platform": "macOS",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.gtk2.aarch64.tar.xz",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.gtk2.aarch64.tar.xz",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.gtk2.i386.tar.xz",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.gtk2.i386.tar.xz",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.gtk2.x86_64.AppImage",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.gtk2.x86_64.AppImage",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.gtk2.x86_64.tar.xz",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.gtk2.x86_64.tar.xz",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.i386-win32.exe",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.i386-win32.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.i386-win32.msi",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.i386-win32.msi",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.i386-win32.zip",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.i386-win32.zip",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.qt.aarch64.tar.xz",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.qt.aarch64.tar.xz",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.qt.i386.tar.xz",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.qt.i386.tar.xz",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.qt.x86_64.AppImage",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.qt.x86_64.AppImage",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.qt.x86_64.tar.xz",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.qt.x86_64.tar.xz",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.qt6.aarch64.tar.xz",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.qt6.aarch64.tar.xz",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.qt6.x86_64.tar.xz",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.qt6.x86_64.tar.xz",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.x86_64-win64.exe",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.x86_64-win64.exe",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.x86_64-win64.msi",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.x86_64-win64.msi",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Double Commander",
+    "version": "1.1.26",
+    "file_name": "doublecmd-1.1.26.x86_64-win64.zip",
+    "url": "https://github.com/doublecmd/doublecmd/releases/download/v1.1.26/doublecmd-1.1.26.x86_64-win64.zip",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  }
+]

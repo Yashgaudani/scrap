@@ -1,0 +1,26 @@
+[
+  {
+    "product": "ConEmu",
+    "version": "23.07.24",
+    "file_name": "ConEmuPack.230724.7z",
+    "url": "https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmuPack.230724.7z",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "ConEmu",
+    "version": "23.07.24",
+    "file_name": "ConEmuSetup.230724.exe",
+    "url": "https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmuSetup.230724.exe",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "ConEmu",
+    "version": "23.07.24",
+    "file_name": "ConEmu_230724_English.paf.exe",
+    "url": "https://github.com/Maximus5/ConEmu/releases/download/v23.07.24/ConEmu_230724_English.paf.exe",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  }
+]

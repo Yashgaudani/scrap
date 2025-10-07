@@ -1,0 +1,58 @@
+[
+  {
+    "product": "CCA",
+    "version": "3.5.4",
+    "file_name": "CCA-3.5.4.dmg",
+    "url": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.4/CCA-3.5.4.dmg",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "CCA",
+    "version": "3.5.4",
+    "file_name": "CCA-Portable-x64-3.5.4.exe",
+    "url": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.4/CCA-Portable-x64-3.5.4.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "CCA",
+    "version": "3.5.4",
+    "file_name": "CCA-Setup-3.5.4.msi",
+    "url": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.4/CCA-Setup-3.5.4.msi",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "CCA",
+    "version": "3.5.4",
+    "file_name": "CCA-Setup-x64-3.5.4.exe",
+    "url": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.4/CCA-Setup-x64-3.5.4.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "CCA",
+    "version": "3.5.4",
+    "file_name": "Colour-Contrast-Analyser-Setup-3.5.4.AppImage",
+    "url": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.4/Colour-Contrast-Analyser-Setup-3.5.4.AppImage",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "CCA",
+    "version": "3.5.4",
+    "file_name": "Colour-Contrast-Analyser-Setup-3.5.4.deb",
+    "url": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.4/Colour-Contrast-Analyser-Setup-3.5.4.deb",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "CCA",
+    "version": "3.5.4",
+    "file_name": "Colour-Contrast-Analyser-Setup-3.5.4.rpm",
+    "url": "https://github.com/ThePacielloGroup/CCAe/releases/download/v3.5.4/Colour-Contrast-Analyser-Setup-3.5.4.rpm",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  }
+]

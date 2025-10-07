@@ -1,0 +1,266 @@
+[
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client-8.2.5-2581.x86_64_fc37.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client-8.2.5-2581.x86_64_fc37.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client-8.2.5-2581.x86_64_fc38.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client-8.2.5-2581.x86_64_fc38.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client-8.2.5-2581.x86_64_fc39.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client-8.2.5-2581.x86_64_fc39.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client-8.2.5-2581.x86_64_fc40.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client-8.2.5-2581.x86_64_fc40.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client-8.2.5-2581.x86_64_fc41.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client-8.2.5-2581.x86_64_fc41.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client-8.2.5-2581.x86_64_fc42.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client-8.2.5-2581.x86_64_fc42.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client-8.2.5-2581.x86_64_suse15_4.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client-8.2.5-2581.x86_64_suse15_4.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client-8.2.5-2581.x86_64_suse15_5.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client-8.2.5-2581.x86_64_suse15_5.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client-8.2.5-2581.x86_64_suse15_6.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client-8.2.5-2581.x86_64_suse15_6.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client_8.2.5-2581_amd64_bookworm.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client_8.2.5-2581_amd64_bookworm.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client_8.2.5-2581_amd64_bullseye.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client_8.2.5-2581_amd64_bullseye.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client_8.2.5-2581_amd64_buster.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client_8.2.5-2581_amd64_buster.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client_8.2.5-2581_amd64_focal.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client_8.2.5-2581_amd64_focal.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client_8.2.5-2581_amd64_jammy.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client_8.2.5-2581_amd64_jammy.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-client_8.2.5-2581_amd64_noble.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-client_8.2.5-2581_amd64_noble.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager-8.2.5-2581.x86_64_fc37.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager-8.2.5-2581.x86_64_fc37.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager-8.2.5-2581.x86_64_fc38.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager-8.2.5-2581.x86_64_fc38.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager-8.2.5-2581.x86_64_fc39.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager-8.2.5-2581.x86_64_fc39.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager-8.2.5-2581.x86_64_fc40.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager-8.2.5-2581.x86_64_fc40.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager-8.2.5-2581.x86_64_fc41.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager-8.2.5-2581.x86_64_fc41.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager-8.2.5-2581.x86_64_fc42.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager-8.2.5-2581.x86_64_fc42.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager-8.2.5-2581.x86_64_suse15_4.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager-8.2.5-2581.x86_64_suse15_4.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager-8.2.5-2581.x86_64_suse15_5.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager-8.2.5-2581.x86_64_suse15_5.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager-8.2.5-2581.x86_64_suse15_6.rpm",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager-8.2.5-2581.x86_64_suse15_6.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager_8.2.5-2581_amd64_bookworm.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager_8.2.5-2581_amd64_bookworm.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager_8.2.5-2581_amd64_bullseye.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager_8.2.5-2581_amd64_bullseye.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager_8.2.5-2581_amd64_buster.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager_8.2.5-2581_amd64_buster.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager_8.2.5-2581_amd64_focal.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager_8.2.5-2581_amd64_focal.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager_8.2.5-2581_amd64_jammy.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager_8.2.5-2581_amd64_jammy.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc-manager_8.2.5-2581_amd64_noble.deb",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc-manager_8.2.5-2581_amd64_noble.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc_8.2.5_windows_arm64.exe",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc_8.2.5_windows_arm64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc_8.2.5_windows_x86_64.exe",
+    "url": "https://github.com/BOINC/boinc/releases/download/client_release/8.2/8.2.5/boinc_8.2.5_windows_x86_64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "BOINC",
+    "version": "8.2.5",
+    "file_name": "boinc_8.2.5_universal-apple-darwin.dmg",
+    "url": "https://boinc.berkeley.edu/dl/boinc_8.2.5_universal-apple-darwin.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  }
+]

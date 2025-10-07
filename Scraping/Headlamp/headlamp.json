@@ -1,0 +1,74 @@
+[
+  {
+    "product": "Headlamp",
+    "version": "0.33.0",
+    "file_name": "Headlamp-0.33.0-linux-arm64.AppImage",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.33.0/Headlamp-0.33.0-linux-arm64.AppImage",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Headlamp",
+    "version": "0.33.0",
+    "file_name": "Headlamp-0.33.0-linux-arm64.tar.gz",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.33.0/Headlamp-0.33.0-linux-arm64.tar.gz",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Headlamp",
+    "version": "0.33.0",
+    "file_name": "Headlamp-0.33.0-linux-armv7l.AppImage",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.33.0/Headlamp-0.33.0-linux-armv7l.AppImage",
+    "platform": "Linux",
+    "architecture": "armv7"
+  },
+  {
+    "product": "Headlamp",
+    "version": "0.33.0",
+    "file_name": "Headlamp-0.33.0-linux-armv7l.tar.gz",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.33.0/Headlamp-0.33.0-linux-armv7l.tar.gz",
+    "platform": "Linux",
+    "architecture": "armv7"
+  },
+  {
+    "product": "Headlamp",
+    "version": "0.33.0",
+    "file_name": "Headlamp-0.33.0-linux-x64.AppImage",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.33.0/Headlamp-0.33.0-linux-x64.AppImage",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Headlamp",
+    "version": "0.33.0",
+    "file_name": "Headlamp-0.33.0-linux-x64.tar.gz",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.33.0/Headlamp-0.33.0-linux-x64.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Headlamp",
+    "version": "0.33.0",
+    "file_name": "Headlamp-0.33.0-mac-arm64.dmg",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.33.0/Headlamp-0.33.0-mac-arm64.dmg",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Headlamp",
+    "version": "0.33.0",
+    "file_name": "Headlamp-0.33.0-mac-x64.dmg",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.33.0/Headlamp-0.33.0-mac-x64.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Headlamp",
+    "version": "0.33.0",
+    "file_name": "Headlamp-0.33.0-win-x64.exe",
+    "url": "https://github.com/kubernetes-sigs/headlamp/releases/download/v0.33.0/Headlamp-0.33.0-win-x64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  }
+]

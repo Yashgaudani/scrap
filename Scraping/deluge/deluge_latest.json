@@ -1,0 +1,50 @@
+[
+  {
+    "product": "Deluge",
+    "version": "2.2.0",
+    "file_name": "deluge-2.2.0-win32-lt2.0-setup.exe",
+    "url": "http://ftp.osuosl.org/pub/deluge/windows/deluge-2.2.0-win32-lt2.0-setup.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Deluge",
+    "version": "2.2.0",
+    "file_name": "deluge-2.2.0-win32-setup.exe",
+    "url": "http://ftp.osuosl.org/pub/deluge/windows/deluge-2.2.0-win32-setup.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Deluge",
+    "version": "2.2.0",
+    "file_name": "deluge-2.2.0-win64-lt2.0-setup.exe",
+    "url": "http://ftp.osuosl.org/pub/deluge/windows/deluge-2.2.0-win64-lt2.0-setup.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Deluge",
+    "version": "2.2.0",
+    "file_name": "deluge-2.2.0-win64-setup.exe",
+    "url": "http://ftp.osuosl.org/pub/deluge/windows/deluge-2.2.0-win64-setup.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Deluge",
+    "version": "1.3.15.1",
+    "file_name": "deluge-1.3.15.1-macosx-x64.dmg",
+    "url": "http://ftp.osuosl.org/pub/deluge/mac_osx/deluge-1.3.15.1-macosx-x64.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Deluge",
+    "version": "2.2",
+    "file_name": "deluge-2.2.0.tar.xz",
+    "url": "http://ftp.osuosl.org/pub/deluge/source/2.2/deluge-2.2.0.tar.xz",
+    "platform": "Source",
+    "architecture": "Unknown"
+  }
+]

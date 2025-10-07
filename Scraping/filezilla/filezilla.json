@@ -1,0 +1,9 @@
+[
+  {
+    "product": "filezilla",
+    "version": "unknown",
+    "file_name": "download.php",
+    "download_url": "https://filezilla-project.org/download.php?platform=linux64",
+    "platform": "Linux-64"
+  }
+]

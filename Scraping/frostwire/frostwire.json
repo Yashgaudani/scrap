@@ -1,0 +1,50 @@
+[
+  {
+    "product": "FrostWire",
+    "version": "6.14.0",
+    "file_name": "frostwire-6.14.0-arm64.dmg",
+    "url": "https://github.com/frostwire/frostwire/releases/download/frostwire-desktop-6.14.0-build-326/frostwire-6.14.0-arm64.dmg",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "FrostWire",
+    "version": "6.14.0",
+    "file_name": "frostwire-6.14.0-x86_64.dmg",
+    "url": "https://github.com/frostwire/frostwire/releases/download/frostwire-desktop-6.14.0-build-326/frostwire-6.14.0-x86_64.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "FrostWire",
+    "version": "6.14.0",
+    "file_name": "frostwire-6.14.0.amd64.deb",
+    "url": "https://github.com/frostwire/frostwire/releases/download/frostwire-desktop-6.14.0-build-326/frostwire-6.14.0.amd64.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "FrostWire",
+    "version": "6.14.0",
+    "file_name": "frostwire-6.14.0.amd64.tar.gz",
+    "url": "https://github.com/frostwire/frostwire/releases/download/frostwire-desktop-6.14.0-build-326/frostwire-6.14.0.amd64.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "FrostWire",
+    "version": "6.14.0",
+    "file_name": "frostwire-6.14.0.windows.exe",
+    "url": "https://github.com/frostwire/frostwire/releases/download/frostwire-desktop-6.14.0-build-326/frostwire-6.14.0.windows.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "FrostWire",
+    "version": "6.14.0",
+    "file_name": "frostwire-6.14.0.windows.unsigned.exe",
+    "url": "https://github.com/frostwire/frostwire/releases/download/frostwire-desktop-6.14.0-build-326/frostwire-6.14.0.windows.unsigned.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "product": "GanttProject",
+    "version": "3.3.3316",
+    "file_name": "ganttproject-3.3.3316-intel.dmg",
+    "url": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.3.3316/ganttproject-3.3.3316-intel.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "GanttProject",
+    "version": "3.3.3316",
+    "file_name": "ganttproject-3.3.3316-silicon.dmg",
+    "url": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.3.3316/ganttproject-3.3.3316-silicon.dmg",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "GanttProject",
+    "version": "3.3.3316",
+    "file_name": "ganttproject-3.3.3316.exe",
+    "url": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.3.3316/ganttproject-3.3.3316.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "GanttProject",
+    "version": "3.3.3316",
+    "file_name": "ganttproject-3.3.3316.msi",
+    "url": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.3.3316/ganttproject-3.3.3316.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "GanttProject",
+    "version": "3.3.3316",
+    "file_name": "ganttproject-3.3.3316.zip",
+    "url": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.3.3316/ganttproject-3.3.3316.zip",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "GanttProject",
+    "version": "3.3.3316",
+    "file_name": "ganttproject_3.3.3316-1_all.deb",
+    "url": "https://github.com/bardsoftware/ganttproject/releases/download/ganttproject-3.3.3316/ganttproject_3.3.3316-1_all.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  }
+]

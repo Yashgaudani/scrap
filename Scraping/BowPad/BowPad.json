@@ -1,0 +1,50 @@
+[
+  {
+    "product": "BowPad",
+    "version": "2.9.5",
+    "file_name": "BowPad-2.9.5-portable.zip",
+    "url": "https://github.com/stefankueng/BowPad/releases/download/2.9.5/BowPad-2.9.5-portable.zip",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "BowPad",
+    "version": "2.9.5",
+    "file_name": "BowPad-2.9.5.msi",
+    "url": "https://github.com/stefankueng/BowPad/releases/download/2.9.5/BowPad-2.9.5.msi",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "BowPad",
+    "version": "2.9.5",
+    "file_name": "BowPad64-2.9.5-portable.zip",
+    "url": "https://github.com/stefankueng/BowPad/releases/download/2.9.5/BowPad64-2.9.5-portable.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "BowPad",
+    "version": "2.9.5",
+    "file_name": "BowPad64-2.9.5.msi",
+    "url": "https://github.com/stefankueng/BowPad/releases/download/2.9.5/BowPad64-2.9.5.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "BowPad",
+    "version": "2.9.5",
+    "file_name": "BowPadARM64-2.9.5-portable.zip",
+    "url": "https://github.com/stefankueng/BowPad/releases/download/2.9.5/BowPadARM64-2.9.5-portable.zip",
+    "platform": "Windows",
+    "architecture": "ARM64"
+  },
+  {
+    "product": "BowPad",
+    "version": "2.9.5",
+    "file_name": "BowPadARM64-2.9.5.msi",
+    "url": "https://github.com/stefankueng/BowPad/releases/download/2.9.5/BowPadARM64-2.9.5.msi",
+    "platform": "Windows",
+    "architecture": "ARM64"
+  }
+]

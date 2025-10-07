@@ -1,0 +1,90 @@
+[
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar-1.5.1-1.aarch64.rpm",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar-1.5.1-1.aarch64.rpm",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar-1.5.1-1.armv7.rpm",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar-1.5.1-1.armv7.rpm",
+    "platform": "Linux",
+    "architecture": "armv7"
+  },
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar-1.5.1-1.i386.rpm",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar-1.5.1-1.i386.rpm",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar-1.5.1-1.msi",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar-1.5.1-1.msi",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar-1.5.1-1.x86_64.rpm",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar-1.5.1-1.x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "amd64"
+  },
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar-1.5.1.tar.gz",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar-1.5.1.tar.gz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar.1.5.1.1.nupkg",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar.1.5.1.1.nupkg",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar_1.5.1-1_amd64.deb",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar_1.5.1-1_amd64.deb",
+    "platform": "Linux",
+    "architecture": "amd64"
+  },
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar_1.5.1-1_arm64.deb",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar_1.5.1-1_arm64.deb",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar_1.5.1-1_armv7.deb",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar_1.5.1-1_armv7.deb",
+    "platform": "Linux",
+    "architecture": "armv7"
+  },
+  {
+    "product": "Graylog Sidecar",
+    "version": "1.5.1",
+    "file_name": "graylog-sidecar_1.5.1-1_i386.deb",
+    "url": "https://github.com/Graylog2/collector-sidecar/releases/download/1.5.1/graylog-sidecar_1.5.1-1_i386.deb",
+    "platform": "Linux",
+    "architecture": "x86"
+  }
+]

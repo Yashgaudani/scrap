@@ -1,0 +1,74 @@
+[
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.7.0",
+    "file_name": "CrystalDiskInfo9_7_0ShizukuAds.exe",
+    "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.7.0/CrystalDiskInfo9_7_0ShizukuAds.exe/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.7.0",
+    "file_name": "CrystalDiskInfo9_7_0Ads.exe",
+    "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.7.0/CrystalDiskInfo9_7_0Ads.exe/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.7.0",
+    "file_name": "CrystalDiskInfo9_7_0AoiAds.exe",
+    "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.7.0/CrystalDiskInfo9_7_0AoiAds.exe/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.7.0",
+    "file_name": "CrystalDiskInfo9_7_0Shizuku.zip",
+    "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.7.0/CrystalDiskInfo9_7_0Shizuku.zip/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.7.0",
+    "file_name": "CrystalDiskInfo9_7_0KureiKei.exe",
+    "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.7.0/CrystalDiskInfo9_7_0KureiKei.exe/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.7.0",
+    "file_name": "CrystalDiskInfo9_7_0KureiKei.zip",
+    "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.7.0/CrystalDiskInfo9_7_0KureiKei.zip/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.7.0",
+    "file_name": "CrystalDiskInfo9_7_0Aoi.zip",
+    "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.7.0/CrystalDiskInfo9_7_0Aoi.zip/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.7.0",
+    "file_name": "CrystalDiskInfo9_7_0Src.zip",
+    "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.7.0/CrystalDiskInfo9_7_0Src.zip/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "CrystalDiskMark",
+    "version": "9.7.0",
+    "file_name": "CrystalDiskInfo9_7_0.zip",
+    "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.7.0/CrystalDiskInfo9_7_0.zip/download",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  }
+]

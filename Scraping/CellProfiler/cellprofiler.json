@@ -1,0 +1,18 @@
+[
+  {
+    "product": "CellProfiler",
+    "version": "4.2.8",
+    "file_name": "CellProfiler-macOS-4.2.8.zip",
+    "url": "https://github.com/CellProfiler/CellProfiler/releases/download/v4.2.8/CellProfiler-macOS-4.2.8.zip",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "CellProfiler",
+    "version": "4.2.8",
+    "file_name": "CellProfiler-Windows-4.2.8.exe",
+    "url": "https://github.com/CellProfiler/CellProfiler/releases/download/v4.2.8/CellProfiler-Windows-4.2.8.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "product": "Inkscape",
+    "version": "Unknown",
+    "file_name": "Inkscape-ebf0e94-x86_64.AppImage",
+    "url": "https://inkscape.org/gallery/item/56343/Inkscape-ebf0e94-x86_64.AppImage",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Inkscape",
+    "version": "1.4.230579",
+    "file_name": "Inkscape-1.4.230579_x86_64.dmg",
+    "url": "https://inkscape.org/gallery/item/56347/Inkscape-1.4.230579_x86_64.dmg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Inkscape",
+    "version": "1.4.230579",
+    "file_name": "Inkscape-1.4.230579_arm64.dmg",
+    "url": "https://inkscape.org/gallery/item/56348/Inkscape-1.4.230579_arm64.dmg",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Inkscape",
+    "version": "1.4.2",
+    "file_name": "inkscape-1.4.2_2025-05-13_f4327f4-x64.exe",
+    "url": "https://inkscape.org/gallery/item/56341/inkscape-1.4.2_2025-05-13_f4327f4-x64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Inkscape",
+    "version": "1.4.2",
+    "file_name": "inkscape-1.4.2_2025-05-13_f4327f4-x64.msi",
+    "url": "https://inkscape.org/gallery/item/56340/inkscape-1.4.2_2025-05-13_f4327f4-x64.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Inkscape",
+    "version": "1.4.2",
+    "file_name": "inkscape-1.4.2_2025-05-13_f4327f4-x64.7z",
+    "url": "https://inkscape.org/gallery/item/56342/inkscape-1.4.2_2025-05-13_f4327f4-x64.7z",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Inkscape",
+    "version": "1.4.2",
+    "file_name": "inkscape-1.4.2.tar.xz",
+    "url": "https://inkscape.org/gallery/item/56344/inkscape-1.4.2.tar.xz",
+    "platform": "Linux",
+    "architecture": "Unknown"
+  }
+]

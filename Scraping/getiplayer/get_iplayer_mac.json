@@ -1,0 +1,18 @@
+[
+  {
+    "product": "Get_iplayer",
+    "version": "3.36.0",
+    "file_name": "get_iplayer-3.36.0-windows-x64-setup.exe",
+    "url": "https://github.com/get-iplayer/get_iplayer_win32/releases/download/3.36.0/get_iplayer-3.36.0-windows-x64-setup.exe",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Get_iplayer",
+    "version": "3.36.0",
+    "file_name": "get_iplayer-3.36.0-windows-x86-setup.exe",
+    "url": "https://github.com/get-iplayer/get_iplayer_win32/releases/download/3.36.0/get_iplayer-3.36.0-windows-x86-setup.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  }
+]

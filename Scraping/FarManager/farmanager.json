@@ -1,0 +1,74 @@
+[
+  {
+    "product": "Far Manager",
+    "version": "64.3.0.6519",
+    "file_name": "Far.ARM64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.7z",
+    "url": "https://github.com/FarGroup/FarManager/releases/download/ci/v3.0.6519.4425/Far.ARM64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.7z",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Far Manager",
+    "version": "64.3.0.6519",
+    "file_name": "Far.ARM64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.msi",
+    "url": "https://github.com/FarGroup/FarManager/releases/download/ci/v3.0.6519.4425/Far.ARM64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.msi",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Far Manager",
+    "version": "64.3.0.6519",
+    "file_name": "Far.ARM64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.pdb.7z",
+    "url": "https://github.com/FarGroup/FarManager/releases/download/ci/v3.0.6519.4425/Far.ARM64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.pdb.7z",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Far Manager",
+    "version": "64.3.0.6519",
+    "file_name": "Far.x64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.7z",
+    "url": "https://github.com/FarGroup/FarManager/releases/download/ci/v3.0.6519.4425/Far.x64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.7z",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Far Manager",
+    "version": "64.3.0.6519",
+    "file_name": "Far.x64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.msi",
+    "url": "https://github.com/FarGroup/FarManager/releases/download/ci/v3.0.6519.4425/Far.x64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Far Manager",
+    "version": "64.3.0.6519",
+    "file_name": "Far.x64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.pdb.7z",
+    "url": "https://github.com/FarGroup/FarManager/releases/download/ci/v3.0.6519.4425/Far.x64.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.pdb.7z",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Far Manager",
+    "version": "86.3.0.6519",
+    "file_name": "Far.x86.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.7z",
+    "url": "https://github.com/FarGroup/FarManager/releases/download/ci/v3.0.6519.4425/Far.x86.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.7z",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Far Manager",
+    "version": "86.3.0.6519",
+    "file_name": "Far.x86.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.msi",
+    "url": "https://github.com/FarGroup/FarManager/releases/download/ci/v3.0.6519.4425/Far.x86.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.msi",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Far Manager",
+    "version": "86.3.0.6519",
+    "file_name": "Far.x86.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.pdb.7z",
+    "url": "https://github.com/FarGroup/FarManager/releases/download/ci/v3.0.6519.4425/Far.x86.3.0.6519.4425.c7f6cef962ab297897c6c9ec45f3b24d8335714d.pdb.7z",
+    "platform": "Windows",
+    "architecture": "x86"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "product": "Element Desktop",
+    "version": "1.11.106",
+    "file_name": "Element Setup 1.11.106.exe",
+    "url": "https://packages.element.io/desktop/install/win32/x64/Element Setup 1.11.106.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Element Desktop",
+    "version": "1.11.97",
+    "file_name": "Element Setup 1.11.97.exe",
+    "url": "https://packages.element.io/desktop/install/win32/ia32/Element Setup 1.11.97.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Element Desktop",
+    "version": "1.11.106",
+    "file_name": "Element Setup 1.11.106.exe",
+    "url": "https://packages.element.io/desktop/install/win32/arm64/Element Setup 1.11.106.exe",
+    "platform": "Windows",
+    "architecture": "ARM64"
+  },
+  {
+    "product": "Element Desktop",
+    "version": "1.11.106",
+    "file_name": "Element-1.11.106-universal.dmg",
+    "url": "https://packages.element.io/desktop/install/macos/Element-1.11.106-universal.dmg",
+    "platform": "macOS",
+    "architecture": "Universal"
+  },
+  {
+    "product": "Element Desktop",
+    "version": "1.11.106",
+    "file_name": "element-desktop-1.11.106.tar.gz",
+    "url": "https://packages.element.io/desktop/install/linux/glibc-x86-64/element-desktop-1.11.106.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Element Desktop",
+    "version": "1.11.106",
+    "file_name": "element-desktop-1.11.106-arm64.tar.gz",
+    "url": "https://packages.element.io/desktop/install/linux/glibc-aarch64/element-desktop-1.11.106-arm64.tar.gz",
+    "platform": "Linux",
+    "architecture": "ARM64"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-amd64.pkg",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-amd64.pkg",
+    "platform": "macOS",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-arm64.pkg",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-arm64.pkg",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-darwin-amd64.tgz",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-darwin-amd64.tgz",
+    "platform": "macOS",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-darwin-arm64.tgz",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-darwin-arm64.tgz",
+    "platform": "macOS",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-fips-linux-amd64",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-fips-linux-amd64",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-fips-linux-amd64.deb",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-fips-linux-amd64.deb",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-fips-linux-x86_64.rpm",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-fips-linux-x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-386",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-386",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-386.deb",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-386.deb",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-386.rpm",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-386.rpm",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-aarch64.rpm",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-aarch64.rpm",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-amd64",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-amd64",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-amd64.deb",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-amd64.deb",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-arm",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-arm",
+    "platform": "Linux",
+    "architecture": "arm"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-arm.deb",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-arm.deb",
+    "platform": "Linux",
+    "architecture": "arm"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-arm.rpm",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-arm.rpm",
+    "platform": "Linux",
+    "architecture": "arm"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-arm64",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-arm64",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-arm64.deb",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-arm64.deb",
+    "platform": "Linux",
+    "architecture": "arm64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-armhf",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-armhf",
+    "platform": "Linux",
+    "architecture": "armhf"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-armhf.deb",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-armhf.deb",
+    "platform": "Linux",
+    "architecture": "armhf"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-armhf.rpm",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-armhf.rpm",
+    "platform": "Linux",
+    "architecture": "armhf"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-linux-x86_64.rpm",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-linux-x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-windows-386.exe",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-windows-386.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-windows-386.msi",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-windows-386.msi",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-windows-amd64.exe",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-windows-amd64.exe",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Cloudflared",
+    "version": "2025.7.0",
+    "file_name": "cloudflared-windows-amd64.msi",
+    "url": "https://github.com/cloudflare/cloudflared/releases/download/2025.7.0/cloudflared-windows-amd64.msi",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  }
+]

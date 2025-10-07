@@ -1,0 +1,66 @@
+[
+  {
+    "product": "DupeGuru",
+    "version": "4.3.1",
+    "file_name": "dupeguru-4.3.1-2.x86_64.rpm",
+    "url": "https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeguru-4.3.1-2.x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "DupeGuru",
+    "version": "4.3.1",
+    "file_name": "dupeguru-win32_4.3.1.zip",
+    "url": "https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeguru-win32_4.3.1.zip",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "DupeGuru",
+    "version": "4.3.1",
+    "file_name": "dupeguru-win64_4.3.1.zip",
+    "url": "https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeguru-win64_4.3.1.zip",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "DupeGuru",
+    "version": "4.3.1",
+    "file_name": "dupeguru_4.3.1.tar.xz",
+    "url": "https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeguru_4.3.1.tar.xz",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "DupeGuru",
+    "version": "4.3.1",
+    "file_name": "dupeguru_4.3.1_amd64.deb",
+    "url": "https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeguru_4.3.1_amd64.deb",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "DupeGuru",
+    "version": "4.3.1",
+    "file_name": "dupeguru_macOS_Qt_4.3.1.zip",
+    "url": "https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeguru_macOS_Qt_4.3.1.zip",
+    "platform": "macOS",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "DupeGuru",
+    "version": "4.3.1",
+    "file_name": "dupeGuru_win32_4.3.1.exe",
+    "url": "https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeGuru_win32_4.3.1.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "DupeGuru",
+    "version": "4.3.1",
+    "file_name": "dupeGuru_win64_4.3.1.exe",
+    "url": "https://github.com/arsenetar/dupeguru/releases/download/4.3.1/dupeGuru_win64_4.3.1.exe",
+    "platform": "Windows",
+    "architecture": "x86_64"
+  }
+]

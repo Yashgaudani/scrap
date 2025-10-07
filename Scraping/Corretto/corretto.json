@@ -1,0 +1,114 @@
+[
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "java-24-amazon-corretto-jdk_24.0.2.12-1_amd64.deb",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/java-24-amazon-corretto-jdk_24.0.2.12-1_amd64.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "java-24-amazon-corretto-devel-24.0.2.12-1.x86_64.rpm",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/java-24-amazon-corretto-devel-24.0.2.12-1.x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "amazon-corretto-24.0.2.12.1-linux-x64.tar.gz",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-linux-x64.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "java-24-amazon-corretto-jdk_24.0.2.12-1_arm64.deb",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/java-24-amazon-corretto-jdk_24.0.2.12-1_arm64.deb",
+    "platform": "Linux",
+    "architecture": "aarch64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "java-24-amazon-corretto-devel-24.0.2.12-1.aarch64.rpm",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/java-24-amazon-corretto-devel-24.0.2.12-1.aarch64.rpm",
+    "platform": "Linux",
+    "architecture": "aarch64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "amazon-corretto-24.0.2.12.1-linux-aarch64.tar.gz",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-linux-aarch64.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "amazon-corretto-24.0.2.12.1-windows-x64.msi",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-windows-x64.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "amazon-corretto-24.0.2.12.1-windows-x64-jdk.zip",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-windows-x64-jdk.zip",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "amazon-corretto-24.0.2.12.1-macosx-x64.pkg",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-macosx-x64.pkg",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "amazon-corretto-24.0.2.12.1-macosx-x64.tar.gz",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-macosx-x64.tar.gz",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "amazon-corretto-24.0.2.12.1-macosx-aarch64.pkg",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-macosx-aarch64.pkg",
+    "platform": "macOS",
+    "architecture": "aarch64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "amazon-corretto-24.0.2.12.1-macosx-aarch64.tar.gz",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-macosx-aarch64.tar.gz",
+    "platform": "macOS",
+    "architecture": "aarch64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "amazon-corretto-24.0.2.12.1-alpine-linux-x64.tar.gz",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-alpine-linux-x64.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Amazon Corretto",
+    "version": "24.0.2.12.1",
+    "file_name": "amazon-corretto-24.0.2.12.1-alpine-linux-aarch64.tar.gz",
+    "url": "https://corretto.aws/downloads/resources/24.0.2.12.1/amazon-corretto-24.0.2.12.1-alpine-linux-aarch64.tar.gz",
+    "platform": "Linux",
+    "architecture": "aarch64"
+  }
+]

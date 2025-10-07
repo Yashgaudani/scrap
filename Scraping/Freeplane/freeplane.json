@@ -1,0 +1,114 @@
+[
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "FreeplanePortable-1.12.11.paf.exe",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.12.11/FreeplanePortable-1.12.11.paf.exe/download",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "freeplane_1.12.11~upstream-1_all.deb",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.12.11/freeplane_1.12.11~upstream-1_all.deb/download",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "freeplane_bin-1.12.11.zip",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.12.11/freeplane_bin-1.12.11.zip/download",
+    "platform": "Other",
+    "architecture": "unknown"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "Freeplane-Setup-touchscreen-1.12.11.exe",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.12.11/Freeplane-Setup-touchscreen-1.12.11.exe/download",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "Freeplane-Setup-1.12.11.exe",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.12.11/Freeplane-Setup-1.12.11.exe/download",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "Freeplane-1.12.11-apple.dmg",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.12.11/Freeplane-1.12.11-apple.dmg/download",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "Freeplane-1.12.11-intel.dmg",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/archive/1.12.11/Freeplane-1.12.11-intel.dmg/download",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "FreeplanePortable-1.12.11.paf.exe",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/FreeplanePortable-1.12.11.paf.exe/download",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "freeplane_1.12.11~upstream-1_all.deb",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/freeplane_1.12.11~upstream-1_all.deb/download",
+    "platform": "Linux",
+    "architecture": "x86"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "freeplane_bin-1.12.11.zip",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/freeplane_bin-1.12.11.zip/download",
+    "platform": "Other",
+    "architecture": "unknown"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "Freeplane-Setup-1.12.11.exe",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/Freeplane-Setup-1.12.11.exe/download",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "Freeplane-Setup-touchscreen-1.12.11.exe",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/Freeplane-Setup-touchscreen-1.12.11.exe/download",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "Freeplane-1.12.11-intel.dmg",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/Freeplane-1.12.11-intel.dmg/download",
+    "platform": "macOS",
+    "architecture": "x64"
+  },
+  {
+    "product": "Freeplane",
+    "version": "1.12.11",
+    "file_name": "Freeplane-1.12.11-apple.dmg",
+    "url": "https://sourceforge.net/projects/freeplane/files/freeplane%20stable/Freeplane-1.12.11-apple.dmg/download",
+    "platform": "macOS",
+    "architecture": "x64"
+  }
+]

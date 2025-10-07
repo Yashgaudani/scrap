@@ -1,0 +1,154 @@
+[
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-linux-amd64.deb",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-linux-amd64.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-linux-amd64.snap",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-linux-amd64.snap",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-linux-x64.tar.gz",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-linux-x64.tar.gz",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-linux-x86_64.AppImage",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-linux-x86_64.AppImage",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-linux-x86_64.rpm",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-linux-x86_64.rpm",
+    "platform": "Linux",
+    "architecture": "x64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-mac.dmg",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-mac.dmg",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-mac.pkg",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-mac.pkg",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-mac.zip",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-mac.zip",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-mas.pkg",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-mas.pkg",
+    "platform": "Unknown",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-win-arm64.appx",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-win-arm64.appx",
+    "platform": "Windows",
+    "architecture": "ARM64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-win-arm64.exe",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-win-arm64.exe",
+    "platform": "Windows",
+    "architecture": "ARM64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-win-arm64.msi",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-win-arm64.msi",
+    "platform": "Windows",
+    "architecture": "ARM64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-win-ia32.appx",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-win-ia32.appx",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-win-ia32.exe",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-win-ia32.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-win-ia32.msi",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-win-ia32.msi",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-win-x64.appx",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-win-x64.appx",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-win-x64.exe",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-win-x64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-win-x64.msi",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-win-x64.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Rocket.Chat",
+    "version": "4.7.1",
+    "file_name": "rocketchat-4.7.1-win.exe",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.7.1/rocketchat-4.7.1-win.exe",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  }
+]

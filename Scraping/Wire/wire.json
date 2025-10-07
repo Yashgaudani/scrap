@@ -1,0 +1,26 @@
+[
+  {
+    "product": "Wire Desktop",
+    "version": "3.40.5285",
+    "file_name": "Wire.pkg",
+    "url": "https://github.com/wireapp/wire-desktop/releases/download/macos/3.40.5285/Wire.pkg",
+    "platform": "macOS",
+    "architecture": "Universal"
+  },
+  {
+    "product": "Wire Desktop",
+    "version": "3.40.5217",
+    "file_name": "Wire-Setup.exe",
+    "url": "https://github.com/wireapp/wire-desktop/releases/download/windows/3.40.5217/Wire-Setup.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Wire Desktop",
+    "version": "3.40.3718",
+    "file_name": "Wire-3.40.3718_amd64.deb",
+    "url": "https://github.com/wireapp/wire-desktop/releases/download/linux/3.40.3718/Wire-3.40.3718_amd64.deb",
+    "platform": "Linux",
+    "architecture": "x64"
+  }
+]

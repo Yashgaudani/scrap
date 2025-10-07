@@ -1,0 +1,50 @@
+[
+  {
+    "product": "RubyInstaller",
+    "version": "RubyInstaller-3.4.5-1",
+    "file_name": "rubyinstaller-3.4.5-1-arm.exe",
+    "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-3.4.5-1-arm.exe",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "RubyInstaller",
+    "version": "RubyInstaller-3.4.5-1",
+    "file_name": "rubyinstaller-3.4.5-1-x64.exe",
+    "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-3.4.5-1-x64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "RubyInstaller",
+    "version": "RubyInstaller-3.4.5-1",
+    "file_name": "rubyinstaller-3.4.5-1-x86.exe",
+    "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-3.4.5-1-x86.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  },
+  {
+    "product": "RubyInstaller",
+    "version": "RubyInstaller-3.4.5-1",
+    "file_name": "rubyinstaller-devkit-3.4.5-1-arm.exe",
+    "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-arm.exe",
+    "platform": "Windows",
+    "architecture": "arm64"
+  },
+  {
+    "product": "RubyInstaller",
+    "version": "RubyInstaller-3.4.5-1",
+    "file_name": "rubyinstaller-devkit-3.4.5-1-x64.exe",
+    "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x64.exe",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "RubyInstaller",
+    "version": "RubyInstaller-3.4.5-1",
+    "file_name": "rubyinstaller-devkit-3.4.5-1-x86.exe",
+    "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.4.5-1/rubyinstaller-devkit-3.4.5-1-x86.exe",
+    "platform": "Windows",
+    "architecture": "x86"
+  }
+]

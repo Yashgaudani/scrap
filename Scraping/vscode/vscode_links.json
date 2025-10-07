@@ -2,64 +2,388 @@
   {
     "platform": "win",
     "product": "vscode",
-    "version": "1.101.0",
-    "filename": "win32-x64-user",
-    "url": "https://update.code.visualstudio.com/1.101.0/win32-x64-user/stable"
+    "version": "1.104.3",
+    "filename": "win32-x64",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/VSCodeSetup-x64-1.104.3.exe",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "system",
+      "content_length": "115018928",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "VSCodeSetup-x64-1.104.3.exe"
+    }
   },
   {
     "platform": "win",
     "product": "vscode",
-    "version": "1.101.0",
+    "version": "1.104.3",
+    "filename": "win32-arm64",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/VSCodeSetup-arm64-1.104.3.exe",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "system",
+      "content_length": "109430896",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "VSCodeSetup-arm64-1.104.3.exe"
+    }
+  },
+  {
+    "platform": "win",
+    "product": "vscode",
+    "version": "1.104.3",
+    "filename": "win32-x64-user",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/VSCodeUserSetup-x64-1.104.3.exe",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "user",
+      "content_length": "115049368",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "VSCodeUserSetup-x64-1.104.3.exe"
+    }
+  },
+  {
+    "platform": "win",
+    "product": "vscode",
+    "version": "1.104.3",
     "filename": "win32-arm64-user",
-    "url": "https://update.code.visualstudio.com/1.101.0/win32-arm64-user/stable"
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/VSCodeUserSetup-arm64-1.104.3.exe",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "user",
+      "content_length": "109459464",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "VSCodeUserSetup-arm64-1.104.3.exe"
+    }
   },
   {
-    "platform": "mac",
+    "platform": "win",
     "product": "vscode",
-    "version": "1.101.0",
-    "filename": "darwin-universal",
-    "url": "https://update.code.visualstudio.com/1.101.0/darwin-universal/stable"
+    "version": "1.104.3",
+    "filename": "win32-x64-archive",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/VSCode-win32-x64-1.104.3.zip",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "portable",
+      "content_length": "161120434",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "VSCode-win32-x64-1.104.3.zip"
+    }
   },
   {
-    "platform": "mac",
+    "platform": "win",
     "product": "vscode",
-    "version": "1.101.0",
-    "filename": "darwin",
-    "url": "https://update.code.visualstudio.com/1.101.0/darwin/stable"
+    "version": "1.104.3",
+    "filename": "win32-arm64-archive",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/VSCode-win32-arm64-1.104.3.zip",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "portable",
+      "content_length": "158947889",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "VSCode-win32-arm64-1.104.3.zip"
+    }
   },
   {
-    "platform": "mac",
+    "platform": "win",
     "product": "vscode",
-    "version": "1.101.0",
-    "filename": "darwin-arm64",
-    "url": "https://update.code.visualstudio.com/1.101.0/darwin-arm64/stable"
+    "version": "unknown",
+    "filename": "cli-win32-x64",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/vscode_cli_win32_x64_cli.zip",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "portable",
+      "content_length": "8072676",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "vscode_cli_win32_x64_cli.zip"
+    }
+  },
+  {
+    "platform": "win",
+    "product": "vscode",
+    "version": "unknown",
+    "filename": "cli-win32-arm64",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/vscode_cli_win32_arm64_cli.zip",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "portable",
+      "content_length": "7197921",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "vscode_cli_win32_arm64_cli.zip"
+    }
   },
   {
     "platform": "linux",
     "product": "vscode",
-    "version": "1.101.0",
+    "version": "1.104.3",
     "filename": "linux-deb-x64",
-    "url": "https://update.code.visualstudio.com/1.101.0/linux-deb-x64/stable"
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/code_1.104.3-1759409451_amd64.deb",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "113135502",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "code_1.104.3-1759409451_amd64.deb"
+    }
   },
   {
     "platform": "linux",
     "product": "vscode",
-    "version": "1.101.0",
+    "version": "1.104.3",
+    "filename": "linux-deb-armhf",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/code_1.104.3-1759409496_armhf.deb",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "103271538",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "code_1.104.3-1759409496_armhf.deb"
+    }
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "1.104.3",
+    "filename": "linux-deb-arm64",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/code_1.104.3-1759409526_arm64.deb",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "104386466",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "code_1.104.3-1759409526_arm64.deb"
+    }
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "1.104.3",
     "filename": "linux-rpm-x64",
-    "url": "https://update.code.visualstudio.com/1.101.0/linux-rpm-x64/stable"
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/code-1.104.3-1759409494.el8.x86_64.rpm",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "161452818",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "code-1.104.3-1759409494.el8.x86_64.rpm"
+    }
   },
   {
     "platform": "linux",
     "product": "vscode",
-    "version": "1.101.0",
+    "version": "1.104.3",
+    "filename": "linux-rpm-armhf",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/code-1.104.3-1759409535.el8.armv7hl.rpm",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "146282882",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "code-1.104.3-1759409535.el8.armv7hl.rpm"
+    }
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "1.104.3",
+    "filename": "linux-rpm-arm64",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/code-1.104.3-1759409571.el8.aarch64.rpm",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "157555477",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "code-1.104.3-1759409571.el8.aarch64.rpm"
+    }
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "unknown",
     "filename": "linux-x64",
-    "url": "https://update.code.visualstudio.com/1.101.0/linux-x64/stable"
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/code-stable-x64-1759409365.tar.gz",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "160726668",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "code-stable-x64-1759409365.tar.gz"
+    }
   },
   {
     "platform": "linux",
     "product": "vscode",
-    "version": "1.101.0",
-    "filename": "linux-snap-x64",
-    "url": "https://update.code.visualstudio.com/1.101.0/linux-snap-x64/stable"
+    "version": "unknown",
+    "filename": "linux-armhf",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/code-stable-armhf-1759409415.tar.gz",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "145255822",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "code-stable-armhf-1759409415.tar.gz"
+    }
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "unknown",
+    "filename": "linux-arm64",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/code-stable-arm64-1759409439.tar.gz",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "156625254",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "code-stable-arm64-1759409439.tar.gz"
+    }
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "unknown",
+    "filename": "cli-linux-x64",
+    "url": "https://code.visualstudio.com/sha/download?build=stable&os=cli-linux-x64",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 404,
+      "installer_type": "portable",
+      "content_length": "9",
+      "content_type": "text/plain; charset=utf-8",
+      "cdn_filename": "download"
+    }
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "unknown",
+    "filename": "cli-linux-armhf",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/vscode_cli_linux_armhf_cli.tar.gz",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "portable",
+      "content_length": "9130929",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "vscode_cli_linux_armhf_cli.tar.gz"
+    }
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "unknown",
+    "filename": "cli-linux-arm64",
+    "url": "https://code.visualstudio.com/sha/download?build=stable&os=cli-linux-arm64",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 404,
+      "installer_type": "portable",
+      "content_length": "9",
+      "content_type": "text/plain; charset=utf-8",
+      "cdn_filename": "download"
+    }
+  },
+  {
+    "platform": "mac",
+    "product": "vscode",
+    "version": "unknown",
+    "filename": "darwin-x64",
+    "url": "https://code.visualstudio.com/sha/download?build=stable&os=darwin-x64",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 404,
+      "installer_type": "package",
+      "content_length": "9",
+      "content_type": "text/plain; charset=utf-8",
+      "cdn_filename": "download"
+    }
+  },
+  {
+    "platform": "mac",
+    "product": "vscode",
+    "version": "unknown",
+    "filename": "darwin-arm64",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/VSCode-darwin-arm64.zip",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "154130281",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "VSCode-darwin-arm64.zip"
+    }
+  },
+  {
+    "platform": "mac",
+    "product": "vscode",
+    "version": "unknown",
+    "filename": "darwin-universal",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/VSCode-darwin-universal.zip",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "package",
+      "content_length": "260706177",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "VSCode-darwin-universal.zip"
+    }
+  },
+  {
+    "platform": "mac",
+    "product": "vscode",
+    "version": "unknown",
+    "filename": "cli-darwin-x64",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/vscode_cli_darwin_x64_cli.zip",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "portable",
+      "content_length": "7264831",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "vscode_cli_darwin_x64_cli.zip"
+    }
+  },
+  {
+    "platform": "mac",
+    "product": "vscode",
+    "version": "unknown",
+    "filename": "cli-darwin-arm64",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/385651c938df8a906869babee516bffd0ddb9829/vscode_cli_darwin_arm64_cli.zip",
+    "_meta": {
+      "quality": "stable",
+      "status_code": 200,
+      "installer_type": "portable",
+      "content_length": "6573196",
+      "content_type": "application/octet-stream",
+      "cdn_filename": "vscode_cli_darwin_arm64_cli.zip"
+    }
+  },
+  {
+    "platform": "linux",
+    "product": "vscode",
+    "version": "store-channel",
+    "filename": "snap-store",
+    "url": "https://snapcraft.io/code",
+    "_meta": {
+      "quality": "stable",
+      "installer_type": "store",
+      "note": "Install from Snap Store (no direct file download URL)."
+    }
   }
 ]

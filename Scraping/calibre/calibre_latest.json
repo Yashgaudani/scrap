@@ -1,0 +1,50 @@
+[
+  {
+    "product": "Calibre",
+    "version": "8.7.0",
+    "file_name": "calibre-64bit-8.7.0.msi",
+    "url": "https://github.com/kovidgoyal/calibre/releases/download/v8.7.0/calibre-64bit-8.7.0.msi",
+    "platform": "Windows",
+    "architecture": "x64"
+  },
+  {
+    "product": "Calibre",
+    "version": "8.7.0",
+    "file_name": "calibre-8.7.0-arm64.txz",
+    "url": "https://github.com/kovidgoyal/calibre/releases/download/v8.7.0/calibre-8.7.0-arm64.txz",
+    "platform": "Linux",
+    "architecture": "ARM64"
+  },
+  {
+    "product": "Calibre",
+    "version": "8.7.0",
+    "file_name": "calibre-8.7.0-x86_64.txz",
+    "url": "https://github.com/kovidgoyal/calibre/releases/download/v8.7.0/calibre-8.7.0-x86_64.txz",
+    "platform": "Linux",
+    "architecture": "x86_64"
+  },
+  {
+    "product": "Calibre",
+    "version": "8.7.0",
+    "file_name": "calibre-8.7.0.dmg",
+    "url": "https://github.com/kovidgoyal/calibre/releases/download/v8.7.0/calibre-8.7.0.dmg",
+    "platform": "macOS",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Calibre",
+    "version": "8.7.0",
+    "file_name": "calibre-8.7.0.tar.xz",
+    "url": "https://github.com/kovidgoyal/calibre/releases/download/v8.7.0/calibre-8.7.0.tar.xz",
+    "platform": "Unknown",
+    "architecture": "Unknown"
+  },
+  {
+    "product": "Calibre",
+    "version": "8.7.0",
+    "file_name": "calibre-portable-installer-8.7.0.exe",
+    "url": "https://github.com/kovidgoyal/calibre/releases/download/v8.7.0/calibre-portable-installer-8.7.0.exe",
+    "platform": "Windows",
+    "architecture": "Unknown"
+  }
+]
